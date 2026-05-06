@@ -58,7 +58,10 @@
                 citation-text="Southern Equality"
                 citation-url="https://southernequality.org/hb0754/"
             />
-            <ParagraphBlock text="Again, the " />
+            <ParagraphBlock
+                label="Gender Identity and Detention"
+                text="Transgender and nonbinary individuals face unique challenges within immigration enforcement and detention systems. Many experience heightened risks of harassment and physical or sexual assault while in detention. Access to gender-affirming healthcare, including hormone therapy and mental health support, is often limited or entirely denied, which can exacerbate dysphoria and psychological distress. Advocates emphasize the need for policies that respect gender identity, provide necessary medical care, and ensure safety and dignity for all detainees."
+            />
         </section>
     </div>
 </template>

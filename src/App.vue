@@ -8,6 +8,7 @@ import ParagraphBlock from "./components/ParagraphBlock.vue";
 import GovActionCard from "./components/GovActionCard.vue";
 import StanceCard from "./components/StanceCard.vue";
 import colors from "./data/colors.json";
+import TriggerWarning from "./components/TriggerWarning.vue";
 import TwoArguments from "./components/TwoArguments.vue";
 import SiteHeader from "./components/SiteHeader.vue";
 const showOverlay = ref(false);
@@ -19,6 +20,7 @@ function openState(data) {
 }
 </script>
 <template>
+    <TriggerWarning />
     <SiteHeader
         title="The treatment of transgender individuals in the United States"
     />
@@ -41,7 +43,7 @@ function openState(data) {
         <SectionHeader title="My Stance" />
     </StackSplit>
     <StackSplit>
-        <SectionHeader title="The State" />
+        <SectionHeader title="The Bad - Discrimination By The State" />
         <IntroLayout />
     </StackSplit>
 
@@ -53,6 +55,17 @@ function openState(data) {
         <DriversLicenseContainer :data="colors" />
     </StackSplit>
 
+    <StackSplit>
+        <SectionHeader title="The Good - Community and Advocacy" />
+        <ParagraphBlock
+            label="Improving Access to Healthcare"
+            text="While healthcare is currently being targeted in the United States, for the time being Gender Affirming Care remains relatively accessible. Efforts to expand access have included increasaing the number of specialized clinics, training providers in inclusive car, and expanding access to rural communities with tools like telehealth."
+        />
+        <ParagraphBlock
+            label="Holistic care"
+            text="Ease of communication naturally lends itself to community driven care. For example, a transgender woman in somewhere like rural New Mexico historically would not have access to the same resources for voice training as someone else in a more populated, progressive part of the nation. With the use of technology and social media, access to community and care becomes more attainable."
+        />
+    </StackSplit>
     <StackSplit>
         <SectionHeader title="Arguments for The States Position" />
 
