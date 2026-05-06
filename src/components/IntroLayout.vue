@@ -14,6 +14,10 @@
                 citation-text="The Williams Institute"
                 citation-url="https://williamsinstitute.law.ucla.edu/press/trans-moving-press-release"
             />
+
+            <ParagraphBlock
+            label="The Right(?) to Vote"
+            text="At the same time identification is being legistlated for transgender people, there's a wider push to require ID to vote. This raises yet another barrier to trans peoples participation in the public life"
         </aside>
 
         <!-- RIGHT SIDE -->
