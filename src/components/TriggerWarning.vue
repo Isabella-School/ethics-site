@@ -4,8 +4,8 @@
             <h2>Trigger Warning</h2>
             <p>
                 This site contains discussions on sensitive topics, including
-                gender, healthcare, sexual assault, and discrimination. Some
-                content may be distressing.
+                gender, healthcare, sexual assault, discrimination, and
+                genocide. Some content may be distressing.
             </p>
             <div class="buttons">
                 <button @click="acknowledgeWarning">Acknowledge</button>
