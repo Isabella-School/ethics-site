@@ -24,25 +24,25 @@
 <script setup>
 import { computed } from "vue";
 
-const props = defineprops({
+const props = defineProps({
     title: {
-        type: string,
+        type: String,
         default: "my ethical position",
     },
     stance: {
-        type: string,
+        type: String,
         required: true, // "for", "against", or "neutral"
     },
     summary: {
-        type: string,
+        type: String,
         default: "",
     },
     points: {
-        type: array,
+        type: Array,
         default: () => [],
     },
     footer: {
-        type: string,
+        type: String,
         default: "",
     },
 });
@@ -76,6 +76,12 @@ const stanceclass = computed(() => {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border-left: 6px solid transparent;
     background: white;
+
+    /* Center all content */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 /* stance colors */
@@ -93,9 +99,10 @@ const stanceclass = computed(() => {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column; /* stack title and badge vertically */
     align-items: center;
     margin-bottom: 10px;
+    gap: 4px;
 }
 
 .title {
@@ -107,7 +114,6 @@ const stanceclass = computed(() => {
     font-size: 0.75rem;
     padding: 4px 10px;
     border-radius: 999px;
-    background: #eee;
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
@@ -135,6 +141,7 @@ const stanceclass = computed(() => {
 .points {
     margin: 10px 0;
     padding-left: 18px;
+    text-align: left; /* bullets still aligned */
 }
 
 .footer {

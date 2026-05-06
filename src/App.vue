@@ -40,7 +40,10 @@ function openState(data) {
         />
     </StackSplit>
     <StackSplit>
-        <SectionHeader title="My Stance" />
+        <StanceCard
+            stance="against"
+            summary="Under a Kantian framework, the state has a moral imperative to protect all its citizens, or at the very least refrain from targeting them"
+        />
     </StackSplit>
     <StackSplit>
         <SectionHeader title="The Bad - Discrimination By The State" />
