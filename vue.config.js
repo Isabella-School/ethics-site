@@ -1,3 +1,5 @@
-module.exports = {
-  publicPath: "/ethics-site/",
-};
+const { defineConfig } = require("@vue/cli-service");
+module.exports = defineConfig({
+  transpileDependencies: true,
+  publicPath: "ethics-site",
+});
