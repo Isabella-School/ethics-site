@@ -1,0 +1,183 @@
+{
+  "state": "Ohio",
+  "stateAbbreviation": "OH",
+  "bills": [
+    {
+      "bill_number": "HB155",
+      "description": "To amend sections 3314.03, 3326.11, and 3328.24 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools.",
+      "state": "OH",
+      "status": 1,
+      "title": "Prohibit diversity, equity, and inclusion in public schools",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of education of each city [...] shall adopt and enforce a policy that prohibits [...]: (1) Any orientation or training course regarding diversity, equity, and inclusion; [...] (3) Establishing new diversity, equity, and inclusion offices or departments; (4) Using diversity, equity, and inclusion in job descriptions; (5) Contracting with consultants or third-parties whose role is or would be to promote admissions, hiring, or promotion on [...] sex, sexual orientation, gender identity, or gender expression. (6) Replacing any orientation, training, office, or position designated for the purpose of diversity, equity, and inclusion that is prohibited under the policy with an orientation, training, office, or position under a different designation that serves the same or similar purposes, or that uses the same or similar means."
+      ],
+      "last_bill_action": "2025-03-06"
+    },
+    {
+      "bill_number": "HB172",
+      "description": "To amend sections 2151.461, 3129.03, 3313.473, 3798.07, and 3798.12 and to repeal section 5122.04 of the Revised Code to prohibit the provision of mental health services to minors without parental consent.",
+      "state": "OH",
+      "status": 1,
+      "title": "Prohibit mental health service to minors without parental consent",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "To repeal section 5122.04 of the Revised Code to prohibit the provision of mental health services to minors without parental consent."
+      ],
+      "last_bill_action": "2025-03-12"
+    },
+    {
+      "bill_number": "HB190",
+      "description": "To amend sections 3313.473, 3314.03, 3326.11, and 3328.24 and to enact section 3313.475 of the Revised Code to enact the Given Name Act regarding the use of gender pronouns in public schools.",
+      "state": "OH",
+      "status": 1,
+      "title": "Enact the Given Name Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(B)(1) A public school employee or contractor [...] shall not knowingly and intentionally address an unemancipated student under the age of eighteen by any of the following: (a) A name other than the name listed on the student's birth certificate [...] without the written permission of the student's parent, legal guardian, or custodian; (b) A pronoun or title that is inconsistent with the student's biological sex unless the employee or contractor has the written permission of the student's parent, legal guardian, or custodian."
+      ],
+      "last_bill_action": "2025-03-24"
+    },
+    {
+      "bill_number": "HB196",
+      "description": "To amend sections 3513.041, 3513.05, 3513.06, 3513.07, 3513.261, and 3513.271 and to enact section 3513.053 of the Revised Code to allow an elector who is not a member of a political party to protest a person's candidacy for that party's nomination on certain grounds and to provide space on candidacy forms for former names.",
+      "state": "OH",
+      "status": 1,
+      "title": "Regards candidate nomination protests, names on candidacy forms",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-03-24"
+    },
+    {
+      "bill_number": "HB249",
+      "description": "To amend sections 2907.09, 2907.39, and 4301.25 of the Revised Code to enact the Indecent Exposure Modernization Act.",
+      "state": "OH",
+      "status": 2,
+      "title": "Enact the Indecent Exposure Modernization Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Adult cabaret performance\" means a performance in a location other than an adult cabaret where minors may be present, that is harmful to juveniles or obscene, regardless of whether or not the performance is for consideration, and that features any of the following: (i) Topless dancers; (ii) Go-go dancers; (iii) Exotic dancers; (iv) Strippers; (v) Performers or entertainers who exhibit a gender identity that is different from the performer's or entertainer's biological sex using clothing, makeup, prosthetic or imitation genitals or breasts, or other physical markers; (vi) Other similar performers or entertainers who provide entertainment that appeals to a prurient interest."
+      ],
+      "last_bill_action": "2025-04-29"
+    },
+    {
+      "bill_number": "HB262",
+      "description": "To enact section 5.2541 of the Revised Code to designate the weeks between Mother's Day and Father's Day as \"Natural Family Month.\"",
+      "state": "OH",
+      "status": 1,
+      "title": "Designate Natural Family Month",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-05-13"
+    },
+    {
+      "bill_number": "HB29",
+      "description": "To enact sections 341.261, 753.321, and 5120.631 of the Revised Code regarding inmates' access to feminine hygiene products and showers by municipal and county correctional facilities and state correctional institutions.",
+      "state": "OH",
+      "status": 4,
+      "title": "Regards inmates' access to feminine hygiene products and showers",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Female means of or denoting the sex that can bear offspring or produce eggs and has XX chromosomes, distinguished biologically by the production of gametes or ova that can be fertilized by male gametes."
+      ],
+      "last_bill_action": "2025-01-28"
+    },
+    {
+      "bill_number": "HB457",
+      "description": "To amend sections 2903.01, 2929.01, 2929.12, 2929.14, and 2929.22 and to enact section 2941.1428 of the Revised Code to create new aggravated murder offenses for political motivation and political victims, to create a mandatory prison term for politically motivated offenses of violence, and to add political motivation to sentencing factors for felonies and misdemeanors.",
+      "state": "OH",
+      "status": 1,
+      "title": "Regards penalties for politically motivated criminal offenses",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The sentencing court shall consider all of the following that apply regarding the offender, the offense, or the victim, and any other relevant factors, as indicating that the offender's conduct is more serious than conduct normally constituting the offense: [...] (11) Whether the offender was motivated to commit the offense by the race, religion, elected or appointed position, political affiliation, political association, or biological sex of the victim.[...] (HHH) \"Biological sex\" means the biological indication of male and female, including sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth, without regard to an individual's psychological, chosen, or subjective experience of gender."
+      ],
+      "last_bill_action": "2025-09-17"
+    },
+    {
+      "bill_number": "HB6",
+      "description": "To amend sections 3335.02, 3335.09, 3337.01, 3339.01, 3341.02, 3343.02, 3344.01, 3345.45, 3350.10, 3352.01, 3356.01, 3359.01, 3361.01, 3362.01, 3364.01, 4117.14, and 4117.15; to enact new section 3333.045 and sections 3345.029, 3345.0216, 3345.0217, 3345.0218, 3345.0219, 3345.382, 3345.451, 3345.452, 3345.453, 3345.454, 3345.455, 3345.456, 3345.591, 3345.80, and 3345.88; and to repeal section 3333.045 of the Revised Code to enact the Advance Ohio Higher Education Act regarding the operation of state institutions of higher education.",
+      "state": "OH",
+      "status": 1,
+      "title": "Enact Advance Ohio Higher Education Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of trustees of each state institution of higher education shall adopt and enforce a policy that [...] prohibit[s] all of the following: (i) Any orientation or training course regarding diversity, equity, and inclusion; (ii) The continuation of existing diversity, equity, and inclusion offices or departments; (iii) Establishing new diversity, equity, and inclusion offices or departments; (iv) Using diversity, equity, and inclusion in job descriptions; (v) Contracting with consultants or third-parties whose role is or would be to promote admissions, hiring, or promotion on the basis of race, ethnicity, religion, sex, sexual orientation, gender identity, or gender expression; (vi) The establishment of any new institutional scholarships that use diversity, equity, and inclusion in any manner."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "HB693",
+      "description": "To amend sections 2151.412, 2151.426, 3109.04, 3109.054, and 3129.01 and to enact sections 2151.032, 3129.10, 3129.11, 3129.12, 3129.13, 3129.14, 3129.15, 3129.21, 3129.211, 3129.22, 3129.23, 3129.24, 3129.25, 3129.26, 3129.30, 3129.301, 3129.35, 3129.351, and 4743.15 of the Revised Code to enact the Affirming Families First Act and protect the right to affirm a minor child's sex.",
+      "state": "OH",
+      "status": 1,
+      "title": "Enact the Affirming Families First Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "In no event shall recognizing or affirming a child's sex be considered [...] abuse, neglect, or risk thereof; [...] contrary to the best interest of the child; [...] or creating an unsafe environment for the child."
+      ],
+      "last_bill_action": "2026-02-10"
+    },
+    {
+      "bill_number": "HB796",
+      "description": "To amend sections 751.08, 5120.10, and 5120.16 of the Revised Code to ensure that jail inmates, city infirmary inmates, and prisoners under control of the department of rehabilitation and correction are housed in accordance with their biological sex.",
+      "state": "OH",
+      "status": 1,
+      "title": "Ensure inmates, prisoners housed according to biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A political subdivision or affiliate of a political subdivision that operates a jail shall ensure that jail inmates are separated by biological sex, as defined in section 3129.01 of the Revised Code."
+      ],
+      "last_bill_action": "2026-03-25"
+    },
+    {
+      "bill_number": "HB798",
+      "description": "To amend sections 3314.03, 3319.90, 3326.11, 3345.90, 3705.08, 3705.16, 3705.20, 3705.21, 3705.22, 4117.10, 4506.01, 4506.16, and 4507.01 and to enact sections 9.071, 3313.475, 3345.561, 3755.01, 3755.02, 3755.03, and 4113.90 of the Revised Code to enact the Privacy Protection Act regarding biological sex, access to certain facilities, names and pronouns, and certain government-issued documents.",
+      "state": "OH",
+      "status": 1,
+      "title": "Enact the Privacy Protection Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Biological sex\" means the biological indication of male and female, including sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth, without regard to an individual's psychological, chosen, or subjective experience of gender. [...] (2) No institution of higher education shall knowingly permit a member of the female biological sex to use a student restroom, locker room, changing room, or shower room that has been designated by the school for the exclusive use of the male biological sex. No institution of higher education shall knowingly permit a member of the male biological sex to use a student restroom, locker room, changing room, or shower room that has been designated by the school for the exclusive use of the female biological sex."
+      ],
+      "last_bill_action": "2026-03-31"
+    },
+    {
+      "bill_number": "HB838",
+      "description": "To amend sections 4117.10, 5747.50, 5747.502, 5747.504, 5747.505, 5747.51, and 5747.53 and to enact sections 9.051, 5164.21, and 5747.506 of the Revised Code to prohibit coverage for gender reassignment surgery under Medicaid and state and local authority employee health insurance plans.",
+      "state": "OH",
+      "status": 1,
+      "title": "Prohibit certain coverage for gender reassignment surgery",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Neither the state or a local authority shall provide a policy, contract, or plan to its elected or appointed officers or employees that includes coverage, benefits, or services for gender reassignment surgery."
+      ],
+      "last_bill_action": "2026-04-30"
+    },
+    {
+      "bill_number": "SB113",
+      "description": "To amend sections 3314.03, 3326.11, and 3328.24 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools.",
+      "state": "OH",
+      "status": 1,
+      "title": "Prohibit diversity, equity, and inclusion in public schools",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of education [...] shall adopt and enforce a policy that prohibits all of the following: (1) Any orientation or training course regarding diversity, equity, and inclusion; (2) The continuation of existing diversity, equity, and inclusion offices or departments; (3) Establishing new diversity, equity, and inclusion  offices or departments; (4) Using diversity, equity, and inclusion in job descriptions; (5) Contracting with consultants or third-parties whose role is or would be to promote admissions, hiring, or promotion on the basis of [...] sex, sexual orientation, gender identity, or gender expression."
+      ],
+      "last_bill_action": "2025-02-25"
+    },
+    {
+      "bill_number": "SB274",
+      "description": "To amend sections 2151.461, 3129.03, 3313.473, 3798.07, and 3798.12 and to repeal section 5122.04 of the Revised Code to prohibit the provision of mental health services to minors without parental consent.",
+      "state": "OH",
+      "status": 1,
+      "title": "Prohibit minor mental health services without parental consent",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(A) ~~Notwithstanding section 5122.04 of the Revised Code, no~~ No mental health professional shall diagnose or treat a minor individual who presents for the diagnosis or treatment of a gender-related condition without first obtaining the consent of one of the following: (1) At least one parent of the minor individual; (2) At least one legal custodian of the minor individual; (3) The minor individual's guardian."
+      ],
+      "last_bill_action": "2025-09-30"
+    }
+  ],
+  "year": "2026"
+}

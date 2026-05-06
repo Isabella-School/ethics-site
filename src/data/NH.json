@@ -1,0 +1,317 @@
+{
+  "state": "New Hampshire",
+  "stateAbbreviation": "NH",
+  "bills": [
+    {
+      "bill_number": "HB1132",
+      "description": "Prohibiting the display of certain flags and banners in public schools and public charter schools and establishing penalties for the display of prohibited flags and banners.",
+      "state": "NH",
+      "status": 2,
+      "title": "Prohibiting the display of certain flags and banners in public schools and public charter schools and establishing penalties for the display of prohibited flags and banners.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "All public schools and public charter schools shall be prohibited from displaying any flag inside or outside of school buildings other than the flag of the United States of America, the New Hampshire state flag, and the POW/MIA flag."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1165",
+      "description": "Relative to gender designation on state-issued identification.",
+      "state": "NH",
+      "status": 1,
+      "title": "Relative to gender designation on state-issued identification.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The identification card shall bear the name, address, date of birth, gender indicated as \"M\" for \"male\" or \"F\" for \"female,\" ~~[or \"X\" for \"other,\"]~~"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1191",
+      "description": "Relative to parental notice for non-academic surveys in public schools.",
+      "state": "NH",
+      "status": 1,
+      "title": "Relative to parental notice for non-academic surveys in public schools.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The policy shall require school districts to notify a parent or legal guardian of a non-academic survey or questionnaire and its purpose. The policy shall provide that no student shall be required to volunteer for or submit to a non-academic survey or questionnaire [...] ~~[The policy shall include an exception from the consent requirement for the youth risk behavior survey developed by the Centers for Disease Control and Prevention. The policy shall also allow a parent or legal guardian to opt-out of the youth risk behavior survey developed by the Centers for Disease Control and Prevention.]~~ The school district shall make such surveys or questionnaires available, at the school and on the school or school district's website, for review by a student's parent or legal guardian<u>, and shall notify parents or legal guardians by sending such survey through email and any other means of delivery the district deems appropriate</u> at least 10 days prior to distribution to students. In this paragraph, \"non-academic survey or questionnaire\" means surveys, questionnaires, or other documents designed to elicit information about a student's social behavior, family life, religion, politics, sexual orientation, sexual activity, drug use, or any other information not related to a student's academics."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1217",
+      "description": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "state": "NH",
+      "status": 2,
+      "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1299",
+      "description": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
+      "state": "NH",
+      "status": 2,
+      "title": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It shall not be unlawful discrimination under this chapter or any other law for a public or private entity to separate individuals based by biological sex in multi-user facilities, athletic and sporting competitions, and correctional and treatment facilities, as defined in this section. [...] Biological sex shall mean either female or male as described by the sex listed on an individual's official birth certificate issued at or near the time of the individual's birth."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1345",
+      "description": "Requiring schools to establish rules related to the display of flags and designate students at each school to serve as the school's color guard.",
+      "state": "NH",
+      "status": 1,
+      "title": "Requiring schools to establish rules related to the display of flags and designate students at each school to serve as the school's color guard.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The only flags that may be displayed on public school property on a regular basis shall be the United States flag, the New Hampshire state flag, and the POW/MIA flag.  No other national flags, commercial, religious, political or activism flags, are allowed on school grounds or in classrooms."
+      ],
+      "last_bill_action": "2025-12-02"
+    },
+    {
+      "bill_number": "HB1356",
+      "description": "Relative to the statute of limitations for bringing a private right of action for violation of the statute prohibiting medical procedures and treatments intended to alter a minor's gender.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to the statute of limitations for bringing a private right of action for violation of the statute prohibiting medical procedures and treatments intended to alter a minor's gender.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual under 18 years of age may bring an action during their minority through a parent or next friend, or may bring an action in their own name upon reaching majority. A person shall bring a claim for a violation of this chapter no later than ~~2~~ <u>10 years<u> after the minor aggrieved by violation of this chapter reaches the age of majority."
+      ],
+      "last_bill_action": "2025-12-02"
+    },
+    {
+      "bill_number": "HB1376",
+      "description": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill exempts child rearing consistent with the child's biological sex from being considered within the definition of abused child and child endangerment. The bill also removes child rearing consistent with the child's biological sex from being a basis for findings relative to family law determinations, including: adoptions, child-placing agency licensing, and best interests of the child determinations. [...] A licensee's refusal, unwillingness, or lack of support for enabling a child to engage in gender transition shall not constitute endangerment. [...] The department or licensed child-placing agency shall not consider an adoptive parent's intention to raise a child or minor consistent with the child or minor's sex [...] as a basis for an assessment that an adoptive home is an unsuitable home for a minor child, or that the proposed adoption is not in the best interest of the child."
+      ],
+      "last_bill_action": "2025-12-02"
+    },
+    {
+      "bill_number": "HB1442",
+      "description": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "state": "NH",
+      "status": 2,
+      "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It shall be considered improper purpose to assert that gender identity provides access to any place or service provided or offered specifically to females or males. [...] School and municipal bathrooms and locker rooms shall be designated as male facilities and female facilities"
+      ],
+      "last_bill_action": "2025-12-04"
+    },
+    {
+      "bill_number": "HB1447",
+      "description": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+      "state": "NH",
+      "status": 2,
+      "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "I. \"Female\" is generally defined as an individual with a reproductive system of the type which in normal function produce ova, and specifically defined as an individual who lacks a functional Y chromosome.  A functional Y chromosome is a Y chromosome which expressed the SRY gene during fetal development.  A person with 46,XX/46,XY and functional ovarian tissue is a female.  II.  \"Male\" is generally defined as an individual with a reproductive system of the type which in normal function produce sperm.  Male shall include any person who does not meet the definition of female."
+      ],
+      "last_bill_action": "2025-12-04"
+    },
+    {
+      "bill_number": "HB1564",
+      "description": "Removing all references of gender identity in New Hampshire statutes.",
+      "state": "NH",
+      "status": 1,
+      "title": "Removing all references of gender identity in New Hampshire statutes.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No government program shall teach, advocate, or advance any one or more of the following: [...] age, sex, ~~gender identity,~~ sexual orientation, race, creed, color, marital status, familial status, mental or physical disability, religion, or national origin; [...] practices of discrimination against any of its inhabitants because of age, sex, ~~gender identity,~~ race, creed, color, marital status, familial status, physical or mental disability or national origin are a matter of state concern."
+      ],
+      "last_bill_action": "2025-12-10"
+    },
+    {
+      "bill_number": "HB1585",
+      "description": "Relative to environmental, social, and governance-related investment strategies by the state retirement system.",
+      "state": "NH",
+      "status": 1,
+      "title": "Relative to environmental, social, and governance-related investment strategies by the state retirement system.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "PUBLIC RETIREMENT SYSTEM FIDUCIARY DUTY ACT [...] III. Financial‚ means having been prudently determined by a fiduciary to have a material effect on the financial risk or the financial return of an investment. (a) Financial, shall not include any action taken, or factor considered, by a fiduciary with any purpose whatsoever to further environmental, social, political, or ideological interests [including] [...] (4) Access to abortion, sex or gender change or transgender surgery;"
+      ],
+      "last_bill_action": "2025-12-10"
+    },
+    {
+      "bill_number": "HB1778",
+      "description": "Relative to prohibiting the use of personal identity ideology in public school instruction and policies.",
+      "state": "NH",
+      "status": 1,
+      "title": "Relative to prohibiting the use of personal identity ideology in public school instruction and policies.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition on Teaching Personal Identity Ideology. [...] Approaches or forms of teaching prohibited by RSA 186:72 relative to diversity, equity, or inclusion (DEI) shall be included in the definition of personal identity ideology. [...] Personal identity characteristics shall include one's [...] biological sex, sexual orientation, [...] or gender identity."
+      ],
+      "last_bill_action": "2025-12-17"
+    },
+    {
+      "bill_number": "HB1788",
+      "description": "Holding state contracts with DEI provisions to be void as a matter of law and establishing a right of action for citizens where public entities or state agencies engage with contracts with DEI provisions.",
+      "state": "NH",
+      "status": 2,
+      "title": "Holding state contracts with DEI provisions to be void as a matter of law and establishing a right of action for citizens where public entities or state agencies engage with contracts with DEI provisions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "II. Any contract made in violation of this subdivision shall be void as a matter of law. A court of competent jurisdiction shall order the full rescission of a contract in violation of this subdivision. III. Any taxpayer shall be entitled to bring a cause of action against any public entity, state agency, or political subdivision that has violated any part of this subdivision. Any taxpayer that can demonstrate such public entity, state agency, or political subdivision has violated any provision of this subdivision shall be entitled to declaratory relief, injunctive relief, and reasonable attorney's fees in any action brought against such district or administrative unit."
+      ],
+      "last_bill_action": "2025-12-17"
+    },
+    {
+      "bill_number": "HB1792",
+      "description": "Prohibiting school districts and personnel from the instruction of critical race theory and LGBTQ+ ideologies in schools as well as establishing a private right of action for violations.",
+      "state": "NH",
+      "status": 2,
+      "title": "Prohibiting school districts and personnel from the instruction of critical race theory and LGBTQ+ ideologies in schools as well as establishing a private right of action for violations.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Inculcating LGBTQ+ ideology, such as requiring affirmation of \"gender fluidity,\" \"non-binary\" or \"queer\" identities, or requiring affirmation of LGBTQ+ sexuality as ethical or normative."
+      ],
+      "last_bill_action": "2025-12-17"
+    },
+    {
+      "bill_number": "HB232",
+      "description": "Relative to the rights of conscience for medical professionals.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to the rights of conscience for medical professionals.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It shall be unlawful for any person, health care provider, health care institution, public or private institution, public official, national licensing board which licenses health care providers, or national certifying board which certifies competency in medical specialties to discriminate against any health care provider in any manner based on his or her conscientious objection to participating in [...] sterilization."
+      ],
+      "last_bill_action": "2025-01-07"
+    },
+    {
+      "bill_number": "HB359",
+      "description": "Prohibiting denial of banking and insurance services based on any factor that is not quantitative, impartial, and risk-based as measured by an objective standard.",
+      "state": "NH",
+      "status": 1,
+      "title": "Prohibiting denial of banking and insurance services based on any factor that is not quantitative, impartial, and risk-based as measured by an objective standard.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A financial institution shall not deny or cancel its services to a person, or otherwise discriminate against a person in making available such services or in the terms or conditions of such services, on the basis of any of the following: (8) The person's failure to meet or commit to meet, or expected failure to meet [...] (D) Policies or procedures requiring or encouraging employee participation in social justice programming, including diversity, equity, or inclusion training."
+      ],
+      "last_bill_action": "2025-01-08"
+    },
+    {
+      "bill_number": "HR31",
+      "description": "Urging New Hampshire counties to establish co-ed sports leagues.",
+      "state": "NH",
+      "status": 1,
+      "title": "Urging New Hampshire counties to establish co-ed sports leagues.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A RESOLUTION urging New Hampshire counties to establish co-ed sports leagues. [...] Resolved by the House of Representatives: That the counties are hereby urged to establish and support co-ed sports leagues that encourage men and women to compete together voluntarily, therefore allowing individuals identifying as transgender to compete voluntarily outside of [...] gender-based competition within the public school system."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB211",
+      "description": "Relative to biological sex in student athletics.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to biological sex in student athletics.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "For purposes of this section, biological sex is either female or male as described by the sex listed on the athlete's official birth certificate issued at or near the time of the athlete’s birth. [...] V.  Any team, sport, or athletic event designated for females, women, or girls shall only be open to students of the female sex. VI.  Any team, sport, or athletic event designated for males, men, or boys shall be open to students of either sex."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SB268",
+      "description": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "state": "NH",
+      "status": 5,
+      "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "There are certain limited circumstances in which classification of persons based on biological sex is proper because such classification serves the compelling state interests of protecting the privacy rights and physical safety of such persons and others.  The legislature finds that permitting classification of persons based upon biological sex serves this compelling state interest in the 3 circumstances described in RSA 354-A:25-a [State Recognition of Biological Sex]"
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SB33",
+      "description": "Relative to the regulation of public school materials.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to the regulation of public school materials.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each local school board shall adopt a procedure to be used to address complaints submitted by parents or guardians alleging that material that is harmful to minors, age-inappropriate, or otherwise offensive or inappropriate for use in the child’s school."
+      ],
+      "last_bill_action": "2025-01-07"
+    },
+    {
+      "bill_number": "SB430",
+      "description": "Relative to mandatory disclosure by school district employees to parents and legal guardians.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to mandatory disclosure by school district employees to parents and legal guardians.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Educators credentialed by the New Hampshire department of education shall have a duty to respond to written inquiries by parents regarding material information relating to their child enrolled in that educator’s school. Such response to a written request shall be sent within 10 business days of its receipt and be answered completely and honestly to the extent permitted by state or federal law."
+      ],
+      "last_bill_action": "2025-11-21"
+    },
+    {
+      "bill_number": "SB434",
+      "description": "Relative to regulation of public school materials.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to regulation of public school materials.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each local school board shall adopt a procedure to be used to address complaints submitted by parents or guardians alleging that material that is harmful to minors, age-inappropriate, or otherwise offensive or inappropriate for use in the child’s school."
+      ],
+      "last_bill_action": "2025-11-21"
+    },
+    {
+      "bill_number": "SB459",
+      "description": "Exempting classification of individuals based on biological sex from the definition of an unlawful discriminatory practice in certain limited circumstances.",
+      "state": "NH",
+      "status": 2,
+      "title": "Exempting classification of individuals based on biological sex from the definition of an unlawful discriminatory practice in certain limited circumstances.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any team, sport, or athletic event designated for females, women, or girls shall only be open to students of the female sex."
+      ],
+      "last_bill_action": "2025-11-21"
+    },
+    {
+      "bill_number": "SB464",
+      "description": "Relative to civil rights enforcement.",
+      "state": "NH",
+      "status": 2,
+      "title": "Relative to civil rights enforcement.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill changes the standard for civil rights enforcement by requiring that prohibited conduct be substantially motivated by hostility toward the victim's protected characteristics. [...] when such actual or threatened conduct is <u>substantially</u> motivated by <u>hostility towards the victim's</u> race, color, religion, national origin, ancestry, sexual orientation, sex, gender identity, or disability."
+      ],
+      "last_bill_action": "2025-11-21"
+    },
+    {
+      "bill_number": "SB552",
+      "description": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "state": "NH",
+      "status": 2,
+      "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Nothing in RSA 5-C:87, RSA 260 through RSA 263-A, RSA 354-A, or any other law or regulation shall mean that it is unlawful discrimination based on sex or gender identity for any person or organization, public or private, to classify based on biological sex with respect to the following matters: (a) In the construction, maintenance, operation, and use of lavatory facilities or locker rooms designed for usage by multiple persons at the same time [...]; (b) In athletic or sporting events or competitions in a sport or similar activity in which physical strength, speed, or endurance is generally recognized to give an advantage to biological males; (c) In the operation, maintenance, and use of facilities designed for usage as prisons, houses of correction, juvenile detention or commitment centers, mental health hospitals or treatment centers and like facilities to which persons may be committed involuntarily."
+      ],
+      "last_bill_action": "2025-11-24"
+    }
+  ],
+  "year": "2026"
+}

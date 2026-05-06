@@ -1,0 +1,175 @@
+{
+  "state": "Florida",
+  "stateAbbreviation": "FL",
+  "bills": [
+    {
+      "bill_number": "H0347",
+      "description": "Prohibits governmental entity from displaying, placing, or causing to be placed certain flags on real property; specifies flags governmental entity may display on such property; provides requirements for governmental entity that displays flag of United States; prohibits local government from adopting certain ordinances or regulations relating to flag of local government; provides that certain ordinances & regulations are void.",
+      "state": "FL",
+      "status": 6,
+      "title": "Adoption and Display of Flags by Governmental Entities",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental entity may not [...] place or cause to be placed a flag authorized to be displayed [...] which contains or depicts any word, figure, mark, picture, design, drawing, symbol, or advertisement of any nature which represents [...] gender, or sexual orientation."
+      ],
+      "last_bill_action": "2025-11-05"
+    },
+    {
+      "bill_number": "H0641",
+      "description": "Specifies employment policy of this state relating to person's sex; prohibits employees & contractors of certain employers from being required to use certain pronouns or requiring such employers to use pronoun that does not correspond to employee's or contractor's sex; prohibits certain forms from offering specified options relating to applicant's sex; prohibits adverse personnel action on basis of gender ideology; provides administrative & civil remedies; provides reasonable attorney fees & costs; authorizes DMS to adopt rules; provides it is unlawful employment practice for certain employers to require certain training, instruction, or activity as condition of employment.",
+      "state": "FL",
+      "status": 1,
+      "title": "Gender Identity Employment Practices",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the policy of this state that a person's sex is an immutable biological trait and that it is false to ascribe to a person a pronoun that does not correspond to such person's sex."
+      ],
+      "last_bill_action": "2025-12-03"
+    },
+    {
+      "bill_number": "H0743",
+      "description": "Prohibits person from knowingly aiding or abetting health care practitioner to participate in specified violation; authorizes Attorney General to conduct investigation & bring civil action against health care practitioner or other person; provides for damages, injunctive relief, & civil penalties; provides that any damages collected shall accrue to injured minor.",
+      "state": "FL",
+      "status": 1,
+      "title": "Prohibited Sex-reassignment Prescriptions and Procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An act relating to prohibited sex-reassignment prescriptions and procedures [...] Any health care practitioner who willfully or actively participates, <u>or who aids or abets another,</u> in a violation of subsection (1) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084."
+      ],
+      "last_bill_action": "2025-12-11"
+    },
+    {
+      "bill_number": "H1001",
+      "description": "Prohibits counties & municipalities, respectively, from funding or promoting or taking official action as it relates to diversity, equity, & inclusion; prohibits counties & municipalities, respectively, from expending funds for diversity, equity, & inclusion offices or for diversity, equity, & inclusion officers; prohibits counties & municipalities, respectively, from providing or authorizing funds to be used to promote diversity, equity, & inclusion initiatives; authorizes cause of action against counties & municipalities, respectively; requires potential recipients of county or municipal contracts or grants to make certain certification to county or municipality before being awarded such contract or grant.",
+      "state": "FL",
+      "status": 1,
+      "title": "Official Actions of Local Governments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition of official actions of municipalities relating to diversity, equity, and inclusion;"
+      ],
+      "last_bill_action": "2026-01-05"
+    },
+    {
+      "bill_number": "H1071",
+      "description": "Revises provisions relating to K-12 expenditures, school districts, charter schools, lab schools, epinephrine use in public & private schools, school attendance, VPK program, school readiness program, early learning coalitions, Gold Seal Quality Program, required instruction, comprehensive mathematics instruction, parental consent to opt out of specified instruction, certain education funding, instructional materials, educator certifications, & State Requirements for Educational Facilities.",
+      "state": "FL",
+      "status": 6,
+      "title": "Education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "K-12 prohibited expenditures.— (1) A public school, including a charter school, school district, charter school administrator, or direct-support organization for any such school or school district may not expend any funds, regardless of source, to [...] advocate for diversity, equity, and inclusion, or promote or engage in political or social activism."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "H1119",
+      "description": "Defines \"harmful to minors\"; & revises list of materials used in classroom which are subject to objection process by parents or residents.",
+      "state": "FL",
+      "status": 6,
+      "title": "Materials Harmful to Minors",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each district school board must adopt a policy regarding an objection by a parent or a resident of the county to the use of a specific material, which clearly describes a process to handle all objections and provides for resolution. [...] b. Any material used in a classroom, made available in a school or classroom library, or included on a reading list contains content which: (I) Is pornographic ~~or prohibited under s. 847.012;~~ <u>(II) Is harmful to minors;</u> (III)(II) Depicts or describes sexual conduct as defined in s. 847.001(19), unless such material is <u>specifically authorized as part of a health education course required under s. 1003.46; as part of comprehensive health education required under s. 1003.42(2)(o)1.g. or 3.; or as approved through</u> ~~for a course required by s. 1003.46 or s. 1003.42(2)(o)1.g. or 3., or identified by~~ State Board of Education rule <u>for specific educational purposes;</u>"
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "H1329",
+      "description": "Revises the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; requires the county to hold a budget workshop for a specified purpose by a certain date; requires the county to post a certain budget reduction exercise or link on its website; requires counties to publish budget development calendars, etc.",
+      "state": "FL",
+      "status": 3,
+      "title": "Local Government Finances",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A local government may not expend public funds, or otherwise expend any funds derived from bequests, charges, deposits, donations, grants, gifts, income, receipts, or any other source of funds, for the purpose of diversity, equity, and inclusion."
+      ],
+      "last_bill_action": "2026-01-09"
+    },
+    {
+      "bill_number": "S0166",
+      "description": "Revising requirements for the provision of maternal health and contraceptive information and services to minors; requiring consent from a parent or guardian for a minor's treatment for certain diseases; repealing a provision relating to minors' access to outpatient crisis intervention services and treatment; requiring school districts to provide parents with specified information before the district administers certain questionnaires or forms to students, etc.",
+      "state": "FL",
+      "status": 6,
+      "title": "Parental Rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "All parental rights are reserved to the parent of a minor child in this state without obstruction or interference from the state [..] (k) 1. The right to review, inspect, and consent to a survey or questionnaire before such survey or questionnaire is given to his or her minor child which may reveal information concerning any of the following: b. Mental or psychological problems of the child or the child's family; c. Sexual behavior or attitudes; [...] e. Critical appraisals of any other individual with whom the child has a close family relationship; f. Legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers;"
+      ],
+      "last_bill_action": "2025-10-10"
+    },
+    {
+      "bill_number": "S0426",
+      "description": "Prohibiting a governmental entity from displaying, placing, or causing to be placed certain flags on real property; providing a penalty; specifying flags a governmental entity may display on such property; prohibiting a local government from adopting certain ordinances or regulations relating to the flag of the local government, etc.",
+      "state": "FL",
+      "status": 6,
+      "title": "Adoption and Display of Flags by Governmental Entities",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental entity may not [...] place or cause to be placed a flag authorized to be displayed [...] which contains or depicts any word, figure, mark, picture, design, drawing, symbol, or advertisement of any nature which represents [...] gender, or sexual orientation."
+      ],
+      "last_bill_action": "2025-11-07"
+    },
+    {
+      "bill_number": "S1010",
+      "description": "Providing criminal penalties for health care practitioners who willfully or actively aid or abet another in a violation of specified provisions; clarifying that a private cause of action exists to recover damages for personal injury or death resulting from a violation of a specified provision; providing that an individual may recover all economic and noneconomic damages for injuries sustained before or after turning 18 years of age which result from such violation; creating a private cause of action to recover damages against certain public employees and health care practitioners for violations of specified provisions, etc.",
+      "state": "FL",
+      "status": 6,
+      "title": "Enforcement of Protections for Minors",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A cause of action exists to recover damages for personal injury or death resulting from the provision of sex reassignment prescriptions or procedures [...] to a person younger than 18 years of age."
+      ],
+      "last_bill_action": "2025-12-23"
+    },
+    {
+      "bill_number": "S1134",
+      "description": "Prohibiting counties and municipalities, respectively, from funding or promoting or taking official action as it relates to diversity, equity, and inclusion; providing that certain ordinances, resolutions, rules, regulations, programs, and policies are void; providing that a county commissioner, a member of the governing body of a municipality, or any other county or municipal official acting in an official capacity who violates certain provisions commits misfeasance or malfeasance in office, etc.",
+      "state": "FL",
+      "status": 4,
+      "title": "Official Actions of Local Governments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A county may not fund or promote, directly or indirectly, or take any official action, including, but not limited to, the adoption or enforcement of ordinances, resolutions, rules, regulations, programs, or policies, as it relates to diversity, equity, and inclusion [...] protecting the right of males and females to restrooms and changing facilities corresponding to their biological sex."
+      ],
+      "last_bill_action": "2026-01-05"
+    },
+    {
+      "bill_number": "S1566",
+      "description": "Citing this act as the \"Local Government Financial Transparency and Accountability Act\"; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; requiring counties to prepare certain quarterly compensation summaries; revising the length of time for which a public hearing for an amendment to a county budget must be advertised; specifying requirements applicable to local governments and special districts for impact fees adopted or increased after a specified date, etc.",
+      "state": "FL",
+      "status": 1,
+      "title": "Local Government Finances",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibiting a local government from expending public funds for the purpose of diversity, equity, and inclusion."
+      ],
+      "last_bill_action": "2026-01-09"
+    },
+    {
+      "bill_number": "S1642",
+      "description": "Citing this act as the \"Freedom of Conscience in the Workplace Act\"; specifying an employment policy of this state relating to a person's sex; providing applicability; prohibiting employees and contractors of certain employers from being required to use certain pronouns or requiring such employers to use a pronoun that does not correspond to the employee's or contractor's sex; prohibiting the inclusion on certain forms of specified options relating to an applicant's sex; providing that it is an unlawful employment practice for certain employers to require certain training, instruction, or activity as a condition of employment, etc.",
+      "state": "FL",
+      "status": 6,
+      "title": "Gender Identity Employment Practices",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the policy of this state that a person's sex is an immutable biological trait and that it is false to ascribe to a person a pronoun that does not correspond to such person's sex."
+      ],
+      "last_bill_action": "2026-01-09"
+    },
+    {
+      "bill_number": "S1692",
+      "description": "Defining the term \"harmful to minors\"; revising the list of materials used in a classroom which are subject to the objection process by parents or residents, etc.",
+      "state": "FL",
+      "status": 6,
+      "title": "Materials Harmful to Minors",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any material used in a classroom, made available in a school or classroom library, or included on a reading list contains content which: (I) Is pornographic [...] <u>(II) Is harmful to minors;</u> [...] <u>\"Harmful to minors” means any reproduction, imitation, characterization, description, exhibition, presentation, or representation, of whatever kind or form, depicting nudity, sexual conduct, or sexual excitement when it: a. Predominantly appeals to prurient, shameful, or morbid interest; and b. Is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material or conduct for minors.</u>"
+      ],
+      "last_bill_action": "2026-01-09"
+    }
+  ],
+  "year": "2026"
+}

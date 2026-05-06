@@ -1,0 +1,115 @@
+{
+  "state": "Kansas",
+  "stateAbbreviation": "KS",
+  "bills": [
+    {
+      "bill_number": "HB2071",
+      "description": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+      "state": "KS",
+      "status": 1,
+      "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A recipient of state funds shall not use such funds to provide or subsidize medication or surgery as provided in section 3, and amendments thereto, as a treatment for a child's perception of gender or sex that is inconsistent with such child's sex. (b) An individual or entity that receives state funds to pay for or subsidize the treatment of children for psychological conditions, including gender dysphoria, shall not prescribe, dispense or administer medication or perform surgery as provided in section 3, and amendments thereto, or provide a referral to another healthcare provider for such medication or surgery for a child whose perceived gender or perceived sex is inconsistent with such child's sex. (c) The Kansas program of medical assistance and its managed care organizations shall not reimburse or provide coverage for medication or surgery as provided in section 3, and amendments thereto, as a treatment for a child whose perceived gender or perceived sex is inconsistent with such child's sex. (d) Except to the extent required by the first amendment to the United States constitution, a state property, facility or building shall not be used to promote or advocate the use of social transitioning, medication or surgery as provided in section 3, and amendments thereto, as a treatment for a child whose perceived gender or perceived sex is inconsistent with such child's sex. (e) A state property, facility or building shall not be used to prescribe, dispense or administer medication or perform surgery as provided in section 3, and amendments thereto, as a treatment for a child whose perceived gender or perceived sex is inconsistent with such child's sex. (f) A state employee whose official duties include the care of children shall not, while engaged in those official duties, promote the use of social transitioning or provide or promote medication or surgery as provided in section 3, and amendments thereto, as a treatment for a child whose perceived gender or perceived sex is inconsistent with such child's sex perceived gender or perceived sex is inconsistent with such child's sex."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "HB2426",
+      "description": "Defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of motor vehicles to invalidate and reissue driver's licenses when necessary when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+      "state": "KS",
+      "status": 1,
+      "title": "Defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of motor vehicles to invalidate and reissue driver's licenses when necessary when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual's 'sex' or 'gender' means such individual's biological sex, either male or female, at birth;"
+      ],
+      "last_bill_action": "2026-01-12"
+    },
+    {
+      "bill_number": "HB2428",
+      "description": "Requiring the state board of regents to establish curricula and designate courses at postsecondary educational institutions relating to DEI-CRT-related courses and content and requiring the study of American institutions and certain programs at freshman orientations concerning free speech.",
+      "state": "KS",
+      "status": 1,
+      "title": "Requiring the state board of regents to establish curricula and designate courses at postsecondary educational institutions relating to DEI-CRT-related courses and content and requiring the study of American institutions and certain programs at freshman orientations concerning free speech.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The state board of regents shall establish curricula and designate courses at the postsecondary educational institutions in a manner that does not require or constrain students to enroll in a DEI-CRT-related course in order to satisfy the requirements of any academic program."
+      ],
+      "last_bill_action": "2026-01-12"
+    },
+    {
+      "bill_number": "HB2741",
+      "description": "Establishing the Kansas medical rights of conscience act to permit a healthcare provider to refuse to provide transgender healthcare services if such services violate the provider's conscience and creating a civil cause of action for violation of this act.",
+      "state": "KS",
+      "status": 1,
+      "title": "Establishing the Kansas medical rights of conscience act to permit a healthcare provider to refuse to provide transgender healthcare services if such services violate the provider's conscience and creating a civil cause of action for violation of this act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A healthcare institution or healthcare professional shall not be required to perform, assist, counsel toward or participate in a surgical procedure referenced by K.S.A. 65-28,139, and amendments thereto, or to prescribe, dispense, counsel toward or administer a medication referenced by K.S.A. 65-28,139, and amendments thereto, regardless of the patient's age, if such procedure or medication is contrary to the established policy of or the moral, ethical or religious beliefs of such healthcare institution or healthcare provider."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "HB2743",
+      "description": "Requiring the state board of regents and the state board of education to ensure that no teacher preparation program includes content related to diversity, equity and inclusion and providing an extended period for retired and substitute teachers to complete certain required literacy training as part of the Kansas blueprint for literacy.",
+      "state": "KS",
+      "status": 1,
+      "title": "Requiring the state board of regents and the state board of education to ensure that no teacher preparation program includes content related to diversity, equity and inclusion and providing an extended period for retired and substitute teachers to complete certain required literacy training as part of the Kansas blueprint for literacy.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The state board of regents and the state board of education shall collaborate to [...] ensure that no teacher preparation program include content related to diversity, equity and inclusion principles."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "SB16",
+      "description": "Prohibiting discrimination by financial services companies on the basis of social credit score and requiring registered investment advisers to obtain written consent from clients prior to investing client moneys in mutual funds, equity funds, companies and financial institutions that engage in ideological boycotts.",
+      "state": "KS",
+      "status": 1,
+      "title": "Prohibiting discrimination by financial services companies on the basis of social credit score and requiring registered investment advisers to obtain written consent from clients prior to investing client moneys in mutual funds, equity funds, companies and financial institutions that engage in ideological boycotts.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A financial services company shall not utilize standards or guidelines based on nonfinancial or ideological criteria, including the criteria constituting an ideological boycott, in determining whether or not to provide any financial service to a person or company. [...] \"Ideological boycott\" means, without an ordinary business purpose, refusing to deal with, refusing or limiting investment in, terminating business activities with or otherwise taking any commercial action that is intended to penalize, inflict economic harm on, limit commercial relations with or change or limit the activities of a company because the company, without violating controlling state or federal law: [...] (K) does not facilitate or assist employees in obtaining abortions, assisted suicide or gender reassignment services;"
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "SB244",
+      "description": "House Substitute for SB 244 by Committee on Judiciary - Requiring the designation of multiple-occupancy private spaces in public buildings for use by only one sex and imposing criminal and civil penalties for violations, defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of vehicles to invalidate and reissue driver's licenses when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+      "state": "KS",
+      "status": 4,
+      "title": "House Substitute for SB 244 by Committee on Judiciary - Requiring the designation of multiple-occupancy private spaces in public buildings for use by only one sex and imposing criminal and civil penalties for violations, defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of vehicles to invalidate and reissue driver's licenses when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction [...] requiring the designation of multiple-occupancy private spaces in public buildings for use by only one sex [...] directing the division of vehicles to invalidate and reissue driver's licenses when necessary to correct the gender identification on such licenses"
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "SB522",
+      "description": "Enacting the Kansas medical freedom act to prohibit the denial of an individual's access to certain services based on such individual's medical choices.",
+      "state": "KS",
+      "status": 1,
+      "title": "Enacting the Kansas medical freedom act to prohibit the denial of an individual's access to certain services based on such individual's medical choices.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Nothing in this act shall be construed to prohibit or restrict a governmental or private entity from maintaining a separate restroom, locker room, shower, changing room, shelter, prison, sporting or any other intimate facility or program on the basis of biological sex, regardless of any medical intervention or nonintervention related to gender transition."
+      ],
+      "last_bill_action": "2026-03-02"
+    },
+    {
+      "bill_number": "SB76",
+      "description": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+      "state": "KS",
+      "status": 2,
+      "title": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(b) No employee of a school district or postsecondary educational institution, regardless of such employee's official duties, shall address a minor or student with a: (1) Pronoun or title that is inconsistent with the biological sex of such minor or student unless the employee has the written permission of such minor's or student's parent; and (2) name other than the name listed on the minor's or student's birth certificate, or a derivative of such name, without the written permission of the minor's or student's parent."
+      ],
+      "last_bill_action": "2025-01-27"
+    }
+  ],
+  "year": "2026"
+}

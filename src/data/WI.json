@@ -1,0 +1,243 @@
+{
+  "state": "Wisconsin",
+  "stateAbbreviation": "WI",
+  "bills": [
+    {
+      "bill_number": "AB100",
+      "description": "An Act to amend 118.13 (1); to create 118.132 of the statutes; Relating to: designating athletic sports and teams operated or sponsored by public schools or private schools participating in a parental choice program based on the sex of the participants.",
+      "state": "WI",
+      "status": 5,
+      "title": "Designating athletic sports and teams operated or sponsored by public schools or private schools participating in a parental choice program based on the sex of the participants.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An institution that operates or sponsors an intercollegiate or club athletic team or sport shall do all of the following: 1. Expressly designate the athletic team or sport as one of the following based on the sex of the participating students: a. Males or men. b. Females or women."
+      ],
+      "last_bill_action": "2025-03-03"
+    },
+    {
+      "bill_number": "AB102",
+      "description": "An Act to amend 36.12 (1) and 38.23 (1); to create 36.25 (58) and 38.12 (15) of the statutes; Relating to: designating University of Wisconsin and technical college sports and athletic teams based on the sex of the participants.",
+      "state": "WI",
+      "status": 5,
+      "title": "Designating University of Wisconsin and technical college sports and athletic teams based on the sex of the participants.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An institution that operates or sponsors an intercollegiate or club athletic team or sport shall do all of the following: 1. Expressly designate the athletic team or sport as one of the following based on the sex of the participating students: a. Males or men. b. Females or women."
+      ],
+      "last_bill_action": "2025-03-03"
+    },
+    {
+      "bill_number": "AB103",
+      "description": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil’s legal name and pronouns.",
+      "state": "WI",
+      "status": 5,
+      "title": "School board policies related to changing a pupil’s legal name and pronouns.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each school board shall adopt a policy related to the conditions under which the school board will do each of the following: (a) Change a pupil's legal name or a pupil's legal name and pronouns in official school records. (b) Allow school board employees to regularly use or refer to a pupil who is a minor by a name other than the pupil's legal name or by pronouns other than the pronouns provided at the time the pupil first enrolls in the school district."
+      ],
+      "last_bill_action": "2025-03-04"
+    },
+    {
+      "bill_number": "AB104",
+      "description": "An Act to amend 441.07 (2), 448.02 (6), 448.02 (9) (intro.) and 448.978 (2) (intro.); to create 146.36, 441.07 (1j), 448.02 (3m) and 448.978 (1v) of the statutes; Relating to: prohibiting gender transition medical intervention for individuals under 18 years of age.",
+      "state": "WI",
+      "status": 5,
+      "title": "Prohibiting gender transition medical intervention for individuals under 18 years of age.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider may not engage in, cause the engagement in, or make a referral for, any of the following practices upon a minor for the purpose of changing the minor's body to correspond to a sex that is discordant with the minor's biological sex: (a) Performing a surgery that sterilizes an individual [...] (b) Performing a mastectomy. (c) Administering, prescribing, or supplying any of the following medications: 1. Puberty-blocking drugs to stop or delay normal puberty. 2. [...] testosterone or other androgens to biological females. 3. [...] estrogen to biological males."
+      ],
+      "last_bill_action": "2025-03-05"
+    },
+    {
+      "bill_number": "AB124",
+      "description": "An Act to amend 69.11 (4) (b), 69.12 (1), 69.15 (4) (b), 767.395 and 786.36 (1) (intro.); to create 941.2915 of the statutes; Relating to: prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+      "state": "WI",
+      "status": 6,
+      "title": "Prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Current law prohibits a person who is registered as a sex offender with the Department of Corrections from changing their name during the period they are required to register. With certain exceptions, a person who violates the prohibition is guilty of a Class H felony. This bill prohibits a person who has been convicted of a violent crime, which is defined in the bill and includes homicide, battery, kidnapping, stalking, human trafficking, and sexual assault, from changing their name. A person who violates the prohibition is guilty of a Class H felony."
+      ],
+      "last_bill_action": "2025-03-11"
+    },
+    {
+      "bill_number": "AB311",
+      "description": "An Act to amend 69.15 (1) (a) and 69.15 (4) (b); to create 69.01 (1m), 69.115 and 69.12 (2m) of the statutes; Relating to: changing an individual’s sex on a birth certificate.",
+      "state": "WI",
+      "status": 6,
+      "title": "Changing an individual’s sex on a birth certificate.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any person with a direct and tangible interest in a birth record registered in this state may petition a court to change the name ~~and sex~~ of the registrant on the record due to a surgical sex-change procedure. If the state registrar receives an order which provides for such a change the state registrar shall change the name ~~and sex~~ on the original record, except that if the court orders the state registrar to prepare a new record the state registrar shall prepare a new record under sub. (6). This subsection does not apply to a name change prohibited under s. 301.47."
+      ],
+      "last_bill_action": "2025-06-06"
+    },
+    {
+      "bill_number": "AB400",
+      "description": "An Act to create 895.039 of the statutes; Relating to: a civil cause of action for a minor injured by a gender transition procedure.",
+      "state": "WI",
+      "status": 6,
+      "title": "A civil cause of action for a minor injured by a gender transition procedure.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(2) CIVIL CAUSES OF ACTION. A health care provider who performs a gender transition procedure on a minor is liable to the minor if the minor is injured, including any physical, psychological, emotional, or physiological injury, by the gender transition procedure or related treatment or the aftereffects of the gender transition procedure or related treatment. The minor, or the minor's parent, legal guardian, or legal representative, may bring a civil action against the health care provider for any of the following damages: (a) Declaratory or injunctive relief. (b) Compensatory damages. (c) Punitive damages. (d) If the prevailing party, reasonable attorney fees and costs."
+      ],
+      "last_bill_action": "2025-08-29"
+    },
+    {
+      "bill_number": "AB46",
+      "description": "An Act to create 1.14 (1) (am) and 1.14 (1m) of the statutes; Relating to: flags flown at state and local government buildings and eliminating a related administrative rule.",
+      "state": "WI",
+      "status": 6,
+      "title": "Flags flown at state and local government buildings and eliminating a related administrative rule.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill prohibits any flag other than the U.S. flag, the state flag, the official POW/MIA flag recognized by Congress, and the official flags of each branch of the U.S. armed forces from being flown, hung, or displayed from any flagpole or building, structure, or facility, including the state capitol, that is owned or occupied entirely by a state agency or authority or by a city, village, town, or county."
+      ],
+      "last_bill_action": "2025-02-17"
+    },
+    {
+      "bill_number": "AB58",
+      "description": "An Act to create 1.14 (1m) of the statutes; Relating to: flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+      "state": "WI",
+      "status": 6,
+      "title": "Flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No flag flown, hung, or displayed [...] may be a flag that has been used for or is used for ceremonial purposes related to [...] a sexual orientation or gender identity, [...] nor a flag that commemorates, represents, or shows support for [...] a sexual orientation or gender identity."
+      ],
+      "last_bill_action": "2025-02-24"
+    },
+    {
+      "bill_number": "AB669",
+      "description": "An Act to repeal 36.34 (title) and (1) (title) and (a), 38.04 (8) (a), 38.26 (1), 39.15 (1) (c), 39.44 (1) (a) and 39.46 (2) (g); to renumber and amend 36.34 (1) (b), 38.04 (8) (b), 39.26 and 39.44 (1) (b); to amend 36.25 (14), 36.25 (14m) (title), 36.25 (14m) (a), 36.25 (14m) (b), 36.25 (14m) (c) 2., 38.04 (8) (title), 38.26 (title), 38.26 (2) (a), (b), (c), (d) and (e), 38.27 (1) (a), 39.40 (title), 39.40 (2) (intro.), 39.40 (3) (b) 1. and 39.44 (3) (c); to repeal and recreate 39.40 (1) and 39.44 (title); to create 36.05 (6r), 38.01 (4m) and 39.26 (2) of the statutes; Relating to: race-based higher education programs and requirements. (FE)",
+      "state": "WI",
+      "status": 6,
+      "title": "Race-based higher education programs and requirements. (FE)",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-11-19"
+    },
+    {
+      "bill_number": "SB116",
+      "description": "An Act to amend 36.12 (1) and 38.23 (1); to create 36.25 (58) and 38.12 (15) of the statutes; Relating to: designating University of Wisconsin and technical college sports and athletic teams based on the sex of the participants.",
+      "state": "WI",
+      "status": 6,
+      "title": "Designating University of Wisconsin and technical college sports and athletic teams based on the sex of the participants.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An institution that operates or sponsors an intercollegiate or club athletic team or sport shall [...] 2. Prohibit students of the male sex from participating on an athletic team or in a sport that is designated for females or women under [...] 3. Prohibit students of the male sex from using locker rooms designated for females."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "SB117",
+      "description": "An Act to amend 118.13 (1); to create 118.132 of the statutes; Relating to: designating athletic sports and teams operated or sponsored by public schools or private schools participating in a parental choice program based on the sex of the participants.",
+      "state": "WI",
+      "status": 6,
+      "title": "Designating athletic sports and teams operated or sponsored by public schools or private schools participating in a parental choice program based on the sex of the participants.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An educational institution that operates or sponsors an interscholastic, intramural, or club athletic team or sport shall do all of the following: [...] (b) Prohibit pupils of the male sex from participating on an athletic team or in an athletic sport that is designated for females [...] (c) Prohibit pupils of the male sex from using locker rooms designated for females."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "SB120",
+      "description": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil’s legal name and pronouns.",
+      "state": "WI",
+      "status": 6,
+      "title": "School board policies related to changing a pupil’s legal name and pronouns.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A school board shall include at least all of the following in a policy adopted under sub. (2) (b): (a) A pupil's parent or legal guardian determines the names and pronouns school staff may use to refer to the pupil who is a minor during school hours. (b) During school hours, school staff may not refer to a pupil who is a minor by using a name or pronouns that do not align with the pupil's biological sex without written authorization from the pupil's parent or legal guardian."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "SB146",
+      "description": "An Act to amend 69.11 (4) (b), 69.12 (1), 69.15 (4) (b), 767.395 and 786.36 (1) (intro.); to create 941.2915 of the statutes; Relating to: prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+      "state": "WI",
+      "status": 5,
+      "title": "Prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Current law prohibits a person who is registered as a sex offender with the Department of Corrections from changing their name during the period they are required to register. With certain exceptions, a person who violates the prohibition is guilty of a Class H felony. This bill prohibits a person who has been convicted of a violent crime, which is defined in the bill and includes homicide, battery, kidnapping, stalking, human trafficking, and sexual assault, from changing their name. A person who violates the prohibition is guilty of a Class H felony."
+      ],
+      "last_bill_action": "2025-03-21"
+    },
+    {
+      "bill_number": "SB157",
+      "description": "An Act to amend 441.07 (2), 448.02 (6), 448.02 (9) (intro.) and 448.978 (2) (intro.); to create 146.36, 441.07 (1j), 448.02 (3m) and 448.978 (1v) of the statutes; Relating to: prohibiting gender transition medical intervention for individuals under 18 years of age.",
+      "state": "WI",
+      "status": 6,
+      "title": "Prohibiting gender transition medical intervention for individuals under 18 years of age.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider may not engage in, cause the engagement in, or make a referral for, any of the following practices upon a minor for the purpose of changing the minor's body to correspond to a sex that is discordant with the minor's biological sex: (a) Performing a surgery that sterilizes an individual [...] (b) Performing a mastectomy. (c) Administering, prescribing, or supplying any of the following medications: 1. Puberty-blocking drugs to stop or delay normal puberty. 2. [...] testosterone or other androgens to biological females. 3. [...] estrogen to biological males."
+      ],
+      "last_bill_action": "2025-03-27"
+    },
+    {
+      "bill_number": "SB312",
+      "description": "An Act to amend 69.15 (1) (a) and 69.15 (4) (b); to create 69.01 (1m), 69.115 and 69.12 (2m) of the statutes; Relating to: changing an individual’s sex on a birth certificate.",
+      "state": "WI",
+      "status": 6,
+      "title": "Changing an individual’s sex on a birth certificate.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No person may change the sex of a registrant on a birth record to a sex other than the registrant's biological sex"
+      ],
+      "last_bill_action": "2025-06-04"
+    },
+    {
+      "bill_number": "SB40",
+      "description": "An Act to create 1.14 (1m) of the statutes; Relating to: flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+      "state": "WI",
+      "status": 6,
+      "title": "Flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No flag flown, hung, or displayed under an exception in par. (b) may be a flag that has been used for or is used for ceremonial purposes related to [...] a sexual orientation or gender identity, [...] nor a flag that commemorates, represents, or shows support for or opposition to [...] a sexual orientation or gender identity, or [...] ideological [...] viewpoint."
+      ],
+      "last_bill_action": "2025-02-12"
+    },
+    {
+      "bill_number": "SB405",
+      "description": "An Act to create 895.039 of the statutes; Relating to: a civil cause of action for a minor injured by a gender transition procedure.",
+      "state": "WI",
+      "status": 5,
+      "title": "A civil cause of action for a minor injured by a gender transition procedure.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(2) CIVIL CAUSES OF ACTION. A health care provider who performs a gender transition procedure on a minor is liable to the minor if the minor is injured, including any physical, psychological, emotional, or physiological injury, by the gender transition procedure or related treatment or the aftereffects of the gender transition procedure or related treatment. The minor, or the minor's parent, legal guardian, or legal representative, may bring a civil action against the health care provider for any of the following damages: (a) Declaratory or injunctive relief. (b) Compensatory damages. (c) Punitive damages. (d) If the prevailing party, reasonable attorney fees and costs."
+      ],
+      "last_bill_action": "2025-08-28"
+    },
+    {
+      "bill_number": "SB51",
+      "description": "An Act to create 1.14 (1) (am) and 1.14 (1m) of the statutes; Relating to: flags flown at state and local government buildings and eliminating a related administrative rule.",
+      "state": "WI",
+      "status": 6,
+      "title": "Flags flown at state and local government buildings and eliminating a related administrative rule.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill prohibits any flag other than the U.S. flag, the state flag, the official POW/MIA flag recognized by Congress, and the official flags of each branch of the U.S. armed forces from being flown, hung, or displayed from any flagpole or building, structure, or facility, including the state capitol, that is owned or occupied entirely by a state agency or authority or by a city, village, town, or county."
+      ],
+      "last_bill_action": "2025-02-21"
+    },
+    {
+      "bill_number": "SB652",
+      "description": "An Act to repeal 36.34 (title) and (1) (title) and (a), 38.04 (8) (a), 38.26 (1), 39.15 (1) (c), 39.44 (1) (a) and 39.46 (2) (g); to renumber and amend 36.34 (1) (b), 38.04 (8) (b), 39.26 and 39.44 (1) (b); to amend 36.25 (14), 36.25 (14m) (title), 36.25 (14m) (a), 36.25 (14m) (b), 36.25 (14m) (c) 2., 38.04 (8) (title), 38.26 (title), 38.26 (2) (a), (b), (c), (d) and (e), 38.27 (1) (a), 39.40 (title), 39.40 (2) (intro.), 39.40 (3) (b) 1. and 39.44 (3) (c); to repeal and recreate 39.40 (1) and 39.44 (title); to create 36.05 (6r), 38.01 (4m) and 39.26 (2) of the statutes; Relating to: race-based higher education programs and requirements. (FE)",
+      "state": "WI",
+      "status": 5,
+      "title": "Race-based higher education programs and requirements. (FE)",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-11-14"
+    }
+  ],
+  "year": "2026"
+}

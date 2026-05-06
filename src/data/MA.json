@@ -1,0 +1,79 @@
+{
+  "state": "Massachusetts",
+  "stateAbbreviation": "MA",
+  "bills": [
+    {
+      "bill_number": "H4010",
+      "description": "House bill No. 4005, as amended and passed to be engrossed by the House. April 9, 2025.",
+      "state": "MA",
+      "status": 2,
+      "title": "Making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public school shall allow a male student athlete to participate on a girls’ sports team nor shall a public school allow a female athlete to participate on a boys sports team."
+      ],
+      "last_bill_action": "2025-04-09"
+    },
+    {
+      "bill_number": "H5225",
+      "description": "Relativerelative to health insurance mandated benefits.",
+      "state": "MA",
+      "status": 1,
+      "title": "Study Order",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any coverage offered by the commission to an active or retired employee of the commonwealth insured under the group insurance commission that covers gender-affirming health care services, defined pursuant to Section 1 of Chapter 9A, shall provide coverage for detransition-related treatment."
+      ],
+      "last_bill_action": "2026-03-12"
+    },
+    {
+      "bill_number": "H551",
+      "description": "Relative to procedures for parental notification of changes to the mental, emotional, or physical health or well-being of students. Education.",
+      "state": "MA",
+      "status": 1,
+      "title": "Relative to Parental Rights in Education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Instruction by school personnel or third parties on sexual orientation or gender identity shall not occur in Kindergarten through Grade 3."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "H584",
+      "description": "Relative to sports teams at public schools. Education.",
+      "state": "MA",
+      "status": 1,
+      "title": "To ensure fairness and safety in school sports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public school shall require any student athlete on a single-sex sports team to participate in a match, or any part thereof, against an opposing team that includes one or more athletes of the opposite sex. No penalty, including but not limited to loss of playing time or loss of starting status, shall be imposed by a public school on such a student athlete for refusing to play in such a match."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "H737",
+      "description": "Relative to sports teams at public schools. Education.",
+      "state": "MA",
+      "status": 1,
+      "title": "Relative to defending the autonomy and integrity of student athletes and coaches",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public school shall require any student athlete on a single-sex sports team to participate in a match, or any part thereof, against an opposing team that includes one or more athletes of the opposite sex. No penalty, including but not limited to loss of playing time or loss of starting status, shall be imposed by a public school on such a student athlete for refusing to play in such a match."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "S350",
+      "description": "For legislation to ensure that no public school shall require any student athlete on a single-sex sports team to participate in a match, or any part thereof, against an opposing team that includes one or more athletes of the opposite sex. Education.",
+      "state": "MA",
+      "status": 1,
+      "title": "To ensure fairness and safety in school sports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public school shall require any student athlete on a single-sex sports team to participate in a match, or any part thereof, against an opposing team that includes one or more athletes of the opposite sex."
+      ],
+      "last_bill_action": "2025-02-27"
+    }
+  ],
+  "year": "2026"
+}

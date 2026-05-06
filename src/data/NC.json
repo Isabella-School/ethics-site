@@ -1,0 +1,127 @@
+{
+  "state": "North Carolina",
+  "stateAbbreviation": "NC",
+  "bills": [
+    {
+      "bill_number": "H1000",
+      "description": "Detransitioners Bill of Rights",
+      "state": "NC",
+      "status": 1,
+      "title": "Detransitioners Bill of Rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Right to public transparency. (a) Any gender clinic operating in the State must provide a report of statistics regarding all surgical gender transition procedures and prescribed regimens of cross-sex hormones or puberty-blocking drugs to patients to the Department. (b) The Department shall develop a form for this purpose and determine the statistics to be reported, which must include the following: (1) The date on which the surgical gender transition procedure or prescribed regimen of cross-sex hormones or puberty-blocking drugs was prescribed or the referral was made for either. (2) The age and sex of the person to whom the surgical gender transition procedure or prescribed regimen of cross-sex hormones or puberty-blocking drugs was prescribed or for whom the referral was made for either. (3) For any cross-sex hormone or puberty-blocking drug prescribed as part of a gender transition, (i) the name of the drug or hormone, (ii) the dosage, (iii) the dosage frequency and duration, and (iv) the method by which the drug will be administered. (4) For any surgical gender transition procedure, the type of surgical procedure, identified by current procedural terminology code. (5) The state and county of residence of the person receiving the surgical gender transition procedure or regimen of cross-sex hormones or puberty-blocking drugs. (6) The name, contact information, and medical specialty of the medical professional who prescribed the (i) surgical gender transition procedure or (ii) regimen of cross-sex hormones or puberty-blocking drugs or made the referral for either. (7) If applicable, a description of any other neurological, behavioral, or mental health conditions that the person has been diagnosed with or exhibits symptoms of, including autism spectrum disorder, depressions, anxiety, or bipolar disorder."
+      ],
+      "last_bill_action": "2025-04-10"
+    },
+    {
+      "bill_number": "H1043",
+      "description": "CHCCS Act",
+      "state": "NC",
+      "status": 1,
+      "title": "CHCCS Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The right to consent to official changes to their child's name, gender designation, or identity within school records. The school shall not change these without first receiving consent from a parent."
+      ],
+      "last_bill_action": "2026-04-23"
+    },
+    {
+      "bill_number": "H244",
+      "description": "Depoliticize Government Property Act",
+      "state": "NC",
+      "status": 2,
+      "title": "Depoliticize Government Property Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Only the following official governmental flags may be flown or displayed by a State institution or a political subdivision of the State on the premises of a building of a State institution or a political subdivision of the State: (1) The flag of the United States of America. (2) The flag of the State of North Carolina. (3) The flag of a county, city, or other governmental agency, school, or other educational facility. (4) The flag of any military branch of the United States of America. (5) The Prisoner of War/Missing in Action (POW/MIA) flag. (6) The Honor and Remember flag. (7) The flag of nations recognized by the United States of America. (8) The flag of any state or territory of the United States. (9) The flag of a political subdivision of any state or territory of the United States. (10) The flag of any Indian tribe or Indian group recognized by State or federal law."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "H560",
+      "description": "Parents Protection Act",
+      "state": "NC",
+      "status": 1,
+      "title": "Parents Protection Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A parent, guardian, custodian, or caretaker who raises a juvenile consistent with the juvenile's biological sex or who refers to a juvenile consistent with the juvenile's biological sex shall not be subject to a petition supporting abuse or neglect under this Subchapter based solely on those acts."
+      ],
+      "last_bill_action": "2025-03-27"
+    },
+    {
+      "bill_number": "H595",
+      "description": "Parental Rights for Curriculum and Books",
+      "state": "NC",
+      "status": 1,
+      "title": "Parental Rights for Curriculum and Books",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(a) Instruction on gender identity, sexual activity, or sexuality shall not be included in the curriculum provided in grades kindergarten through sixth grade, regardless of whether the information is provided by school personnel or third parties. For the purposes of this section, curriculum includes the standard course of study and support materials, locally developed curriculum, supplemental instruction, and textbooks and other supplementary materials, but does not include verbal responses to student-initiated questions. Instruction provided in accordance with G.S. 115C-81.29 with parental consent does not violate this section."
+      ],
+      "last_bill_action": "2025-03-31"
+    },
+    {
+      "bill_number": "H606",
+      "description": "Civil Procedure Amendment",
+      "state": "NC",
+      "status": 2,
+      "title": "Civil Procedure Amendment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A cause of action arising out of the performance of or failure to perform services while in the course of facilitating or perpetuating gender transition shall be commenced either within 25 years from the day the claimant reaches 18 years of age or four years from discovery of both the injury and the causal relationship between the treatment and the injury, whichever is later."
+      ],
+      "last_bill_action": "2025-03-31"
+    },
+    {
+      "bill_number": "H636",
+      "description": "Promoting Wholesome Content for Students",
+      "state": "NC",
+      "status": 2,
+      "title": "Promoting Wholesome Content for Students",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Governing bodies of public school units shall adopt a policy for the selection and procurement of library media, including a recommendation review process [...] that includes the removal of media that no longer meets the criteria for approval and the periodic replacement or repair of media still of educational value. [...] The policy [...] shall meet the following requirements for media to be approved for addition to a school library: (c) [...] Material is not \"appropriate for the age, grade level, intellectual development, and ability level\" for any age or age group of children if it includes descriptions or visual depictions of sexual activity or is pervasively vulgar. [...] (g) Fiction, graphic novels, and narrative nonfiction, including memoirs and biographies, shall only be added for literary or artistic value."
+      ],
+      "last_bill_action": "2025-04-01"
+    },
+    {
+      "bill_number": "H776",
+      "description": "NC Religious Freedom Restoration Act",
+      "state": "NC",
+      "status": 1,
+      "title": "NC Religious Freedom Restoration Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Free exercise of religion protected. (a) State action shall not burden a person's right to exercise of religion, even if the burden results from a rule of general applicability."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "H791",
+      "description": "Women's Safety and Protection Act",
+      "state": "NC",
+      "status": 1,
+      "title": "Women's Safety and Protection Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Women's Safety and Protection Act. [...] The purpose of this Article is as follows: (1) To clarify and reconcile the meaning of the terms biological sex, gender, and any other related terms in State law. (2) To provide protections for women against sexual assault, harassment, and violence in correctional facilities, juvenile detention facilities, domestic violence centers, dormitories, and restrooms, or where women have been traditionally afforded safety and protection from acts of abuse committed by biological men."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "S516",
+      "description": "Women's Safety and Protection Act",
+      "state": "NC",
+      "status": 1,
+      "title": "Women's Safety and Protection Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The purpose of this Article is as follows: (1) To clarify and reconcile the meaning of the terms biological sex, gender, and any other related terms in State law. (2) To provide protections for women against sexual assault, harassment, and violence in correctional facilities, juvenile detention facilities, domestic violence centers, dormitories, and restrooms, or where women have been traditionally afforded safety and protection from acts of abuse committed by biological men."
+      ],
+      "last_bill_action": "2025-03-25"
+    }
+  ],
+  "year": "2026"
+}

@@ -1,0 +1,175 @@
+{
+  "state": "Georgia",
+  "stateAbbreviation": "GA",
+  "bills": [
+    {
+      "bill_number": "HB104",
+      "description": "A BILL to be entitled an Act to amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the \"Quality Basic Education Act,\" so as to enact the \"Equal Athletic Opportunities Act\"; to provide generally for student participation in interscholastic athletic activities and events; to generally prohibit discrimination on the basis of sex in such activities and events; to promote fair and safe competition; to provide for the use of student eligibility rules, standards, and classifications; to provide for exceptions to general provisions; to provide for specific designations; to prohibit male students from participating in athletic activities and events designated for female students and vice versa; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "Equal Athletic Opportunities Act; enact",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Males, men, or boys shall not be allowed to participate in athletic programs, events, or teams designated for females, women, or girls. [...] Females, women, or girls shall not be allowed to participate in athletic programs, events, or teams designated for males, men, or boys."
+      ],
+      "last_bill_action": "2025-01-17"
+    },
+    {
+      "bill_number": "HB1210",
+      "description": "A BILL to be entitled an Act to amend Part 1 of Article 3 of Chapter 11 of Title 15 of the O.C.G.A., relating to general provisions relative to dependency proceedings, so as to provide for protections for children who adopt an identity that differs from their sex; to provide for definitions; to amend Chapter 15 of Title 19 of the O.C.G.A., relating to child abuse, so as to provide for protections for children who adopt an identity that differs from their sex; to provide for definitions; to amend Title 49 of the O.C.G.A., relating to social services, so as to provide for the right to exercise religious beliefs or other strongly held beliefs of certain caregivers; to provide for certification; to amend Chapter 1 of Title 50 of the O.C.G.A., relating to general provisions relative to state government, so as to provide limitations for state employees and contractors regarding a parent-child relationship; to provide for related matters; to provide for severability; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "Courts; protections for children who adopt an identity that differs from their sex; provide",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Parents shall have the fundamental right to direct the care and upbringing of their child, including affirming their child's sex. In no event in any custody or dependency proceedings shall a parent, guardian, or legal custodian's actions affirming a child's sex be considered abuse; neglect; not in the best interests of the child's safety, health, and welfare; or grounds for loss of custody or a finding of dependency."
+      ],
+      "last_bill_action": "2026-02-05"
+    },
+    {
+      "bill_number": "HB127",
+      "description": "A BILL to be entitled an Act to amend Part 4 of Article 17 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to sick, personal, and maternity leave for teachers and other school personnel, so as to increase from three to five the number of accumulated sick leave days teachers and other school personnel may take each school year for personal or professional reasons; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Education; number of accumulated sick leave days for teachers and other school personnel; increase from three to five",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No local education agency or postsecondary institution shall promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion. Diversity, equity, and inclusion includes: [...] (2) Any effort to promote or promulgate policies and procedures designed or implemented with reference to race, color, sex, ethnicity, national origin, gender identity, or sexual orientation; (3) Any effort to promote or promulgate any training, programming, recruitment, retention, or activities designed or implemented with preferential treatment of any race, color, sex, ethnicity, national origin, gender identity, or sexual orientation over another; (4) Any effort to promote or promulgate any training, programming, or activities designed or implemented with reference to race, color, ethnicity, gender identity, or sexual orientation; and (5) With respect to a postsecondary institution, any effort to promote, as the official position of the postsecondary institution, a particular, widely contested opinion referencing [...] allyship, gender ideology or theory, microaggressions, group marginalization, [...] social justice, intersectionality, neopronouns, heteronormativity, disparate impact, racial privilege, sexual privilege, or any similar or related formulation of these concepts."
+      ],
+      "last_bill_action": "2025-01-27"
+    },
+    {
+      "bill_number": "HB267",
+      "description": "A BILL to be entitled an Act to amend various titles of the Official Code of Georgia Annotated so as to provide for separate restroom and changing areas for males and females in schools; to provide for sleeping arrangements on school trips to be made according to sex; to provide for definitions throughout the Official Code of Georgia Annotated of certain terms relating to sex; to provide for legislative findings on the importance of certain distinctions between the sexes; to require any collector of vital statistics throughout this state to identify each individual as either male or female; to replace the term \"gender\" throughout the Code with \"sex\"; to provide for definitions; to provide for conforming changes; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Riley Gaines Act; enact",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "To amend various titles of the Official Code of Georgia Annotated so as to provide for separate restroom and changing areas for males and females in schools; to provide for sleeping arrangements on school trips to be made according to sex; to provide for the Professional Standards Commission to create rules; to provide for certain school personnel to face fines for noncompliance; to provide for private causes of action; to provide for exceptions; to provide for certain athletic activities to be designated as either for males, females, or co-educational; to prohibit males from participating in certain athletic activities designated as being for females; to provide for a method to determine sex; to provide for schools to be protected from complaints for compliance with statutes; to provide for definitions throughout the Official Code of Georgia Annotated of certain terms relating to sex; to provide for legislative findings on the importance of certain distinctions between the sexes; to require any collector of vital statistics throughout this state to identify each individual as either male or female; to replace the term \"gender\" throughout the Code with \"sex\";"
+      ],
+      "last_bill_action": "2025-02-04"
+    },
+    {
+      "bill_number": "HB54",
+      "description": "A BILL to be entitled an Act to amend Titles 16, 31, and 43 of the Official Code of Georgia Annotated, relating to crimes and offenses, health, and professions and businesses, respectively, so as to authorize advanced practice registered nurses and physician assistants to order home healthcare services to patients of licensed home health agencies; to provide for definitions; to provide for the approval of continuing education regarding death certificates for certain physician assistants by the Georgia Composite Medical Board and for certain advanced practice registered nurses by the Georgia Board of Nursing; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Health; advanced practice registered nurses and physician assistants to order home healthcare services; authorize",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Amend the amendment (AM 33 2114) to the Senate substitute to HB 54 (HB 54/SCSFA), as amended by House Amendment (AM 33 2112), by amending AM 33 2114 as follows: [...] (a) No state funds shall be expended for health benefits coverage that includes coverage for gender-affirming care as provided for in Code Section 45-18-4."
+      ],
+      "last_bill_action": "2025-01-14"
+    },
+    {
+      "bill_number": "HB660",
+      "description": "A BILL to be entitled an Act to amend Chapter 18 of Title 45, Chapter 4 of Title 49, and Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to the employees' insurance and benefits plans, public assistance, and general provisions relative to state government, respectively, so as to prohibit coverage of expenses for any transition related intervention under the state health benefit plan or with any state funds; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "State government; prohibit coverage of expenses for any transition related intervention under state health benefit plan or with any state funds",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "On or after January 1, 2026, the state health plan shall not include expenses for any transition related intervention."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "SB120",
+      "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to provide that public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion; to provide for sanctions; to provide for definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "Education; public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(b) No public school, local education agency, or postsecondary institution shall promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion [...] (c) Any postsecondary institution that violates subsection (b) of this Code section shall be subject to the withholding of state funding or state administered federal funding. Such withholding of state funding or state administered federal funding shall include funds provided to the postsecondary institution directly as well as funding for scholarships, loans, and grants pursuant to Chapter 3 of this title for students of such postsecondary institution."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "SB248",
+      "description": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to establish and provide for the Georgia Council on Library Materials Standards; to provide for definitions, including definitions for the terms \"harmful to minors,\" \"restricted materials,\" and \"sexually explicit materials\"; to require the Georgia Council on Library Materials Standards to establish standards for the designation of restricted materials by local boards of education, standards for the use and restriction of instructional materials, and standards for the use and restriction of public school library collection materials; to provide for definitions; to provide for short titles; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "Georgia Council on Library Materials Standards; establish and provide",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public school or local school system shall provide sex education before the sixth grade [...] 'Sex education' includes any curricula or instruction that has the goal or purpose of studying, exploring, or informing students about [...] an internal or deeply felt sense of the student's sex."
+      ],
+      "last_bill_action": "2025-02-24"
+    },
+    {
+      "bill_number": "SB30",
+      "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 31 and Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to regulation of hospitals and related institutions and the Georgia Composite Medical Board, respectively, so as to prohibit prescribing or administering certain hormone therapies and puberty-blocking medications for certain purposes to minors; to provide for definitions; to provide for limited exceptions; to provide for a remedy for a parent or guardian of a minor; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Hospitals and Related Institutions; hormone therapies and puberty-blocking medications for certain purposes to minors; prohibit prescribing or administering",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "None of the following irreversible procedures or irreversible or reversible treatments shall be performed on prescribed or administered to a minor if such procedure or treatment is performed, prescribed, or administered for the purpose of attempting to alter the appearance of or affirm such minor's perception of his or her sex if such appearance or perception is inconsistent with such minor's sex [...]: (1) Sex reassignment surgeries, or any other surgical procedures, that are performed for the purpose of altering primary or secondary sex characteristics; or (2) Hormone that are prescribed or administered for the purpose of altering primary or secondary sex characteristics or puberty-blocking medications that are prescribed or administered for the purpose of delaying or suppressing puberty."
+      ],
+      "last_bill_action": "2025-01-27"
+    },
+    {
+      "bill_number": "SB341",
+      "description": "A BILL to be entitled an Act to amend Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to deceptive or unfair practices, so as to protect the exercise of constitutional rights; to prohibit discrimination in the provision of essential services; to provide for public and private enforcement; to provide for definitions; to provide a short title; to provide legislative findings and declarations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "\"Freedom of Speech and Belief Act\"; enact",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Discriminate in the provision of essential services' means, directly or indirectly, restricting or terminating the provision of essential services to a person based on such person's social credit score [...] 'Social credit score' means a score or rating determined by an analysis or evaluation of one or more the following: [...] (C) A person's failure or refusal to conduct any type of racial, diversity, or gender audit or disclosure or to implement any quota or give any preference or benefit based in whole or in part on race, diversity, or gender; (D) A person's failure or refusal to facilitate or assist employees in obtaining abortions or gender reassignment services;"
+      ],
+      "last_bill_action": "2025-03-18"
+    },
+    {
+      "bill_number": "SB39",
+      "description": "A BILL to be entitled an Act to amend Chapter 18 of Title 45, Chapter 4 of Title 49, and Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to the employees' insurance and benefits plans, public assistance, and general provisions relative to state government, respectively, so as to prohibit coverage of expenses for gender-affirming care under the state health benefit plan or with any state funds; to provide for definitions; to provide for limited exceptions; to prohibit state healthcare facilities and healthcare providers employed by the state from providing gender-affirming care; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Employees' Insurance and Benefits Plans; expenses for gender-affirming care under the state health benefit plan or with any state funds; prohibit coverage",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board shall adopt rules and regulations regarding the exclusion of expenses for gender-affirming care [...] which shall contain limited exceptions for: (1) Treatments for medical conditions other than gender dysphoria or for the purpose of sex reassignment where such treatments are deemed medically necessary; (2) Treatments for individuals born with a medically verifiable disorder of sex development, including individuals born with ambiguous genitalia or chromosomal abnormalities resulting in ambiguity regarding the individual's biological sex; (3) Treatments for individuals with partial androgen insensitivity syndrome"
+      ],
+      "last_bill_action": "2025-01-28"
+    },
+    {
+      "bill_number": "SB497",
+      "description": "A BILL to be entitled an Act to amend Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary school students, so as to require written notification to a parent when a student receives certain noninstructional services from certain school employees; to provide for exceptions; to provide for education records of such noninstructional services; to revise the \"Parents' Bill of Rights\" to provide for such written notification; to require local education agencies to adopt policies, rules, or regulations; to provide for definitions; to provide for construction; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "School Students; written notification to a parent when a student receives certain noninstructional services from certain school employees; require",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each time a student receives noninstructional services from a school employee, written notification shall be provided to the student's parent as soon as practicable but in no case later than 48 hours after such noninstructional services were provided. [...] 'Noninstructional services' means medical, nursing, or therapeutic counseling services provided to a student that are not part of instruction or instruction related services relating to state approved courses provided or coordinated by a certified teacher, a substitute teacher, or other qualified personnel."
+      ],
+      "last_bill_action": "2026-02-11"
+    },
+    {
+      "bill_number": "SB57",
+      "description": "A BILL to be entitled an Act to amend Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to deceptive or unfair practices, so as to protect the exercise of constitutional rights; to prohibit discrimination in the provision of essential services; to provide for public and private enforcement; to provide for definitions; to provide a short title; to provide legislative findings and declarations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 1,
+      "title": "\"Freedom of Speech and Belief Act\"; enact",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An essential services provider shall not: (1) Discriminate in the provision of essential services against a person [...] 'Discriminate in the provision of essential services' means, directly or indirectly, refusing to provide essential services or restricting or terminating the provision of essential services to a person based on such person's social credit score [...] 'Social credit score' means a score or rating determined by an analysis or evaluation of one or more the following: [...] (D) A person's failure or refusal to facilitate or assist employees in obtaining abortions or gender reassignment services;"
+      ],
+      "last_bill_action": "2025-01-29"
+    },
+    {
+      "bill_number": "SB74",
+      "description": "A BILL to be entitled an Act to amend Part 3 of Article 3 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to sale or distribution of harmful materials to minors, so as to repeal an exemption for libraries and librarians from the provisions of Code Section 16-12-103, relating to selling, loaning, distributing, or exhibiting materials harmful to minors; to provide that any violation of such Code section shall be a misdemeanor of a high and aggravated nature when committed knowingly; to provide for a defense for librarians who make good faith attempts to identify and remove material harmful to minors; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+      "state": "GA",
+      "status": 2,
+      "title": "Harmful Materials to Minors; exemption for libraries and librarians from the provisions of Code Section 16-12-103; repeal",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~The provisions of Code Section 16-12-103 shall not apply to any public library operated by the state or any of its political subdivisions nor to any library operated as a part of any school, college, or university~~ <u>Reserved.</u>"
+      ],
+      "last_bill_action": "2025-02-03"
+    }
+  ],
+  "year": "2026"
+}

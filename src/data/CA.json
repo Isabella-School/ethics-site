@@ -1,0 +1,67 @@
+{
+  "state": "California",
+  "stateAbbreviation": "CA",
+  "bills": [
+    {
+      "bill_number": "AB1464",
+      "description": "An act to amend Section 2606 of the Penal Code, relating to prisons.",
+      "state": "CA",
+      "status": 6,
+      "title": "Housing preferences.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Department of Corrections and Rehabilitation shall deny a housing preference and shall require an individual to be housed in a facility consistent with the individual’s anatomy if the individual has been convicted of, or the department has credible evidence that the individual has committed, any of the following offenses against one or more victims with a gender opposite to that of the individual, as determined by the individual’s anatomy: (1) Murder, as defined in Section 187. (2) Voluntary manslaughter, as defined in Section 192. (3) Mayhem, as defined in Section 203. (4) Robbery, as defined in Section 211. (5) Kidnapping, as defined in Sections 207, 209, 209.5, and 210. (6) Domestic violence, as defined in subdivision (e) of Section 243 and in Section 273.5. (7) Criminal threats, as defined in Section 422. (8) Rape or any other sexual offense enumerated in Section 290. (9) Human trafficking, as defined in Section 236.1. (10) Assault, as defined in Section 245. (11) Threats to victims or witnesses, as defined in Section 136.1"
+      ],
+      "last_bill_action": "2025-02-21"
+    },
+    {
+      "bill_number": "AB1998",
+      "description": "An act to amend Section 51 of the Civil Code, relating to discrimination.",
+      "state": "CA",
+      "status": 1,
+      "title": "Discrimination: sex and gender: intimate spaces.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The bill would delete the above definitions of \"sex\" and \"gender\" and, instead, define \"sex\" to mean an individual's immutable biological sex, including either female or male."
+      ],
+      "last_bill_action": "2026-02-17"
+    },
+    {
+      "bill_number": "AB579",
+      "description": "An act to amend Section 3011 of the Family Code, to amend Sections 11165.2, 11165.3, 11165.5, 11165.6, 11165.9, and 11166.05 of, and to add Section 273.2 to, the Penal Code, to add Section 2362 to the Probate Code, and to amend Section 300 of the Welfare and Institutions Code, relating to child abuse or neglect.",
+      "state": "CA",
+      "status": 6,
+      "title": "Yaeli’s Law.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "“Abuse or neglect in out-of-home care” does not include any of the following: [...] (2) Using a child’s legal name, referring to a child by a pronoun consistent with the child’s sex as recorded at birth, or treating a child consistent with his or her sex as recorded at birth. (3) The refusal to consent to, or provide, gender-affirming health care or gender affirming mental health care."
+      ],
+      "last_bill_action": "2025-02-12"
+    },
+    {
+      "bill_number": "AB600",
+      "description": "An act to add Section 51247 to the Education Code, relating to pupil instruction.",
+      "state": "CA",
+      "status": 6,
+      "title": "Pupil instruction: transgender concepts: opt out.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "“Transgender concepts” include any of the following: (A) Sex as being a social construct. (B) Humans as not being sexually dimorphic. (C) Sex as being assigned or guessed at birth. (D) Gender identity. (E) Transgender identities of any kind. (F) Sex and gender as being a spectrum. (G) Gender dysphoria. (H) Gender expression. (I) Gender. (J) “Gender affirming health care” or “gender affirming mental health care,” as defined in Section 16010.2 of the Welfare and Institutions Code. (K) Queer theory. (L) Pedophilia as a sexual orientation."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "SB311",
+      "description": "An act to add Section 3327 to the Penal Code, relating to correctional facilities.",
+      "state": "CA",
+      "status": 6,
+      "title": "Correctional facilities: women’s prisons.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Section 3327 is added to the Penal Code, to read: [...] (a) The Department of Corrections and Rehabilitation shall establish a secure facility at each women’s prison to house transgender women, in order to protect the security needs of biological women at birth in sleeping and other intimate areas. (b) The secure facility would allow the Department of Corrections and Rehabilitation to focus on the individual needs of the transgender women and biological women at birth populations. (c) Any inmate convicted of an offense for which they are required to register pursuant to Section 290, except for biological women at birth, shall be ineligible for housing at a women’s prison."
+      ],
+      "last_bill_action": "2025-02-10"
+    }
+  ],
+  "year": "2026"
+}

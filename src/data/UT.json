@@ -1,0 +1,151 @@
+{
+  "state": "Utah",
+  "stateAbbreviation": "UT",
+  "bills": [
+    {
+      "bill_number": "HB0095",
+      "description": "Public Employee Gender-specific Language Requirements",
+      "state": "UT",
+      "status": 6,
+      "title": "Public Employee Gender-specific Language Requirements",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The state board or an LEA may not:[...] (c) pursue disciplinary action against an individual who is instructional personnel or administrative personnel solely because the individual, in relation to a student, referred to the student by a name, pronoun, or other gender-specific language: (i) related to the student's birth name or biological sex in good faith and without knowledge of a preference described in Subsection (3)(c)(ii); (ii)(A) except as provided in Subsection (3)(c)(ii)(B), that the student prefers; or (B) that the student's parent prefers; or (iii) that does not conflict with the employee's religious or moral beliefs in a reasonable, non-disruptive, and non-harassing way, in accordance with Section 34A-5-112."
+      ],
+      "last_bill_action": "2025-09-02"
+    },
+    {
+      "bill_number": "HB0114",
+      "description": "Adult-oriented Performance and Material Amendments",
+      "state": "UT",
+      "status": 2,
+      "title": "Adult-oriented Performance and Material Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Unlawful pornographic performance. [...] (2) An actor commits unlawful pornographic performance if the actor knowingly presents or directs a pornographic performance in a public place or a place exposed to public view or participates in a portion of the performance that makes the performance pornographic. (3)(a) A violation of Subsection (2) is a third degree felony if the actor is 18 years old or older and is subject to: (i) a minimum mandatory fine of not less than $1,000; and (ii) incarceration for a term of not less than 30 days, which may not be suspended. (b) A violation of Subsection (2) is a class A misdemeanor if the actor is 16 or 17 years old. (c) A violation of Subsection (2) is a class B misdemeanor if the actor is younger than 16 years old."
+      ],
+      "last_bill_action": "2025-10-23"
+    },
+    {
+      "bill_number": "HB0174",
+      "description": "Sex Characteristic Change Treatment Amendments",
+      "state": "UT",
+      "status": 4,
+      "title": "Sex Characteristic Change Treatment Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider may not provide a hormonal transgender treatment to a patient who is a minor."
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "HB0183",
+      "description": "Sex Designation Amendments",
+      "state": "UT",
+      "status": 6,
+      "title": "Sex Designation Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each government entity shall ensure the preservation of distinctions on the basis of sex that protect individual privacy and competitive opportunity, as described in this chapter."
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "HB0193",
+      "description": "Transgender Medical Procedures Amendments",
+      "state": "UT",
+      "status": 6,
+      "title": "Transgender Medical Procedures Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental entity may not expend public funds to pay or otherwise reimburse, either directly or indirectly, any person for the performance of: (1) hormonal transgender treatment [...] (2) a primary sex characteristic surgical procedure [...] or (3) a secondary sex change characteristic surgical procedure."
+      ],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "HB0204",
+      "description": "Higher Education Student Belief Accommodation",
+      "state": "UT",
+      "status": 4,
+      "title": "Higher Education Student Belief Accommodation",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill: [...] broadens the scope of a requirement for a reasonable accommodation regarding a student's sincerely held religious and conscience beliefs; [...] for a course that the institution mandates for graduation or for an academic major, reasonably accommodate a student's objection to a required assignment or activity for reasons of the student's sincerely held religious or conscience belief if the requested accommodation does not create a fundamental alteration."
+      ],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "HB0258",
+      "description": "Insurance Coverage Amendments",
+      "state": "UT",
+      "status": 4,
+      "title": "Insurance Coverage Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health benefit plan that covers any sex transition procedure shall also cover any procedure, treatment, or therapy necessary to reverse an individual's sex transition procedure."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "HB0360",
+      "description": "School Athlete Amendments",
+      "state": "UT",
+      "status": 6,
+      "title": "School Athlete Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill [...] prohibits a public school from participating in an activities association that does not collect each student's unamended birth certificate [...] to determine eligibility as a condition of the association's registration process for an athletic team, event, or category."
+      ],
+      "last_bill_action": "2026-01-23"
+    },
+    {
+      "bill_number": "HB0404",
+      "description": "Sex-Designated Housing Amendments",
+      "state": "UT",
+      "status": 4,
+      "title": "Sex-Designated Housing Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill: [...] permits a landlord to restrict occupancy in single-sex housing to individuals of the designated biological sex; [...] clarifies that such restriction is not unlawful discrimination under the Utah Fair Housing Act"
+      ],
+      "last_bill_action": "2026-01-27"
+    },
+    {
+      "bill_number": "SB0031",
+      "description": "Office of Professional Licensure Review Amendments",
+      "state": "UT",
+      "status": 4,
+      "title": "Office of Professional Licensure Review Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Health care provider means: (i) a physician; (ii) a physician assistant licensed under Chapter 70a, Utah Physician Assistant Act; or (iii) an advanced practice registered nurse licensed under ~~[Subsection 58-31b-301(2)(e)]~~ Subsections 58-31b-301(2)(a) through (c)."
+      ],
+      "last_bill_action": "2025-12-18"
+    },
+    {
+      "bill_number": "SB0034",
+      "description": "Public Education Revisions",
+      "state": "UT",
+      "status": 4,
+      "title": "Public Education Revisions",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(ii) if appropriations are not available to provide the amount described in Subsection (7)(b)(i), a commensurately lesser amount."
+      ],
+      "last_bill_action": "2025-12-19"
+    },
+    {
+      "bill_number": "SB0174",
+      "description": "Exercise of Religious Beliefs and Conscience Amendments",
+      "state": "UT",
+      "status": 4,
+      "title": "Exercise of Religious Beliefs and Conscience Amendments",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person may not discriminate against a health care provider or a belief-based health care institution: (a) as a result of the health care provider's or the belief-based health care institution's exercise of the right of religious belief or conscience."
+      ],
+      "last_bill_action": "2026-01-21"
+    }
+  ],
+  "year": "2026"
+}

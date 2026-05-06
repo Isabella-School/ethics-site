@@ -1,0 +1,91 @@
+{
+  "state": "New York",
+  "stateAbbreviation": "NY",
+  "bills": [
+    {
+      "bill_number": "A04687",
+      "description": "Protects women's sports in middle school and high school from unfair competition.",
+      "state": "NY",
+      "status": 1,
+      "title": "Protects women's sports in middle school and high school from unfair competition.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural athletic team or sport that is sponsored by a public school or a private school for students in grades seven through twelve, which competes against other public or private middle or high schools, shall not permit persons other than those assigned female at birth to join such team or participate in such sport if such athletic team or sport is expressly designated solely for female athletes."
+      ],
+      "last_bill_action": "2025-02-04"
+    },
+    {
+      "bill_number": "A07741",
+      "description": "Protects women's sports in middle school and high school from unfair competition.",
+      "state": "NY",
+      "status": 1,
+      "title": "Protects women's sports in middle school and high school from unfair competition.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural athletic team or sport that is sponsored by a public school or a private school for students in grades seven through twelve, which competes against other public or private middle or high schools, shall not permit persons other than those assigned female at birth to join such team or participate in such sport if such athletic team or sport is expressly designated solely for female athletes."
+      ],
+      "last_bill_action": "2025-04-08"
+    },
+    {
+      "bill_number": "A08053",
+      "description": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+      "state": "NY",
+      "status": 1,
+      "title": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(i) All educational institutions in the state shall be temporarily exempt  from any state-imposed  requirement pursuant  to  subdivision  four of section two hundred ninety-six of the executive law related to allowing unrestricted  use  of  multi-occupancy bathrooms  and  locker  rooms by transgender students until such time as the relevant facilities are converted, renovated, or  newly  constructed to provide private, inclusive, and comfortable spaces for all students."
+      ],
+      "last_bill_action": "2025-04-22"
+    },
+    {
+      "bill_number": "A08239",
+      "description": "Prohibits the commissioner from promulgating any rules or regulations which prevent schools from disallowing biologically male students at birth to participate on a team organized for females where a school determines such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants, or would adversely impact a female student's ability to participate successfully in interschool athletic competition.",
+      "state": "NY",
+      "status": 1,
+      "title": "Prohibits the commissioner from promulgating any rules or regulations which prevent schools from disallowing biologically male students at birth to participate on a team organized for females where a school determines such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants, or would adversely impact a female student's ability to participate successfully in interschool athletic competition.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The commissioner shall be prohibited from promulgating any rules or regulations which prevent schools which offer interschool athletic competition from disallowing biologically male students at birth to participate on a team organized for females where a school determines that such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants, or would adversely impact a female student's ability to participate successfully in such interschool athletic competition, including access to individual awards, scholarships and other benefits of such successful participation."
+      ],
+      "last_bill_action": "2025-05-05"
+    },
+    {
+      "bill_number": "S00460",
+      "description": "Prohibits the commissioner from promulgating any rules or regulations which prevent schools from disallowing biologically male students at birth to participate on a team organized for females where a school determines such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants, or would adversely impact a female student's ability to participate successfully in interschool athletic competition.",
+      "state": "NY",
+      "status": 1,
+      "title": "Prohibits the commissioner from promulgating any rules or regulations which prevent schools from disallowing biologically male students at birth to participate on a team organized for females where a school determines such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants, or would adversely impact a female student's ability to participate successfully in interschool athletic competition.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The commissioner shall be prohibited from promulgating any rules or regulations which prevent schools which offer interschool athletic competition from disallowing biologically male students at birth to participate on a team organized for females where a school determines that such biological male student's participation would have an adverse effect on the physical or emotional safety of female participants."
+      ],
+      "last_bill_action": "2025-01-08"
+    },
+    {
+      "bill_number": "S04496",
+      "description": "Protects women's sports in middle school and high school from unfair competition.",
+      "state": "NY",
+      "status": 1,
+      "title": "Protects women's sports in middle school and high school from unfair competition.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural athletic team or sport that is sponsored by a public school or a private school for students in grades seven through twelve, which competes against other public or private middle or high schools, shall not permit persons other than those assigned female at birth to join such team or participate in such sport if such athletic team or sport is expressly designated solely for female athletes."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "S07489",
+      "description": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+      "state": "NY",
+      "status": 1,
+      "title": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(a) All educational institutions in the state shall be temporarily exempt  from any state-imposed  requirement pursuant  to  subdivision  four of section two hundred ninety-six of the executive law related to allowing unrestricted  use  of  multi-occupancy bathrooms  and  locker  rooms by transgender students until such time as the relevant facilities are converted, renovated, or  newly  constructed to provide private, inclusive, and comfortable spaces for all students."
+      ],
+      "last_bill_action": "2025-04-17"
+    }
+  ],
+  "year": "2026"
+}

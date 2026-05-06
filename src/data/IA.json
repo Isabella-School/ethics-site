@@ -1,0 +1,483 @@
+{
+  "state": "Iowa",
+  "stateAbbreviation": "IA",
+  "bills": [
+    {
+      "bill_number": "HF167",
+      "description": "A bill for an act relating to mandatory reporting to the board of educational examiners of licensed school employees who engage in grooming behavior toward students.(Formerly HSB 46.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to mandatory reporting to the board of educational examiners of licensed school employees who engage in grooming behavior toward students.(Formerly HSB 46.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "“Grooming behavior” means ~~any behavior, which in light of all relevant circumstances, constitutes actions to entice or entrap a student or students with the intent to make such student or students engage in a sex act~~ <u>the process of building trust and emotional connections with a student with the intent to exploit such student</u>."
+      ],
+      "last_bill_action": "2025-01-30"
+    },
+    {
+      "bill_number": "HF2123",
+      "description": "A bill for an act relating to state entities, including by modifying provisions related to prohibited diversity, equity, and inclusion offices and officers and to trainings and curricula regarding specific defined concepts provided by school districts.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to state entities, including by modifying provisions related to prohibited diversity, equity, and inclusion offices and officers and to trainings and curricula regarding specific defined concepts provided by school districts.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill relates to state entities, including by modifying provisions related to prohibited diversity, equity, and inclusion offices and officers and to trainings and curricula regarding specific defined concepts by school districts. [...] If the attorney general or other person bringing an action under Code section 19.3 is the prevailing party, the state entity is required to terminate the employment of the person who committed the violation. [...] If the supervisor of the person who committed the violation was aware of the violation and failed to take actions intended to prevent the violation, then the state entity is required to terminate the employment of the supervisor as well. Additionally, if the position of the person whose employment was terminated required a license, certificate, authorization, or statement of recognition, the person’s license, certificate, authorization, or statement of recognition shall be revoked by the entity that originally issued it."
+      ],
+      "last_bill_action": "2026-01-21"
+    },
+    {
+      "bill_number": "HF2309",
+      "description": "A bill for an act relating to public library requirements for materials harmful to minors, and providing civil and criminal penalties, and including effective date and applicability provisions.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to public library requirements for materials harmful to minors, and providing civil and criminal penalties, and including effective date and applicability provisions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The bill prohibits a public library from disseminating material harmful to minors to a minor unless the library has obtained parental consent [...] Material that is presumptively harmful material shall be classified as harmful to minors unless the public library documents, in writing, a determination that the material has serious literary, artistic, political, or scientific value for minors in a manner that is sufficient to rebut the presumption that the material is material harmful to minors."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "HF2338",
+      "description": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation instruction in grades seven through twelve.(Formerly HF 2121.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation instruction in grades seven through twelve.(Formerly HF 2121.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A school district shall not provide any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation to students in kindergarten through grade six through twelve."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "HF2487",
+      "description": "A bill for an act concerning restrictions on certain activities relating to diversity, equity, inclusion, and critical race theory by state entities and public institutions of higher education.(Formerly HSB 542.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act concerning restrictions on certain activities relating to diversity, equity, inclusion, and critical race theory by state entities and public institutions of higher education.(Formerly HSB 542.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board shall direct the institutions to review and identify any required courses or course requirements that include diversity, equity, inclusion, and critical race theory-related content. The board in its discretion shall direct an institution to eliminate such a course or course requirement."
+      ],
+      "last_bill_action": "2026-02-16"
+    },
+    {
+      "bill_number": "HF2488",
+      "description": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(Formerly HSB 537.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(Formerly HSB 537.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A private institution of higher education shall not [...] establish, sustain, support, or staff a diversity, equity, and inclusion office."
+      ],
+      "last_bill_action": "2026-02-16"
+    },
+    {
+      "bill_number": "HF2541",
+      "description": "A bill for an act relating to local laws implementing the Iowa civil rights Act of 1965.(Formerly HSB 664.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to local laws implementing the Iowa civil rights Act of 1965.(Formerly HSB 664.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A city or local government shall not enact any ordinance or other law which is broader or has different categories of unfair or discriminatory practices than those provided in this chapter."
+      ],
+      "last_bill_action": "2026-02-16"
+    },
+    {
+      "bill_number": "HF2557",
+      "description": "A bill for an act allowing a person to raise, guide, and instruct a child in a manner consistent with the child's sex.(Formerly HSB 669.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act allowing a person to raise, guide, and instruct a child in a manner consistent with the child's sex.(Formerly HSB 669.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Child abuse\" or \"abuse\" does not include [...] raising, guiding, or instructing a child in a manner consistent with the child's sex, including but not limited to all of the following: (a) Referring to the child by titles or pronouns consistent with the child's sex. (b) Seeking and consenting to a mental health service for a child for the purpose of helping the child live a life consistent with the child's sex. (c) Making mental health or medical decisions based on the child's sex. (d) Declining to consent to gender transition procedure-related activity, as described in section 147.164, for a child."
+      ],
+      "last_bill_action": "2026-02-16"
+    },
+    {
+      "bill_number": "HF269",
+      "description": "A bill for an act prohibiting certain requirements for students and faculty at regents institutions relating to diversity, equity, inclusion, and critical race theory and including applicability provisions. (Formerly HSB 53.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act prohibiting certain requirements for students and faculty at regents institutions relating to diversity, equity, inclusion, and critical race theory and including applicability provisions. (Formerly HSB 53.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public institution of higher education, or can you employee, appointee, or committee acting on his behalf, shall not require [...] faculty of the institution to apply or participate in diversity, equity, inclusion, and critical race theory practices or include diversity, equity, inclusion, and critical race theory-related content in any course as a condition of approval, designation, or listing as part of any academic degree program, including general education; major, minor, or certificate requirements;"
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HF401",
+      "description": "A bill for an act providing for general education requirements for undergraduate students at regents institutions and including applicability provisions. (Formerly HSB 63.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act providing for general education requirements for undergraduate students at regents institutions and including applicability provisions. (Formerly HSB 63.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "NEW SECTION. 262C.3 Standards for course content. The board shall adopt a policy to ensure that courses that satisfy the general education requirements [...] do not distort significant historical events or include any curriculum or other material that teaches identity politics."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "HF51",
+      "description": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The parent or guardian of a minor, or a minor upon attaining eighteen years of age, to whom obscene material has been knowingly disseminated or exhibited,[...] or who was exposed to an obscene performance, [...] may bring a civil action against any person who has knowingly disseminated or exhibited obscene material to the minor, or who engaged in, caused, or allowed a person to knowingly engage in an obscene performance in the presence of the minor."
+      ],
+      "last_bill_action": "2025-01-14"
+    },
+    {
+      "bill_number": "HF571",
+      "description": "A bill for an act relating to protections for medical practitioners and health care institutions, including those related to the exercise of conscience, whistleblower activities, and free speech, and providing penalties. (Formerly HSB 139.) Effective date: 07/01/2026",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act relating to protections for medical practitioners and health care institutions, including those related to the exercise of conscience, whistleblower activities, and free speech, and providing penalties. (Formerly HSB 139.) Effective date: 07/01/2026",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A medical practitioner, healthcare institution, or healthcare payor has the right not to participate in or pay for a healthcare service that violates the medical practitioner’s, healthcare institution’s, or healthcare payor’s conscience."
+      ],
+      "last_bill_action": "2025-02-24"
+    },
+    {
+      "bill_number": "HF694",
+      "description": "A bill for an act relating to the display of flags on and in public buildings, grounds, and vehicles, and providing penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to the display of flags on and in public buildings, grounds, and vehicles, and providing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "a. A public entity shall only raise or display the flags of the United States of America, the state of Iowa, the United States military, the national league of POW/MIA families, a county, a city, a township, a school or university, and any other political subdivision or special district in the state as established pursuant to state or local law; the Gadsden flag; and the Washington cruisers flag."
+      ],
+      "last_bill_action": "2025-02-28"
+    },
+    {
+      "bill_number": "HF721",
+      "description": "A bill for an act relating to the consideration of nonfinancial factors in providing financial services, including actions regarding the economic interest of enterprise shareholders and participants in and beneficiaries of public pension benefit plans, and providing penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to the consideration of nonfinancial factors in providing financial services, including actions regarding the economic interest of enterprise shareholders and participants in and beneficiaries of public pension benefit plans, and providing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A financial institution shall not discriminate in the provision of financial services or agree, conspire, or coordinate to do so. [...]  \"Discriminate in the provision of financial services\" means to refuse to provide, terminate, or restrict financial services based on an analysis or rating that evaluates any of the following: [...] c. A person’s failure or refusal to conduct any type of racial, diversity, or gender audit or to provide a preference or benefit based on race, diversity, or gender beyond what is required by law. d. A person’s failure or refusal to assist an employee in obtaining an abortion or gender reassignment services."
+      ],
+      "last_bill_action": "2025-03-04"
+    },
+    {
+      "bill_number": "HF80",
+      "description": "A bill for an act prohibiting school districts and charter schools from taking disciplinary action against employees, contractors, or students for the use of legal names, the use of student names as listed in school registration forms or records, or for the failure to use personal pronouns in official communications, and providing civil penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting school districts and charter schools from taking disciplinary action against employees, contractors, or students for the use of legal names, the use of student names as listed in school registration forms or records, or for the failure to use personal pronouns in official communications, and providing civil penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An Act prohibiting school districts and charter schools from taking disciplinary action against employees, contractors, or students for the use of legal names, or use of student name, as listed in school, registration, forms or records, or for the failure to use personal pronouns in official communications, and providing civil penalties."
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "HF854",
+      "description": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(Formerly HSB 60.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(Formerly HSB 60.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Diversity, Equity, and Inclusion Office Prohibited. 1. A private institution of higher education shall not [...] establish, sustain, support, or staff a diversity, equity, and inclusion office."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "HF855",
+      "description": "A bill for an act prohibiting community colleges from establishing diversity, equity, and inclusion offices and engaging in certain other activities relating to diversity, equity, and inclusion.(Formerly HSB 61.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting community colleges from establishing diversity, equity, and inclusion offices and engaging in certain other activities relating to diversity, equity, and inclusion.(Formerly HSB 61.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill provides that a public institution of higher education [...] includes a community college. Code chapter 261J generally prohibits public institutions of higher education from establishing diversity, equity, and inclusion offices [...or] requiring a person to provide a diversity, equity, or inclusion statement."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "HF888",
+      "description": "A bill for an act relating to education, including by modifying provisions related to private instruction, world language instruction, and dual enrollment, and including effective date and applicability provisions.(Formerly HF 88.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to education, including by modifying provisions related to private instruction, world language instruction, and dual enrollment, and including effective date and applicability provisions.(Formerly HF 88.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The world language instruction shall not alter the world language to incorporate gender-neutral language if the world language being offered and taught utilizes a grammatical gender system."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "HF891",
+      "description": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.(Formerly HSB 158.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.(Formerly HSB 158.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Obscene performance\" means a visual performance by a person [...] that exposes [...] prosthetics and artificial sexual organs or substitutes thereof [...] The average person, viewing the performance as a whole and applying contemporary community standards regarding what is suitable for minors, would find it appeals to the prurient interest, is patently offensive, and, taken as a whole, lacks serious artistic, literary, political, or scientific value."
+      ],
+      "last_bill_action": "2025-03-07"
+    },
+    {
+      "bill_number": "HF922",
+      "description": "A bill for an act relating to discrimination in the provision of financial services, and providing civil penalties.(Formerly HF 594.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to discrimination in the provision of financial services, and providing civil penalties.(Formerly HF 594.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Discriminate\" [...] means a financial institution's use of a social credit score to directly or indirectly decline to provide the full and equal enjoyment of financial services to a person, and includes refusing to provide, terminating, or restricting financial services to a person. [...] \"Social credit score\" means an analysis, reading, scoring list, or tabulation that evaluates any of the following: [...] (b) Conduct a racial, diversity, or gender audit or disclosure, or provide a quota, preference, or benefit based on race, diversity, or gender. (c) Facilitate or assist an employee in obtaining an abortion or gender reassignment services."
+      ],
+      "last_bill_action": "2025-03-12"
+    },
+    {
+      "bill_number": "HSB537",
+      "description": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(See HF 2488.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices.(See HF 2488.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A private institution of higher education shall not [...] establish, sustain, support, or staff a diversity, equity, and inclusion office."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "HSB542",
+      "description": "A bill for an act prohibiting courses and content relating to diversity, equity, inclusion, and critical race theory in general education requirements and core curricula at regents institutions.(See HF 2487.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting courses and content relating to diversity, equity, inclusion, and critical race theory in general education requirements and core curricula at regents institutions.(See HF 2487.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An Act prohibiting private institutions of higher education that participate in the Iowa tuition grant program from establishing diversity, equity, and inclusion offices."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "HSB84",
+      "description": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender identity or sexual orientation to students in grades seven through twelve.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender identity or sexual orientation to students in grades seven through twelve.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An Act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender identity or sexual orientation to students in grades seven through twelve."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SF115",
+      "description": "A bill for an act relating to human growth and development course enrollment at school districts and to pupil attendance at educational conferences or seminars in which human growth and development information is provided.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to human growth and development course enrollment at school districts and to pupil attendance at educational conferences or seminars in which human growth and development information is provided.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A school district shall not enroll a pupil in a course of instruction in human growth and development or facilitate a pupil’s attendance at an educational conference or seminar that provides information about human growth and development unless the pupil’s parent or guardian files with the appropriate principal informed consent acknowledging receipt of the information required."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SF116",
+      "description": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to obscenity, including the exposure of a minor to an obscene performance and admittance of a minor to a premises with obscene performances, establishing a private civil cause of action, and providing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "“Obscene performance” means a visual performance by a person [...] that exposes the person’s [...] female breast, including prosthetics and artificial sexual organs or substitutes therefor [...] which the average person, viewing the performance as a whole and applying contemporary community standards with respect to what is suitable to be viewed by minors, would find appeals to the prurient interest and [...] taken as a whole lacks serious artistic, literary, political, or scientific value."
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SF156",
+      "description": "A bill for an act relating to policies for certain private spaces in facilities of public entities, providing penalties, and including effective date provisions.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to policies for certain private spaces in facilities of public entities, providing penalties, and including effective date provisions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Designation and use of private spaces. A state entity shall require each private space located within a facility owned, operated, or controlled by the state entity to be designated only for and used by persons of the same biological sex."
+      ],
+      "last_bill_action": "2025-01-29"
+    },
+    {
+      "bill_number": "SF2003",
+      "description": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation instruction in grades seven through twelve.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation instruction in grades seven through twelve.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An Act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender theory or sexual orientation instruction in grades seven through twelve."
+      ],
+      "last_bill_action": "2026-01-12"
+    },
+    {
+      "bill_number": "SF2063",
+      "description": "A bill for an act prohibiting courses and content relating to diversity, equity, inclusion, and critical race theory in general education requirements and core curricula at regents institutions.(See SF 2303.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting courses and content relating to diversity, equity, inclusion, and critical race theory in general education requirements and core curricula at regents institutions.(See SF 2303.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This Act shall be known and may be cited as the “Stop Woke Act” [...] prohibits diversity, equity, inclusion [...] courses or course requirements [...] from being included in any undergraduate general education requirement or core curriculum at institutions of higher education."
+      ],
+      "last_bill_action": "2026-01-15"
+    },
+    {
+      "bill_number": "SF2072",
+      "description": "A bill for an act relating to state entities, including by modifying provisions related to prohibited diversity, equity, and inclusion offices and officers and to trainings and curricula regarding specific defined concepts provided by school districts.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to state entities, including by modifying provisions related to prohibited diversity, equity, and inclusion offices and officers and to trainings and curricula regarding specific defined concepts provided by school districts.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Current Code [...] prohibits state entities from expending any moneys appropriated by the general assembly, or any other moneys, to establish, sustain, support, or staff a diversity, equity, and inclusion office, or to contract, employ, engage, or hire an individual to serve as a diversity, equity, and inclusion officer. [...] The bill modifies Code [...] to provide that if the attorney general [...] is the prevailing party, the state entity is required to terminate the employment of the person who committed the violation."
+      ],
+      "last_bill_action": "2026-01-21"
+    },
+    {
+      "bill_number": "SF2119",
+      "description": "A bill for an act relating to obscenity exemptions for public libraries and educational institutions.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to obscenity exemptions for public libraries and educational institutions.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-01-27"
+    },
+    {
+      "bill_number": "SF220",
+      "description": "A bill for an act relating to protections for medical practitioners, health care institutions, and health care payors including those related to the exercise of conscience, whistleblower activities, and free speech, and providing penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to protections for medical practitioners, health care institutions, and health care payors including those related to the exercise of conscience, whistleblower activities, and free speech, and providing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-02-05"
+    },
+    {
+      "bill_number": "SF2303",
+      "description": "A bill for an act providing for a review of undergraduate general education requirements and core curricula at regents institutions and authorizing elimination of certain required courses and course requirements.(Formerly SF 2063.)",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act providing for a review of undergraduate general education requirements and core curricula at regents institutions and authorizing elimination of certain required courses and course requirements.(Formerly SF 2063.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board shall direct the institutions to review and identify any required courses or course requirements that include diversity, equity, inclusion, and critical race theory-related content. The board in its discretion shall direct an institution to eliminate such a course or course requirement."
+      ],
+      "last_bill_action": "2026-02-12"
+    },
+    {
+      "bill_number": "SF244",
+      "description": "A bill for an act providing for general education requirements for undergraduate students at regents institutions and including applicability provisions.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act providing for general education requirements for undergraduate students at regents institutions and including applicability provisions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "NEW SECTION. 262C.3 Standards for course content. The board shall adopt a policy to ensure that courses that satisfy the general education requirements [...] do not distort significant historical events or include any curriculum or other material that teaches identity politics."
+      ],
+      "last_bill_action": "2025-02-10"
+    },
+    {
+      "bill_number": "SF273",
+      "description": "A bill for an act relating to mandatory reporting to the board of educational examiners of licensed school employees who engage in grooming behavior toward students. (Formerly SSB 1066.) Effective date: 07/01/2026",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act relating to mandatory reporting to the board of educational examiners of licensed school employees who engage in grooming behavior toward students. (Formerly SSB 1066.) Effective date: 07/01/2026",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "“Grooming behavior” means any <u>pattern of</u> behavior, which in light of all relevant circumstances, constitutes actions to entice or entrap a student ~~or students~~ with the intent to ~~make~~ <u>take advantage of</u> such student ~~or students engage~~ <u>for the benefit of the individual engaging in the pattern of behavior, including but not limited to engaging</u> in a sex act <u>with the student</u>."
+      ],
+      "last_bill_action": "2025-02-12"
+    },
+    {
+      "bill_number": "SF282",
+      "description": "A bill for an act prohibiting certain requirements for students and faculty at regents institutions relating to diversity, equity, inclusion, and critical race theory and including applicability provisions.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting certain requirements for students and faculty at regents institutions relating to diversity, equity, inclusion, and critical race theory and including applicability provisions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Diversity, equity, inclusion, and critical race theory-related content\" means content that does one or more of the following: a. Relates any of the following topics to contemporary American society: [...] allyship, [...] race- or gender-based diversity, race- or gender-based equity, or race- or gender-based inclusion."
+      ],
+      "last_bill_action": "2025-02-12"
+    },
+    {
+      "bill_number": "SF335",
+      "description": "A bill for an act relating to education, including by modifying provisions related to trainings and curricula provided by school districts and prohibited sexual orientation and gender identity instruction, and implementing prohibitions related to the diversity, equity, and inclusion efforts of institutions of higher learning governed by the state board of regents, community colleges, and public schools.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act relating to education, including by modifying provisions related to trainings and curricula provided by school districts and prohibited sexual orientation and gender identity instruction, and implementing prohibitions related to the diversity, equity, and inclusion efforts of institutions of higher learning governed by the state board of regents, community colleges, and public schools.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The bill prohibits school districts, charter schools, and innovation zone schools from establishing or expending money to establish, sustain, support, or staff a diversity, equity, and inclusion office. It also prohibits hiring or assigning an employee of the school, or contracting with a third party, to perform the duties of a diversity, equity, or inclusion office."
+      ],
+      "last_bill_action": "2025-02-17"
+    },
+    {
+      "bill_number": "SF473",
+      "description": "A bill for an act relating to certain sincerely held religious or moral beliefs of certain entities for purposes of child foster care and adoption. (Formerly SF 236.) Effective date: 07/01/2026",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act relating to certain sincerely held religious or moral beliefs of certain entities for purposes of child foster care and adoption. (Formerly SF 236.) Effective date: 07/01/2026",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The department shall not do any of the following: a. (1) Require a prospective adoptive parent to affirm, accept, or support a policy related to sexual orientation or gender identity that conflicts with the person’s sincerely held religious or moral beliefs. (2) Preclude a person from being qualified as a prospective adoptive parent based, in whole or in part, on the person’s sincerely held religious or moral beliefs related to sexual orientation or gender identity, including but not limited to the person’s intent to guide, instruct, or raise a child in a manner consistent with the person’s sincerely held religious or moral beliefs. b. The department, and the department’s designees, shall not adopt a standard, policy, or rule that precludes a person from being considered as a child’s prospective adoptive parent based, in whole or in part, on the person’s sincerely held religious or moral beliefs related to sexual orientation or gender identity."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "SF507",
+      "description": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(Formerly SSB 1150.)",
+      "state": "IA",
+      "status": 2,
+      "title": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(Formerly SSB 1150.)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A city or any city board or office shall not adopt an ordinance, motion, resolution, amendment, or policy, except as otherwise provided by federal or state law, that does any of the following: (1) Establishes or maintains a diversity, equity, and inclusion office. (2) Hires or assigns an employee or contracts with a third party to perform duties of a diversity, equity, or inclusion office. (3) Compels, requires, induces, or solicits any person to provide a diversity, equity, and inclusion statement, or gives preferential consideration to any person based on the provisions of a diversity, equity, and inclusion statement."
+      ],
+      "last_bill_action": "2025-03-04"
+    },
+    {
+      "bill_number": "SF579",
+      "description": "A bill for an act relating to local laws implementing the Iowa civil rights Act of 1965, local civil rights commissions, and local civil rights agencies, and including effective date provisions. (Formerly SSB 1184.) Effective date: 03/10/2026.",
+      "state": "IA",
+      "status": 4,
+      "title": "A bill for an act relating to local laws implementing the Iowa civil rights Act of 1965, local civil rights commissions, and local civil rights agencies, and including effective date provisions. (Formerly SSB 1184.) Effective date: 03/10/2026.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A city or local government shall not enact any ordinance or other law which is broader or has different categories of unfair or discriminatory practices than those provided in this chapter."
+      ],
+      "last_bill_action": "2025-03-10"
+    },
+    {
+      "bill_number": "SF8",
+      "description": "A bill for an act prohibiting school districts and charter schools from taking disciplinary action against employees, contractors, or students for the use of legal names, the use of student names as listed in school registration forms or records, or for the failure to use personal pronouns in official communications, and providing civil penalties.",
+      "state": "IA",
+      "status": 1,
+      "title": "A bill for an act prohibiting school districts and charter schools from taking disciplinary action against employees, contractors, or students for the use of legal names, the use of student names as listed in school registration forms or records, or for the failure to use personal pronouns in official communications, and providing civil penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition on disciplinary action — use of legal names or names of record — failure to use personal pronouns. The board of directors of each school district shall not take any disciplinary action against an employee of the school district, a contractor hired by the school district, or a student [...] for addressing other employees, contractors, or students using the employee’s, contractor’s, or student’s legal name. [...] for addressing other students using the student’s name as it is listed in the school district’s registration forms or records. [...] for failing to disclose or use any personal pronouns in the greeting or signature block of any form of official communication, including letters, forms, notes, or electronic mail."
+      ],
+      "last_bill_action": "2025-01-13"
+    }
+  ],
+  "year": "2026"
+}

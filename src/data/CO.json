@@ -1,0 +1,43 @@
+{
+  "state": "Colorado",
+  "stateAbbreviation": "CO",
+  "bills": [
+    {
+      "bill_number": "HB1083",
+      "description": "Concerning protecting female sports.",
+      "state": "CO",
+      "status": 6,
+      "title": "Protect Female Sports Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural athletic team or sport sponsored by a school or athletic association that is designated for females, women, or girls must not be open for participation by a male student or male participant."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "HB1087",
+      "description": "Concerning safeguarding a minor from health-care interventions intended to alter the minor's biological sex.",
+      "state": "CO",
+      "status": 6,
+      "title": "Safeguard Minors from Sex-Altering Interventions",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person, health-care provider, or mental health professional shall not knowingly: (a) perform surgery on a minor who is under eighteen years old, or prescribe, administer, or provide hormones or puberty blockers to a minor, for the purpose of altering the minor's biological sex characteristics; or (b) provide mental health therapy, professional counseling, or referrals that promote or affirm a minor's belief that the minor was born in the wrong body or that the minor needs medical intervention to address distress related to the minor's biological sex."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "HB1128",
+      "description": "Concerning the statute of limitations for youth gender transition procedures.",
+      "state": "CO",
+      "status": 6,
+      "title": "Limitation on Gender Transition Procedure Claims",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The bill requires that a cause of action for an intentional or negligent act for an injury as a result of a youth gender transition procedure by a provider must be brought before the youth reaches 38 years old."
+      ],
+      "last_bill_action": "2026-02-04"
+    }
+  ],
+  "year": "2026"
+}

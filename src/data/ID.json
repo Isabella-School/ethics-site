@@ -1,0 +1,187 @@
+{
+  "state": "Idaho",
+  "stateAbbreviation": "ID",
+  "bills": [
+    {
+      "bill_number": "H0516",
+      "description": "EDUCATION -- Amends and adds to existing law to establish provisions regarding the prohibition of taxpayer funding of teachers unions.",
+      "state": "ID",
+      "status": 4,
+      "title": "Amends and adds to existing law to establish provisions regarding the prohibition of taxpayer funding of teachers unions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public school shall be required to adopt procedures and policies that prohibit classroom instruction by public school personnel on sexual orientation or gender identity from kindergarten through grade 12."
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "H0538",
+      "description": "STATE GOVERNMENT AND STATE AFFAIRS -- Amends existing law to revise and remove provisions regarding flags flown by a governmental entity, to provide a penalty, and to establish provisions regarding enforcement by the Attorney General.",
+      "state": "ID",
+      "status": 1,
+      "title": "Amends existing law to revise and remove provisions regarding flags flown by a governmental entity, to provide a penalty, and to establish provisions regarding enforcement by the Attorney General.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "FLAGS -- PROPER PROTOCOL. [...] <u>Property of a governmental entity includes land owned and maintained by the governmental entity, including buildings, adjoining land, parks, roads, and boulevards.</u> (2) A governmental entity shall not display a flag on its property other than the following: [...] ~~(h) Official flags of Idaho colleges, universities, and public schools.~~ <u>The official flag of an Idaho college or university, if it has designated by official policy exactly one (1) official flag.</u>"
+      ],
+      "last_bill_action": "2026-01-27"
+    },
+    {
+      "bill_number": "H0557",
+      "description": "COMMISSION ON HUMAN RIGHTS -- Adds to existing law to provide for uniformity in local government antidiscrimination ordinances.",
+      "state": "ID",
+      "status": 2,
+      "title": "Adds to existing law to provide for uniformity in local government antidiscrimination ordinances.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The legislature finds and determines that local government antidiscrimination ordinances are frequently weaponized to coerce persons engaged in business to choose either to violate their sincerely held moral, philosophical, and religious beliefs or to leave the market altogether."
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "H0561",
+      "description": "STATE GOVERNMENT AND STATE AFFAIRS -- Amends existing law to revise and remove provisions regarding flags flown by a governmental entity, to provide a penalty, and to establish provisions regarding enforcement by the Attorney General.",
+      "state": "ID",
+      "status": 4,
+      "title": "Amends existing law to revise and remove provisions regarding flags flown by a governmental entity, to provide a penalty, and to establish provisions regarding enforcement by the Attorney General.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental entity shall not display a flag on its property other than the following: [...] (b) Official flags of any state in the United States and the official city or county flag. [...] (g) The official flag of an Idaho college or university, if it has designated by official policy exactly one (1) official flag."
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "H0572",
+      "description": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "state": "ID",
+      "status": 1,
+      "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider shall not: (a) Render gender transition services to any individual in the course and scope of employment by a state or local government; or (b) Seek or accept payment or reimbursement for the rendering of gender transition services to any individual from any of the following: 1. A state or local government, including: a. A person contracted with a state or local government to provide or administer a health plan; and b. A health plan offered or sponsored by a state or local government; or 2. A federal agency providing or administering Medicare benefits to or on behalf of a Medicare beneficiary in this state [...]"
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "H0606",
+      "description": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+      "state": "ID",
+      "status": 1,
+      "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any person who knowingly and willfully enters a restroom or changing room in a government-owned building or a place of public accommodation [...] that is designated for use by the opposite biological sex of such person shall be guilty of a misdemeanor [...] for a second time within five (5) years of the first conviction [...] shall be guilty of a felony."
+      ],
+      "last_bill_action": "2026-02-09"
+    },
+    {
+      "bill_number": "H0607",
+      "description": "PROTECTING PRIVACY AND SAFETY IN PUBLIC BUILDINGS -- Adds to existing law to establish requirements and a cause of action regarding privacy and safety in public restroom and changing facilities and to establish a duty regarding the privacy and safety of restroom and changing facilities in places of public accommodation.",
+      "state": "ID",
+      "status": 2,
+      "title": "Adds to existing law to establish requirements and a cause of action regarding privacy and safety in public restroom and changing facilities and to establish a duty regarding the privacy and safety of restroom and changing facilities in places of public accommodation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Every government building restroom or changing facility accessible by multiple individuals at the same time shall be: (a) Designated for use by male individuals only or female individuals only; and (b) Used only by individuals of the sex corresponding to the designation provided."
+      ],
+      "last_bill_action": "2026-02-09"
+    },
+    {
+      "bill_number": "H0739",
+      "description": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "state": "ID",
+      "status": 1,
+      "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the intent of the legislature to prohibit any healthcare provider or educational institution from facilitating a pediatric sex transition or social transition without informing and obtaining informed consent from a minor child's parents or guardians."
+      ],
+      "last_bill_action": "2026-02-19"
+    },
+    {
+      "bill_number": "H0752",
+      "description": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+      "state": "ID",
+      "status": 4,
+      "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any person who knowingly and willfully enters a restroom or changing room in a government-owned building or a place of public accommodation [...] that is designated for use by the opposite biological sex of such person shall be guilty of a misdemeanor [...] Any person who pleads guilty to or is found guilty of a violation of this section [...] a second time within five (5) years [...] shall be guilty of a felony."
+      ],
+      "last_bill_action": "2026-02-23"
+    },
+    {
+      "bill_number": "H0819",
+      "description": "MINORS -- Amends existing law to revise provisions regarding material harmful to minors.",
+      "state": "ID",
+      "status": 1,
+      "title": "Amends existing law to revise provisions regarding material harmful to minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A private school or public library, or an agent thereof, shall not promote, give, or make available to a minor: any material that is sexually explicit and, taken as a whole, is harmful to minors. [...] \"Harmful to minors\" includes in its meaning the quality of any material or of any performance or of any description or representation, in whatever form, of nudity, sexual conduct, sexual excitement, or sado-masochistic abuse, when it: (i) Appeals taken as a whole, appeals to the prurient interest of adolescent minors as judged by the average person, applying contemporary community standards; and (ii) Depicts or describes representations or descriptions of nudity, sexual conduct, sexual excitement, or sado-masochistic abuse which are patently offensive to prevailing standards in the adult community with respect to what is suitable material for adolescent minors."
+      ],
+      "last_bill_action": "2026-03-04"
+    },
+    {
+      "bill_number": "H0822",
+      "description": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "state": "ID",
+      "status": 4,
+      "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the intent of the legislature to prohibit any healthcare provider or educational institution from facilitating a pediatric sex transition or social transition without informing and obtaining informed consent from a minor child's parents or guardians."
+      ],
+      "last_bill_action": "2026-03-04"
+    },
+    {
+      "bill_number": "H0828",
+      "description": "MERIT-BASED HEALTH CARE -- Adds to existing law to establish the Merit-Based Health Care Act.",
+      "state": "ID",
+      "status": 1,
+      "title": "Adds to existing law to establish the Merit-Based Health Care Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "With respect to employment, policies, training, or communications, a healthcare provider shall not: (a) Engage in discriminatory hiring or prohibited DEI conduct; (b) Adopt or implement internal policies or trainings that constitute prohibited DEI conduct; or (c) Use state funds, including Medicaid reimbursements, for any public-facing communication that promotes prohibited DEI conduct."
+      ],
+      "last_bill_action": "2026-03-05"
+    },
+    {
+      "bill_number": "H0928",
+      "description": "MERIT-BASED HEALTH CARE -- Adds to existing law to establish the Merit-Based Health Care Act.",
+      "state": "ID",
+      "status": 4,
+      "title": "Adds to existing law to establish the Merit-Based Health Care Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Diversity, equity, and inclusion\" or \"DEI\" means the policies commonly known and practiced as DEI, [...] or the concepts that: [...] (j) All people should be compelled to believe in and speak in a manner consistent with the concept that an individual can change the individual's sex or gender."
+      ],
+      "last_bill_action": "2026-03-18"
+    },
+    {
+      "bill_number": "HJM017",
+      "description": "MARRIAGE -- States findings of the Legislature and calls on the Supreme Court of the United States to reverse the decision in Obergefell v. Hodges and restore the natural definition of marriage, a union of one man and one woman.",
+      "state": "ID",
+      "status": 2,
+      "title": "States findings of the Legislature and calls on the Supreme Court of the United States to reverse the decision in Obergefell v. Hodges and restore the natural definition of marriage, a union of one man and one woman.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Marriage as an institution has been recognized as the union of one man and one woman for more than years; [...] Obergefell arbitrarily and unjustly rejected this definition of marriage [...] in favor of a novel, flawed interpretation of key clauses within the Constitution and our nation's legal and cultural precedents;"
+      ],
+      "last_bill_action": "2026-02-24"
+    },
+    {
+      "bill_number": "S1448",
+      "description": "MINORS -- Amends existing law to revise provisions regarding material harmful to minors.",
+      "state": "ID",
+      "status": 4,
+      "title": "Amends existing law to revise provisions regarding material harmful to minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Harmful to minors\" means the quality of any material when it: [...] <u>(i) Taken as a whole, appeals to the prurient interest of adolescent minors as judged by the average person, applying contemporary community standards;</u> [...] Masturbation, excretory functions or lewd exhibition of the genitals or genital area. ~~Nothing herein contained is intended to include or proscribe any matter which, when considered as a whole, and in context in which it is used, possesses serious literary, artistic, political or scientific value for minors.~~"
+      ],
+      "last_bill_action": "2026-03-30"
+    }
+  ],
+  "year": "2026"
+}

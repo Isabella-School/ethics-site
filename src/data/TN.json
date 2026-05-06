@@ -1,0 +1,531 @@
+{
+  "state": "Tennessee",
+  "stateAbbreviation": "TN",
+  "bills": [
+    {
+      "bill_number": "HB0304",
+      "description": "As introduced, prohibits state and local government entities from displaying or allowing display of flags other than Tennessee and U.S. flags on courthouses and public roads and sidewalks; prohibits LEAs and public charter schools from displaying in public schools flags other than the official United States flag and the official Tennessee state flag. - Amends TCA Title 4; Section 5-5-114; Section 6-54-144; Title 7; Section 15-2-116; Title 49; Title 55; Title 58 and Title 65, Chapter 31, Part 1.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Section 5-5-114; Section 6-54-144; Title 7; Section 15-2-116; Title 49; Title 55; Title 58 and Title 65, Chapter 31, Part 1, relative to the display of flags.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(c)(1) An LEA or public charter school shall not display, nor permit any of its employees or agents to display, a flag other than the following on or in a public school: (A) The United States flag; (B) The official Tennessee state flag; (C) A flag that cannot be disturbed or altered pursuant to § 4-1- 412; (D) The POW/MIA flag; (E) A flag that represents an Indian tribe, as defined in 25 U.S.C. § 5304; (F) A flag that represents a city, county, metropolitan government, or other political subdivision of this state; (G) A flag that represents any unit, branch, or other division of the armed forces, including, but not limited to, an ROTC program; (H) The current, official flag of a country or political subdivision thereof; (I) A flag that represents a college or university; (J) A flag that is displayed temporarily as part of a bona fide course curriculum; (K) An official school flag; or (L) The flag of an organization duly authorized to use a public school building;"
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "HB0315",
+      "description": "As introduced, enacts the \"Tennessee Covenant Marriage Act\" to create covenant marriage, which is entered into by one male and one female, who understand and agree that marriage is a lifelong relationship; permits a spouse in a covenant marriage to obtain a judgment of divorce under certain circumstances. - Amends TCA Title 8; Title 10; Title 16; Title 36; Title 39; Title 67 and Title 68.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 8; Title 10; Title 16; Title 36; Title 39; Title 67 and Title 68, relative to marriage.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The following statement made by both parties: We do solemnly declare that marriage is a covenant between a man and a woman who agree to live together as husband and wife for so long as we both may live."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "HB0320",
+      "description": "As introduced, designates the new swimming pool at Henry Horton State Park as the \"Riley Gaines Aquatic Center.\"",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to designate a swimming facility at Henry Horton State Park as the \"Riley Gaines Aquatic Center\".",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The department of environment and conservation is directed to erect suitable signs or affix suitable markers designating such swimming pool as the \"Riley Gaines Aquatic Center\". [...] This act takes effect upon becoming a law, the public welfare requiring it."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "HB0470",
+      "description": "As introduced, enacts the \"Tennessee Professionals' Freedom of Religion Act.\" - Amends TCA Title 4.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4, relative to the Professionals' Freedom of Religion Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Unlawful practices against professional licenses prohibited. (a) It is unlawful for a governmental entity to deny, revoke, suspend, or take other adverse action against an individual's license for the following: (1) Refusing to affirm a statement or oath that is contrary to the individual's sincerely held religious beliefs or moral convictions; (2) Expressing sincerely held religious beliefs or moral convictions in any context, including a professional context, as long as the services provided otherwise meet the standard of care or practice for that profession"
+      ],
+      "last_bill_action": "2025-01-28"
+    },
+    {
+      "bill_number": "HB0571",
+      "description": "As introduced, enacts the \"Women's Safety and Protection Act.\" - Amends TCA Title 4; Title 37; Title 41; Title 49 and Title 68.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 37; Title 41; Title 49 and Title 68, relative to public safety.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental agency shall not prohibit distinctions between the sexes with respect to athletics, correctional facilities, juvenile detention facilities, domestic violence shelters, or other accommodations where biology, safety, or privacy is implied and that result in separate accommodations that are substantially related to the important government interest of protecting the health, safety, and privacy of individuals in such circumstances."
+      ],
+      "last_bill_action": "2025-01-29"
+    },
+    {
+      "bill_number": "HB0754",
+      "description": "As introduced, requires gender clinics accepting funds from this state to perform gender transition procedures to also perform detransition procedures; requires insurance entities providing coverage of gender transition procedures to also cover detransition procedures; requires certain gender clinics and insurance entities to report information regarding detransition procedures to the department of health. - Amends TCA Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 3,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71, relative to health care.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A gender clinic that uses funds provided by this state to directly or indirectly provide or pay for gender transition procedures must, as a condition of receiving such funds, agree to provide or pay for the performance of detransition procedures."
+      ],
+      "last_bill_action": "2025-02-03"
+    },
+    {
+      "bill_number": "HB0884",
+      "description": "As introduced, expands the definition of \"adult-oriented establishment\", for purposes of imposing certain requirements, to include commercial establishments that offer sexually oriented material, devices, or paraphernalia, adult cabaret entertainment, or specified sexual activities, but for which such materials, devices, paraphernalia, entertainment, or activities are not the principal or predominant stock or trade. - Amends TCA Title 7, Chapter 51, Part 14.",
+      "state": "TN",
+      "status": 2,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented establishments.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Adult-oriented establishment means a facility, establishment, business, or service, or portion thereof, that offers sexually oriented material, devices, or paraphernalia; adult cabaret entertainment; or specified sexual activities, or any combination or form thereof, whether printed, filmed, recorded, or live, and that restricts or purports to restrict admission to adults or to any class of adults."
+      ],
+      "last_bill_action": "2025-02-04"
+    },
+    {
+      "bill_number": "HB1119",
+      "description": "As introduced, requires the attorney general to report to the speaker of the senate and the speaker of the house of representatives certain information regarding violations of the prohibition against using medical procedures to enable a minor to identify with, or live as, a purported identity inconsistent with the minor's sex or to treat purported discomfort or distress from discordance between the minor's sex and asserted identity. - Amends TCA Title 9; Title 14; Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 50; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 9; Title 14; Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 50; Title 56; Title 63; Title 68 and Title 71, relative to medical practices.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "As introduced, requires the attorney general to report to the speaker of the senate and the speaker of the house of representatives certain information regarding violations of the prohibition against using medical procedures to enable a minor to identify with, or live as, a purported identity inconsistent with the minor's sex or to treat purported discomfort or distress from discordance between the minor's sex and asserted identity."
+      ],
+      "last_bill_action": "2025-02-05"
+    },
+    {
+      "bill_number": "HB1262",
+      "description": "As introduced, makes various changes to the categories of individuals who are not required to use a preferred pronoun, and for whom a preferred pronoun can be disregarded, if the pronoun is inconsistent with the person's biological sex; makes various changes to the civil liability and adverse action protections as it relates to the use of, or the refusal to use, a pronoun or preferred pronoun. - Amends TCA Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public schools.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Tennessee Code Annotated, Section 49-6-5102(b)(1), is amended by deleting \"a student's preferred pronoun\" and substituting instead \"the preferred pronoun of a teacher, school employee, or student\", deleting \"the student\" and substituting instead \"the teacher, school employee, or student\", and deleting \"the student's\" and substituting instead \"the biological sex of the teacher, school employee, or student\"."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HB1271",
+      "description": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+      "state": "TN",
+      "status": 3,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the policy of this state that there are only two (2) sexes, a biological male and a biological female."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HB1472",
+      "description": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A law of this state or any of its subdivisions that prohibits sex discrimination must not be construed to: [...] (3) Prohibit the establishment or enforcement of sex-segregated restrooms, locker rooms, shower facilities, changing areas, dormitories, or sports teams; (4) Prohibit the establishment or enforcement of sex-specific dress or grooming codes;"
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB1473",
+      "description": "As introduced, states that private citizens and organizations are not bound by the Fourteenth Amendment or the Supreme Court’s decision in Obergefell v. Hodges to recognize a marriage between individuals of the same sex; prohibits the board of professional responsibility from disciplining or sanctioning an attorney for declining to officiate a marriage between two persons of the same sex. - Amends TCA Title 17, Chapter 5 and Title 36.",
+      "state": "TN",
+      "status": 2,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 17, Chapter 5 and Title 36, relative to marriage.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Private citizens and organizations are not bound by the Fourteenth Amendment or by the Supreme Court's purported interpretation of the Fourteenth Amendment in Obergefell v. Hodges, 576 U.S. 644 (2015), and no private citizen or organization in this state is required to recognize a marriage or a purported marriage between individuals of the same sex."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB1474",
+      "description": "As introduced, enacts the \"No Pride Flag or Month Act.\" - Amends TCA Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49, relative to the No Pride Flag or Month Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An LGBTQ flag or emblem must not be displayed or maintained on property owned by this state or a political subdivision of this state."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB1476",
+      "description": "As introduced, enacts the \"Charlie Kirk Act.\" - Amends TCA Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public institutions of higher education.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(b) A public institution of higher education or faculty member or agent of the institution shall not deny recognition to any student group, or deny any employer access to on-campus student interviews, on account of the student group's or employer's: (1) Sincere religious beliefs; (2) Opposition to [...] homosexuality, or transgender behavior, regardless of whether that opposition is motivated by religious or non-religious belief; or (3) Refusal to employ or admit into membership or leadership positions, individuals whose beliefs or lifestyle choices are incompatible with the sincere beliefs of the organization."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB1665",
+      "description": "As enacted, prohibits certain healthcare providers from knowingly or willfully asking a minor, or a health insurance issuer, managed care organization, or entity providing reimbursement for healthcare services from requiring or requesting a healthcare provider or facility to ask, certain gender-related questions for any purpose; makes other related changes. - Amends TCA Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71, relative to the protection of minors in healthcare settings.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A healthcare provider shall not conduct private interviews with a minor about gender identity, sexual orientation, or any other gender-related topic unless the healthcare provider, using reasonable medical judgment, [...] performs a screening of a minor who the healthcare provider reasonably believes is a trafficked person or a victim of brutality, abuse, or neglect."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "HB1666",
+      "description": "As introduced, includes \"honorifics\" in the prohibition on requiring a student, teacher, state employee, or state contractor to use or provide a person's preferred name or pronoun. - Amends TCA Title 8, Chapter 50; Title 49, Chapter 7, Part 24 and Title 49, Chapter 6, Part 51.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 8, Chapter 50; Title 49, Chapter 7, Part 24 and Title 49, Chapter 6, Part 51, relative to the use of honorifics.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Includes \"honorifics\" in the prohibition on requiring a student, teacher, state employee, or state contractor to use or provide a person's preferred name or pronoun."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "HB1872",
+      "description": "As enacted, authorizes a person to bring a civil action against a healthcare professional for an injury that is a result of a medical procedure, if the procedure was for enabling the person to identify with, or live as, a purported identity inconsistent with the person's sex or treating purported discomfort or distress from a discordance between the person's sex and asserted identity, and the person consented; or if the person was a minor at the time of the procedure, the person's parent, guardian, or representative consented due to an act of coercion by the professional. - Amends TCA Title 29; Title 63 and Title 68.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 63 and Title 68, relative to private causes of action.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person may bring a civil action to recover compensatory damages, punitive damages, and reasonable attorney fees, court costs, and expenses against a healthcare professional for an injury that is a result of a medical procedure, if: (1) The medical procedure was for the purpose of enabling the person to identify with, or live as, a purported identity inconsistent with the person's sex or treating purported discomfort or distress from a discordance between the person's sex and asserted identity; and (2) The person consented, or if the person was a minor at the time of the medical procedure, the person's parent, guardian, or legal representative consented, in whole or in part, due to an act of coercion by the healthcare professional."
+      ],
+      "last_bill_action": "2026-01-21"
+    },
+    {
+      "bill_number": "HB1990",
+      "description": "As introduced, directs the department to conduct a study on health concerns of, and identifying obstacles for receiving better care for, persons whose biological sex is female; requires the department to submit a report to the members of the general assembly on the results of the study on or before January 1, 2027. - Amends TCA Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68, relative to a person's sex.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "HB2082",
+      "description": "As introduced, specifies that a parent's or legal guardian's action of raising, guiding, or instructing the parent's or legal guardian's child in a manner consistent with the child's biological sex is not a basis for certain findings or actions by the court, does not constitute the criminal offense of child abuse, child neglect, or child endangerment, and must not be considered as a negative factor by a court in determining a custody arrangement in the best interest of the child. - Amends TCA Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15, relative to children.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "In determining a custody arrangement under this chapter that is in the best interest of the child, the court shall not consider it a negative factor for a parent to raise, guide, or instruct or intend to raise, guide, or instruct a child consistent with the child's biological sex, including, but not limited to, referring to a child by titles or pronouns consistent with the child's biological sex or making mental health or medical decisions based on the child's biological sex, including, but not limited to, consenting to any lawful medical or mental health service to assist the child in living consistent with the child's biological sex and declining any medical or mental health service for the purpose of gender transition."
+      ],
+      "last_bill_action": "2026-01-23"
+    },
+    {
+      "bill_number": "HB2198",
+      "description": "As introduced, enacts the \"DEI Compliance Certification Act.\" - Amends TCA Title 4; Title 8 and Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 8 and Title 49, relative to the \"DEI Compliance Certification Act.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "As used in this part: \"Diversity, equity, and inclusion\" or \"DEI\" means a policy, procedure, practice, or preference based on one (1) or more of the following concepts: [...] (K) An individual must believe and speak in a manner consistent with the concept that a person can change their sex or gender"
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "HB2498",
+      "description": "As enacted, prohibits the division from providing coverage or reimbursement for a medical procedure performed on, or administered to, an individual if the performance or administration of the procedure is for the purpose of enabling the individual to identify with, or live as, a purported identity inconsistent with the individual's sex, or treat purported discomfort or distress from a discordance between the individual's sex and asserted identity. - Amends TCA Title 71, Chapter 5.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 71, Chapter 5, relative to TennCare.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The division shall not provide coverage or reimbursement for a medical procedure if the performance or administration of the procedure is for the purpose of: (A) Enabling an individual to identify with, or live as, a purported identity inconsistent with the individual's sex; or (B) Treating purported discomfort or distress from a discordance between the individual's sex and asserted identity."
+      ],
+      "last_bill_action": "2026-02-03"
+    },
+    {
+      "bill_number": "SB0226",
+      "description": "As introduced, enacts the \"Tennessee Professionals' Freedom of Religion Act.\" - Amends TCA Title 4.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4, relative to the Professionals' Freedom of Religion Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Unlawful practices against professional licenses prohibited. (a) It is unlawful for a governmental entity to deny, revoke, suspend, or take other adverse action against an individual's license for the following: (1) Refusing to affirm a statement or oath that is contrary to the individual's sincerely held religious beliefs or moral convictions; (2) Expressing sincerely held religious beliefs or moral convictions in any context, including a professional context, as long as the services provided otherwise meet the standard of care or practice for that profession"
+      ],
+      "last_bill_action": "2025-01-17"
+    },
+    {
+      "bill_number": "SB0266",
+      "description": "As introduced, prohibits state and local government entities from displaying or allowing display of flags other than Tennessee and U.S. flags on courthouses and public roads and sidewalks; prohibits LEAs and public charter schools from displaying in public schools flags other than the official United States flag and the official Tennessee state flag. - Amends TCA Title 4; Section 5-5-114; Section 6-54-144; Title 7; Section 15-2-116; Title 49; Title 55; Title 58 and Title 65, Chapter 31, Part 1.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Section 5-5-114; Section 6-54-144; Title 7; Section 15-2-116; Title 49; Title 55; Title 58 and Title 65, Chapter 31, Part 1, relative to the display of flags.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(c)(1) An LEA or public charter school shall not display, nor permit any of its employees or agents to display, a flag other than the following on or in a public school: (A) The United States flag; (B) The official Tennessee state flag; (C) A flag that cannot be disturbed or altered pursuant to § 4-1- 412; (D) The POW/MIA flag; (E) A flag that represents an Indian tribe, as defined in 25 U.S.C. § 5304; (F) A flag that represents a city, county, metropolitan government, or other political subdivision of this state; (G) A flag that represents any unit, branch, or other division of the armed forces, including, but not limited to, an ROTC program; (H) The current, official flag of a country or political subdivision thereof; (I) A flag that represents a college or university; (J) A flag that is displayed temporarily as part of a bona fide course curriculum; (K) An official school flag; or (L) The flag of an organization duly authorized to use a public school building;"
+      ],
+      "last_bill_action": "2025-01-23"
+    },
+    {
+      "bill_number": "SB0468",
+      "description": "As introduced, enacts the \"Women's Safety and Protection Act.\" - Amends TCA Title 4; Title 37; Title 41; Title 49 and Title 68.",
+      "state": "TN",
+      "status": 3,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 37; Title 41; Title 49 and Title 68, relative to public safety.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental agency shall not prohibit distinctions between the sexes with respect to athletics, correctional facilities, juvenile detention facilities, domestic violence shelters, or other accommodations where biology, safety, or privacy is implied and that result in separate accommodations that are substantially related to the important government interest of protecting the health, safety, and privacy of individuals in such circumstances."
+      ],
+      "last_bill_action": "2025-01-29"
+    },
+    {
+      "bill_number": "SB0676",
+      "description": "As introduced, requires gender clinics accepting funds from this state to perform gender transition procedures to also perform detransition procedures; requires insurance entities providing coverage of gender transition procedures to also cover detransition procedures; requires certain gender clinics and insurance entities to report information regarding detransition procedures to the department of health. - Amends TCA Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71, relative to health care.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "That the government shall not deny or infringe upon a parent's fundamental right to participate in and direct the education of his or her child. Such right shall include, but shall not be limited to, the following: [...] (b) Diversity-equity-inclusion [...] or any concept that promotes differential treatment of individuals based on race, gender, religion, ethnicity, or sexual preference"
+      ],
+      "last_bill_action": "2025-01-31"
+    },
+    {
+      "bill_number": "SB0692",
+      "description": "As introduced, requires the attorney general to report to the speaker of the senate and the speaker of the house of representatives certain information regarding violations of the prohibition against using medical procedures to enable a minor to identify with, or live as, a purported identity inconsistent with the minor's sex or to treat purported discomfort or distress from discordance between the minor's sex and asserted identity. - Amends TCA Title 9; Title 14; Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 50; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 9; Title 14; Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 50; Title 56; Title 63; Title 68 and Title 71, relative to medical practices.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "As introduced, requires the attorney general to report to the speaker of the senate and the speaker of the house of representatives certain information regarding violations of the prohibition against using medical procedures to enable a minor to identify with, or live as, a purported identity inconsistent with the minor's sex or to treat purported discomfort or distress from discordance between the minor's sex and asserted identity."
+      ],
+      "last_bill_action": "2025-02-03"
+    },
+    {
+      "bill_number": "SB0737",
+      "description": "As introduced, enacts the \"Tennessee Covenant Marriage Act\" to create covenant marriage, which is entered into by one male and one female, who understand and agree that marriage is a lifelong relationship; permits a spouse in a covenant marriage to obtain a judgment of divorce under certain circumstances. - Amends TCA Title 8; Title 10; Title 16; Title 36; Title 39; Title 67 and Title 68.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 8; Title 10; Title 16; Title 36; Title 39; Title 67 and Title 68, relative to marriage.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A covenant marriage is a marriage entered into by one (1) male and one (1) female [...] The following statement made by both parties: We do solemnly declare that marriage is a covenant between a man and a woman who agree to live together as husband and wife for so long as we both may live."
+      ],
+      "last_bill_action": "2025-02-04"
+    },
+    {
+      "bill_number": "SB0936",
+      "description": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is the policy of this state that there are only two (2) sexes, a biological male and a biological female."
+      ],
+      "last_bill_action": "2025-02-05"
+    },
+    {
+      "bill_number": "SB1043",
+      "description": "As introduced, designates the new swimming pool at Henry Horton State Park as the \"Riley Gaines Aquatic Center.\"",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to designate a swimming facility at Henry Horton State Park as the \"Riley Gaines Aquatic Center\".",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The department of environment and conservation is directed to erect suitable signs or affix suitable markers designating such swimming pool as the \"Riley Gaines Aquatic Center\". [...] This act takes effect upon becoming a law, the public welfare requiring it."
+      ],
+      "last_bill_action": "2025-02-05"
+    },
+    {
+      "bill_number": "SB1126",
+      "description": "As introduced, makes various changes to the categories of individuals who are not required to use a preferred pronoun, and for whom a preferred pronoun be disregarded, if the pronoun is inconsistent with the person's biological sex; makes various changes to the civil liability and adverse action protections as it relates to the use of, or the refusal to use, a pronoun or preferred pronoun. - Amends TCA Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to preferred pronouns.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Tennessee Code Annotated, Section 49-6-5102(b)(1), is amended by deleting \"a student's preferred pronoun\" and substituting instead \"the preferred pronoun of a teacher, school employee, or student\", deleting \"the student\" and substituting instead \"the teacher, school employee, or student\", and deleting \"the student's\" and substituting instead \"the biological sex of the teacher, school employee, or student\"."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "SB1252",
+      "description": "As introduced, makes various changes to the categories of individuals who are not required to use a preferred pronoun, and for whom a preferred pronoun can be disregarded, if the pronoun is inconsistent with the person's biological sex; makes various changes to the civil liability and adverse action protections as it relates to the use of, or the refusal to use, a pronoun or preferred pronoun. - Amends TCA Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public schools.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Tennessee Code Annotated, Section 49-6-5102(b)(1), is amended by deleting \"a student's preferred pronoun\" and substituting instead \"the preferred pronoun of a teacher, school employee, or student\", deleting \"the student\" and substituting instead \"the teacher, school employee, or student\", and deleting \"the student's\" and substituting instead \"the biological sex of the teacher, school employee, or student\"."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "SB1664",
+      "description": "As enacted, prohibits certain healthcare providers from knowingly or willfully asking a minor, or a health insurance issuer, managed care organization, or entity providing reimbursement for healthcare services from requiring or requesting a healthcare provider or facility to ask, certain gender-related questions for any purpose; makes other related changes. - Amends TCA Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71, relative to the protection of minors in healthcare settings.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A healthcare provider shall not ask a minor a verbal or written question on the following: (1) Whether the minor feels normal in the minor's body; (2) Whether the minor believes the minor is the correct gender; (3) Whether the minor identifies as a gender different from the minor's sex; or (4) An inquiry intended to elicit statements about gender identity, gender confusion, or gender dysphoria."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "SB1665",
+      "description": "As introduced, includes \"honorifics\" in the prohibition on requiring a student, teacher, state employee, or state contractor to use or provide a person's preferred name or pronoun. - Amends TCA Title 8, Chapter 50; Title 49, Chapter 7, Part 24 and Title 49, Chapter 6, Part 51.",
+      "state": "TN",
+      "status": 3,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 8, Chapter 50; Title 49, Chapter 7, Part 24 and Title 49, Chapter 6, Part 51, relative to the use of honorifics.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Includes \"honorifics\" in the prohibition on requiring a student, teacher, state employee, or state contractor to use or provide a person's preferred name or pronoun."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "SB1741",
+      "description": "As introduced, enacts the \"Charlie Kirk Act.\" - Amends TCA Title 49.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public institutions of higher education.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Charlie Kirk Act\" [...] A public institution of higher education or a faculty member or agent of the institution shall not discriminate or retaliate against a person on account of the person's: (1) Sincere religious beliefs; or (2) Opposition to abortion, homosexuality, or transgender behavior, regardless of whether that opposition is motivated by religious or non-religious beliefs."
+      ],
+      "last_bill_action": "2026-01-16"
+    },
+    {
+      "bill_number": "SB1745",
+      "description": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Banning Bostock Act.\" [...] A law of this state or any of its subdivisions that prohibits sex discrimination must not be construed to: (1) Prohibit discrimination against a person for being homosexual or transgender; (2) Prohibit discrimination on account of or because of sexual orientation, sexual behavior, gender identity, or gender non-conforming behavior; (3) Prohibit the establishment or enforcement of sex-segregated restrooms, locker rooms, shower facilities, changing areas, dormitories, or sports teams;"
+      ],
+      "last_bill_action": "2026-01-16"
+    },
+    {
+      "bill_number": "SB1746",
+      "description": "As introduced, states that private citizens and organizations are not bound by the Fourteenth Amendment or the Supreme Court’s decision in Obergefell v. Hodges to recognize a marriage between individuals of the same sex; prohibits the board of professional responsibility from disciplining or sanctioning an attorney for declining to officiate a marriage between two persons of the same sex. - Amends TCA Title 17, Chapter 5 and Title 36.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 17, Chapter 5 and Title 36, relative to marriage.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Private citizens and organizations are not bound by the Fourteenth Amendment or by the Supreme Court's purported interpretation of the Fourteenth Amendment in Obergefell v. Hodges, 576 U.S. 644 (2015), and no private citizen or organization in this state is required to recognize a marriage or a purported marriage between individuals of the same sex."
+      ],
+      "last_bill_action": "2026-01-16"
+    },
+    {
+      "bill_number": "SB1989",
+      "description": "As introduced, specifies that a parent's or legal guardian's action of raising, guiding, or instructing the parent's or legal guardian's child in a manner consistent with the child's biological sex is not a basis for certain findings or actions by the court, does not constitute the criminal offense of child abuse, child neglect, or child endangerment, and must not be considered as a negative factor by a court in determining a custody arrangement in the best interest of the child. - Amends TCA Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15, relative to children.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A parent's or legal guardian's action of raising, guiding, or instructing the parent's or legal guardian's child consistent with the child's biological sex, including, but not limited to, referring to the child by titles or pronouns consistent with the child's biological sex, or making mental health or medical decisions based on the child's biological sex [...] must not be a basis for: (1) A finding of abuse or severe child abuse; (2) Determining that a child is a dependent and neglected child; (3) Taking a child into custody [...]"
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "SB2031",
+      "description": "As enacted, authorizes a person to bring a civil action against a healthcare professional for an injury that is a result of a medical procedure, if the procedure was for enabling the person to identify with, or live as, a purported identity inconsistent with the person's sex or treating purported discomfort or distress from a discordance between the person's sex and asserted identity, and the person consented; or if the person was a minor at the time of the procedure, the person's parent, guardian, or representative consented due to an act of coercion by the professional. - Amends TCA Title 29; Title 63 and Title 68.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 63 and Title 68, relative to private causes of action.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person may bring a civil action to recover compensatory damages, punitive damages, and reasonable attorney fees, court costs, and expenses against a healthcare professional for an injury that is a result of a medical procedure, if: (1) The medical procedure was for the purpose of enabling the person to identify with, or live as, a purported identity inconsistent with the person's sex or treating purported discomfort or distress from a discordance between the person's sex and asserted identity; and (2) The person consented, or if the person was a minor at the time of the medical procedure, the person's parent, guardian, or legal representative consented, in whole or in part, due to an act of coercion by the healthcare professional."
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "SB2044",
+      "description": "As introduced, directs the department to conduct a study on health concerns of, and identifying obstacles for receiving better care for, persons whose biological sex is female; requires the department to submit a report to the members of the general assembly on the results of the study on or before January 1, 2027. - Amends TCA Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68, relative to a person's sex.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "SB2118",
+      "description": "As enacted, prohibits the division from providing coverage or reimbursement for a medical procedure performed on, or administered to, an individual if the performance or administration of the procedure is for the purpose of enabling the individual to identify with, or live as, a purported identity inconsistent with the individual's sex, or treat purported discomfort or distress from a discordance between the individual's sex and asserted identity. - Amends TCA Title 71, Chapter 5.",
+      "state": "TN",
+      "status": 4,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 71, Chapter 5, relative to TennCare.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The division shall not provide coverage or reimbursement for a medical procedure if the performance or administration of the procedure is for the purpose of: (A) Enabling an individual to identify with, or live as, a purported identity inconsistent with the individual's sex; or (B) Treating purported discomfort or distress from a discordance between the individual's sex and asserted identity."
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "SB2208",
+      "description": "As introduced, enacts the \"DEI Compliance Certification Act.\" - Amends TCA Title 4; Title 8 and Title 49.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 8 and Title 49, relative to the \"DEI Compliance Certification Act.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "As used in this part: \"Diversity, equity, and inclusion\" or \"DEI\" means a policy, procedure, practice, or preference based on one (1) or more of the following concepts: [...] (K) An individual must believe and speak in a manner consistent with the concept that a person can change their sex or gender"
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "SB2368",
+      "description": "As introduced, requires the state treasurer to use existing resources to conduct a study of the use of public funds by neighboring states to facilitate gender transition procedures to determine what restrictions neighboring states place upon public funding of such procedures; requires the treasurer to compile the findings of the study into a report and transmit the report to the general assembly no later than December 31, 2026. - Amends TCA Title 5, Chapter 9, Part 1; Title 6, Chapter 56, Part 1; Title 7, Chapter 3, Part 1; Title 8, Chapter 27; Title 9, Chapter 4, Part 51; Title 37; Title 39; Title 63; Title 68 and Title 71.",
+      "state": "TN",
+      "status": 1,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5, Chapter 9, Part 1; Title 6, Chapter 56, Part 1; Title 7, Chapter 3, Part 1; Title 8, Chapter 27; Title 9, Chapter 4, Part 51; Title 37; Title 39; Title 63; Title 68 and Title 71, relative to uses of public funds.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The state treasurer shall use existing resources to conduct a study of the use of public funds by neighboring states to facilitate gender transition procedures. The purpose of the study is to determine what restrictions neighboring states place upon public funding of gender transition procedures. The state treasurer shall compile the findings of the study into a report and transmit the report to the chief clerk of the senate, the chief clerk of the house of representatives, and the legislative librarian no later than December 31, 2026."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "SB2409",
+      "description": "As introduced, enacts the \"No Pride Flag or Month Act.\" - Amends TCA Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49.",
+      "state": "TN",
+      "status": 6,
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49, relative to the No Pride Flag or Month Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An LGBTQ flag or emblem must not be displayed or maintained on property owned by this state or a political subdivision of this state, or on a building or the grounds of any such building, by any employee, volunteer, or agent of this state or a political subdivision of this state in accordance with this chapter."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "SJR0589",
+      "description": "Urges Congress to enact legislation reaffirming and preserving the equal opportunities in athletics guaranteed to women and girls by Title IX and recognizing that allowing males to compete in women's athletics violates the purpose and meaning of Title IX.",
+      "state": "TN",
+      "status": 2,
+      "title": "A RESOLUTION to affirm Tennessee's commitment to fairness, safety, and equal opportunity in women's sports and to urge federal action to preserve the original intent of Title IX.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The General Assembly calls upon the Congress of the United States to enact federal legislation reaffirming that Title IX guarantees women and girls equal opportunities in athletics and that allowing males to compete in women's athletics or to access women's private spaces violates the purpose and meaning of Title IX;"
+      ],
+      "last_bill_action": "2026-01-14"
+    }
+  ],
+  "year": "2026"
+}

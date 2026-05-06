@@ -1,0 +1,55 @@
+{
+  "state": "Alaska",
+  "stateAbbreviation": "AK",
+  "bills": [
+    {
+      "bill_number": "HB342",
+      "description": "An Act relating to physician liability for sex-reassignment treatments or procedures performed on minors; relating to standardized informed consent forms for sex-reassignment treatments or procedures; relating to the duties of the State Medical Board; relating to informed consent for sex-reassignment treatments or procedures performed on minors; establishing the crime of criminal sex-reassignment treatment or procedure; and providing for an effective date.",
+      "state": "AK",
+      "status": 1,
+      "title": "Phys Lblty: Sex Reassign Procedure;minors",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person commits the crime of criminal sex-reassignment treatment or procedure if the person knowingly performs a sex-reassignment treatment or procedure on (1) a minor; or (2) an individual over 18 years of age without the voluntary, informed, and written consent of the individual."
+      ],
+      "last_bill_action": "2026-02-23"
+    },
+    {
+      "bill_number": "HB40",
+      "description": "An Act relating to school athletics, recreation, athletic teams, and sports.",
+      "state": "AK",
+      "status": 1,
+      "title": "Designate Sex For School-sponsored Sports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Athletic team and sport designation. [...] A student who participates in an athletic team or sport designated female, women, or girls must be female, based on the participant's sex. A school may rely on the sex listed on a participant's original birth certificate issued at or near the time of birth to establish a participant's sex. In this subsection, \"sex\" means the biological state of being male or female, based on an individual's nonambiguous sex organs, chromosomes, and endogenous hormone profile at birth."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "HB45",
+      "description": "An Act relating to the display of flags by governmental entities; and providing for an effective date.",
+      "state": "AK",
+      "status": 1,
+      "title": "Display Of U.s. Flag",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental entity may not erect or display a flag that represents a political viewpoint, including a viewpoint concerning race, sexual orientation, gender, or a politically partisan or political ideology."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "HB6",
+      "description": "An Act restricting fiduciary actions by a fiduciary of a state fund, the Alaska Retirement Management Board, and the Alaska Permanent Fund Corporation Board that have the purpose of furthering social, political, or ideological interests.",
+      "state": "AK",
+      "status": 1,
+      "title": "State Fund Fiduc Duty:social/pol Interest",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The fiduciary of a state fund may not take an action involving investment under this section for the purpose of furthering a social, political, or ideological interest."
+      ],
+      "last_bill_action": "2025-01-22"
+    }
+  ],
+  "year": "2026"
+}

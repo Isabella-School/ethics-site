@@ -1,0 +1,31 @@
+{
+  "state": "New Mexico",
+  "stateAbbreviation": "NM",
+  "bills": [
+    {
+      "bill_number": "HB233",
+      "description": "Protection Of Women's Sports Act",
+      "state": "NM",
+      "status": 6,
+      "title": "Protection Of Women's Sports Act",
+      "session_sine_die": true,
+      "pull_quotes": [
+        "A person who competes in any sport, athletic competition or athletic event designated for females, women or girls must be biologically female. The sex listed on a participant's birth certificate may be relied on to establish the participant's eligibility pursuant to this section if the sex designated on the birth certificate was designated at or near the time of the participant's birth."
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "HB273",
+      "description": "Women's Safety & Protection Act",
+      "state": "NM",
+      "status": 6,
+      "title": "Women's Safety & Protection Act",
+      "session_sine_die": true,
+      "pull_quotes": [
+        "No state agency or other arm of the state shall prohibit distinctions between the sexes with respect to athletics, correctional facilities, juvenile detention facilities, domestic violence shelters or other accommodations where biology, safety or privacy are implicated that result in separate accommodations that are substantially related to the important government interest of protecting the health, safety and privacy of individuals in such circumstances."
+      ],
+      "last_bill_action": "2026-02-02"
+    }
+  ],
+  "year": "2026"
+}

@@ -1,0 +1,199 @@
+{
+  "state": "Arizona",
+  "stateAbbreviation": "AZ",
+  "bills": [
+    {
+      "bill_number": "HB2085",
+      "description": "Gender transition; minors; prohibitions.",
+      "state": "AZ",
+      "status": 2,
+      "title": "Gender transition; minors; prohibitions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "C. Public monies may not be directly or indirectly used, granted, paid or distributed to any individual, entity or organization that provides gender transition procedures to any individual who is under eighteen years of age."
+      ],
+      "last_bill_action": "2025-12-22"
+    },
+    {
+      "bill_number": "HB2135",
+      "description": "Liability; diversity; equity; inclusion laws",
+      "state": "AZ",
+      "status": 2,
+      "title": "Liability; diversity; equity; inclusion laws",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person whose rights are violated may commence a civil action against a covered entity that violates a state or federal law prohibiting a diversity, equity and inclusion policy. [...] \"Diversity, equity and inclusion policy\" [...] means a policy that is known and practiced as DEI [...] or any of the following concepts: [...] (x) All individuals should be compelled to believe in, and to speak in a manner consistent with, the concept that an individual can change the individual's sex or gender. (b) Includes any other form of race or sex stereotyping or any other form of race or sex scapegoating."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB2249",
+      "description": "Parents' bill of rights; remedies",
+      "state": "AZ",
+      "status": 2,
+      "title": "Parents' bill of rights; remedies",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The right to consent in writing and be informed if any school employee facilitates or implements any form of social transitioning for the minor child, including addressing or referring to the minor child by a name or nickname other than the minor child's legal name or a natural derivative of that name or referring to the minor child using pronouns, titles or personal identifiers that do not align with the minor child's sex."
+      ],
+      "last_bill_action": "2026-01-15"
+    },
+    {
+      "bill_number": "HB2589",
+      "description": "Unlawful exposure; minors; drag show",
+      "state": "AZ",
+      "status": 2,
+      "title": "Unlawful exposure; minors; drag show",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Drag show performance\" means an in-person show or performance, with or without consideration, that includes any of the following: (a) A person who uses clothing, makeup, costuming, prosthetics or other physical markers to present an exaggerated and stylized gender expression that differs from the person's biological sex or normal gender presentation. (b) A person whose performance is characterized by the exposure of specific anatomical areas or specific sexual activities while dressed as the opposite sex. (c) A performance that is harmful to minors."
+      ],
+      "last_bill_action": "2026-01-20"
+    },
+    {
+      "bill_number": "HCR2003",
+      "description": "Interscholastic; intramural athletics; biological sex",
+      "state": "AZ",
+      "status": 2,
+      "title": "Interscholastic; intramural athletics; biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Beginning on January 1, 2027, if a school or athletic association provides and maintains restrooms, locker rooms, shower rooms or other private spaces that are integral to athletic engagement, the school or athletic association, including employees of the school or athletic association, may not authorize any individual to use a restroom, locker room, shower room or other private space that is not designated for that individual's sex. [...] Sex means an individual's biological status as male or female as recorded at birth on the individual's original birth certificate. [...] A school or athletic association may not open any interscholastic or intramural athletic teams team or sports sport that is designated for 'females', 'women' or 'girls' may not be open to students athletes of the male sex."
+      ],
+      "last_bill_action": "2025-12-18"
+    },
+    {
+      "bill_number": "HCR2010",
+      "description": "Medical records; parental rights",
+      "state": "AZ",
+      "status": 1,
+      "title": "Medical records; parental rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The right to request, access and review all written and electronic medical records of the minor child unless otherwise prohibited by law or unless the parent is the subject of an investigation of a crime committed against the minor child and a law enforcement official requests that the information not be released. <u>This right includes access to written and electronic medical records for services that do not require parental consent, including those described in sections 36-2271, 36-2272, 44-133 and 44-133.01.</u>"
+      ],
+      "last_bill_action": "2026-01-09"
+    },
+    {
+      "bill_number": "HCR2044",
+      "description": "Preferential treatment; discrimination; prohibited acts",
+      "state": "AZ",
+      "status": 2,
+      "title": "Preferential treatment; discrimination; prohibited acts",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The prohibition in subsection A, paragraph 3 of this section regarding spending public monies to operate or contract for any office or position in an institution of public education that is responsible for promoting preferential treatment toward or discrimination against an individual or group on the basis of race or ethnicity: [...] Includes using any appropriated monies or any revenue that is derived from any tax, fee, grant, tuition, endowment or donation or any other source that is under the control of the institution [...] to promote or promulgate any of the following: [...] (d) Training, programming or activities that are designed or implemented with reference to race, ethnicity, intersectionality, gender identity or sexual orientation."
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "SB1014",
+      "description": "Insurance; gender surgeries; documentation; reports",
+      "state": "AZ",
+      "status": 2,
+      "title": "Insurance; gender surgeries; documentation; reports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A. Beginning January 1, 2027, any contract that is issued, delivered or renewed by a health insurer and that provides coverage for gender transition procedures may not deny coverage for gender detransition procedures."
+      ],
+      "last_bill_action": "2025-12-09"
+    },
+    {
+      "bill_number": "SB1015",
+      "description": "Gender transition procedures; provider liability",
+      "state": "AZ",
+      "status": 2,
+      "title": "Gender transition procedures; provider liability",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A. A health care professional or physician who provides or who has provided a minor with a gender transition procedure is strictly and personally liable for all costs associated with subsequent detransition procedures sought by the minor within twenty-five years after the commencement of a gender transition procedure.[...] E. A health care professional or physician may not seek a contractual waiver of the liability prescribed in subsection A, B or C of this section. Any waiver is contrary to the public policy of this state and is null and void."
+      ],
+      "last_bill_action": "2025-12-09"
+    },
+    {
+      "bill_number": "SB1094",
+      "description": "Civil liability; gender reassignment surgery",
+      "state": "AZ",
+      "status": 2,
+      "title": "Civil liability; gender reassignment surgery",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A. A physician who provides irreversible gender reassignment surgery to a minor in violation of section 32-3230 is liable in a civil action to the minor for damages that result from the surgery, including any damages that would not have otherwise occurred but for the surgery.[...] An action for the recovery of damages under this section shall be commenced not later than twenty-five years after the minor turns eighteen years of age or four years after the minor who had the irreversible gender reassignment surgery undergoes detransition treatment, whichever is later."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "SB1095",
+      "description": "Gender transition; minors; prohibitions",
+      "state": "AZ",
+      "status": 2,
+      "title": "Gender transition; minors; prohibitions",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A gender transition procedure may not be provided to any individual who is under eighteen years of age in the following situations: [...] A. A physician or other health professional may not do any of the following: 1. Provide irreversible gender reassignment surgery to any individual who is under eighteen years of age. 2. provide a gender transition procedure to any individual who is under eighteen years of age. 3. refer any individual who is under eighteen years of age to another HEALTH professional for a gender transition procedure."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "SB1099",
+      "description": "Defamation; elements",
+      "state": "AZ",
+      "status": 2,
+      "title": "Defamation; elements",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The legislature finds that medical interventions used for gender transition involve significant uncertainty and potential for harm, including risks to bone development, neurocognitive maturation, fertility, reproductive health, cardiovascular function and psychiatric well-being.[...] That the long-term benefits and harms of puberty-suppressing medications, cross-sex hormones and surgical procedures used for gender transition are uncertain and that available research has low certainty.[...] That removal or alteration of healthy organs is irreversible and that certain surgical outcomes cannot be fully corrected or reversed."
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "SB1177",
+      "description": "Public monies; gender transition; prohibition",
+      "state": "AZ",
+      "status": 2,
+      "title": "Public monies; gender transition; prohibition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Public monies may not be used to fund any medical procedure for the purpose of gender transition. [...] \"Medical procedure\" means: (a) Surgically removing, modifying, altering or entering into tissues, cavities or organs of a person. (b) Prescribing, administering or dispensing any puberty blocker, hormone or PHARMACEUTICAL or PRESCRIPTION drug to a person."
+      ],
+      "last_bill_action": "2026-01-20"
+    },
+    {
+      "bill_number": "SB1570",
+      "description": "Diversity; equity; inclusion; training; prohibition",
+      "state": "AZ",
+      "status": 1,
+      "title": "Diversity; equity; inclusion; training; prohibition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This state or an agency, board, commission or department of this state may not: 1. Use diversity, equity and inclusion programs for hiring, training or promotion purposes. 2. require an employee to engage in a diversity, equity and inclusion program. 3. Require, as a condition of a contract, participation in a diversity, equity and inclusion program. [...] \"DIVERSITY, equity and inclusion program\" means A program that requires an employee to participate in or attend a training, orientation, workshop, therapy or similar activity that focuses on justifying differential treatment or benefit on the basis of sex, color, gender, ethnicity, gender identity or sexual orientation."
+      ],
+      "last_bill_action": "2026-02-03"
+    },
+    {
+      "bill_number": "SCR1006",
+      "description": "Schools; biological sex; requirements",
+      "state": "AZ",
+      "status": 2,
+      "title": "Schools; biological sex; requirements",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "15-517. Pronouns; biological sex; parental permission; prohibition; policies; definition A. An employee or independent contractor of a school district or charter school may not knowingly address, identify or refer to a student who is under eighteen years of age by either of the following unless the school district or charter school receives written permission from the student's parent: 1. A pronoun that differs from the pronoun that aligns with the student's biological sex. 2. A first name other than the first or middle name that is listed on the student's official school records, except that an employee or independent contractor may address, identify or refer to a student by a nickname that is commonly associated with the student's name of record. B. A school district or charter school may not require an employee or independent contractor to address, identify or refer to a person by a pronoun that differs from the pronoun that aligns with the person's biological sex if doing so is contrary to the employee's or independent contractor's religious or moral convictions. C. Each school district governing board and charter school governing body shall adopt policies to implement this section."
+      ],
+      "last_bill_action": "2025-12-30"
+    },
+    {
+      "bill_number": "SCR1038",
+      "description": "Public buildings; accommodations; requirements",
+      "state": "AZ",
+      "status": 1,
+      "title": "Public buildings; accommodations; requirements",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public entity shall provide reasonable accommodations to any person if all of the following apply: [...] the person submits satisfactory evidence of the person's sex to the public entity. [...] \"Satisfactory evidence\" means either: (a) A person's original birth certificate. (b) A person's amended, corrected or otherwise modified birth certificate with a written statement by a physician attesting that the biological sex registered on the birth certificate is consistent with the person's chromosomal count."
+      ],
+      "last_bill_action": "2026-02-05"
+    }
+  ],
+  "year": "2026"
+}

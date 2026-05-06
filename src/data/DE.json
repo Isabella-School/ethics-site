@@ -1,0 +1,29 @@
+{
+  "state": "Delaware",
+  "stateAbbreviation": "DE",
+  "bills": [
+    {
+      "bill_number": "SB215",
+      "description": "An Act To Amend Title 14 Of The Delaware Code Relating To The Fairness In Girls Sports Act.",
+      "state": "DE",
+      "status": 1,
+      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To The Fairness In Girls Sports Act.",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "SB55",
+      "description": "An Act To Amend Title 16 Of The Delaware Code Relating To Gender Transition Procedures.",
+      "state": "DE",
+      "status": 1,
+      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To Gender Transition Procedures.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A physician or other healthcare professional may not provide gender transition procedures to a child."
+      ],
+      "last_bill_action": "2025-02-20"
+    }
+  ],
+  "year": "2026"
+}

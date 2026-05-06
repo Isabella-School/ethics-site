@@ -1,0 +1,163 @@
+{
+  "state": "Pennsylvania",
+  "stateAbbreviation": "PA",
+  "bills": [
+    {
+      "bill_number": "HB1033",
+      "description": "An Act prohibiting gender transition procedures for minors and coverage for gender transition procedures for minors.",
+      "state": "PA",
+      "status": 1,
+      "title": "Prohibiting gender transition procedures for minors and coverage for gender transition procedures for minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) A health care practitioner may not perform gender transition procedures on a minor or refer a minor to receive gender transition procedures. (2) A health care practitioner with prescriptive authority may not prescribe cross-sex hormones or pubertyblocking drugs to a minor or refer a minor to be prescribed cross-sex hormones or puberty-blocking drugs."
+      ],
+      "last_bill_action": "2025-03-24"
+    },
+    {
+      "bill_number": "HB158",
+      "description": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+      "state": "PA",
+      "status": 1,
+      "title": "Providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic, intercollegiate, intramural or club athletic team or sport that is sponsored by a public school entity, a public institution of higher education or a school or institution where students or teams compete against a public school entity or public institution of higher education shall be expressly designated as one of the following based on sex: (1) Male, men or boys. (2) Female, women or girls. (3) Coed or mixed. Prohibition.--An athletic team or sport designated for females, women or girls under subsection (a)(2) may not be open to students of the male sex."
+      ],
+      "last_bill_action": "2025-01-17"
+    },
+    {
+      "bill_number": "HB1745",
+      "description": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+      "state": "PA",
+      "status": 1,
+      "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Commonwealth of Pennsylvania and its political subdivisions shall recognize: (1) Only the sexes of male and female, as determined by an individual's biological sex at birth. (2) No concept of gender that is distinguishable from biological sex."
+      ],
+      "last_bill_action": "2025-07-21"
+    },
+    {
+      "bill_number": "HB1849",
+      "description": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "state": "PA",
+      "status": 1,
+      "title": "Providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public institution of higher education or any school or institution where students or teams compete against a public school entity or public institution of higher education must be expressly designated as one of the following based on sex: (1) Male, men or boys. (2) Female, women or girls. [...] \"Sex.\" A person's immutable characteristics of the reproductive system that define the individual as male or female, as determined by anatomy and genetics existing at the time of birth."
+      ],
+      "last_bill_action": "2025-09-09"
+    },
+    {
+      "bill_number": "HB1956",
+      "description": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+      "state": "PA",
+      "status": 1,
+      "title": "Further providing for definitions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The term \"sex\" means only the sexes of male and female, as determined by an individual's biological sex at birth, and does not include any concept of gender that is distinguishable from biological sex."
+      ],
+      "last_bill_action": "2025-10-17"
+    },
+    {
+      "bill_number": "HB581",
+      "description": "An Act providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+      "state": "PA",
+      "status": 1,
+      "title": "Providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A school entity may not offer instruction on sexual orientation or gender identity to a student in kindergarten through fifth grade."
+      ],
+      "last_bill_action": "2025-02-12"
+    },
+    {
+      "bill_number": "HB987",
+      "description": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in miscellaneous provisions relating to institutions of higher education, providing for prohibitions regarding ideological oaths or statements, for prohibition on diversity, equity and inclusion offices and employees, for statements required to be included in mission statement, bylaws, faculty handbook and student handbook, for certain mandatory training prohibited, for revoking tenure for diversity, equity and inclusion violations and for spending restricted; and imposing penalties.",
+      "state": "PA",
+      "status": 1,
+      "title": "In miscellaneous provisions relating to institutions of higher education, providing for prohibitions regarding ideological oaths or statements, for prohibition on diversity, equity and inclusion offices and employees, for statements required to be included in mission statement, bylaws, faculty handbook and student handbook, for certain mandatory training prohibited, for revoking tenure for diversity, equity and inclusion violations and for spending restricted; and imposing penalties.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition on diversity, equity and inclusion offices and employees. [...] A public institution of higher education may not establish or maintain a diversity, equity and inclusion office or hire or assign an employee of the public institution of higher education or contract with a third party to perform the duties of a diversity, equity and inclusion office."
+      ],
+      "last_bill_action": "2025-03-24"
+    },
+    {
+      "bill_number": "SB1007",
+      "description": "An Act providing for insurance coverage for transition intervention reversal services.",
+      "state": "PA",
+      "status": 1,
+      "title": "Providing for insurance coverage for transition intervention reversal services.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health insurance policy delivered, issued for delivery or renewed within this Commonwealth shall provide coverage for medically necessary transition intervention reversal services if the health insurance policy previously covered a gender transition intervention for the same individual."
+      ],
+      "last_bill_action": "2025-09-17"
+    },
+    {
+      "bill_number": "SB1293",
+      "description": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "state": "PA",
+      "status": 2,
+      "title": "Providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Athletic teams or sports designated for females, women or girls [...] may not be open to students of the male sex."
+      ],
+      "last_bill_action": "2026-04-17"
+    },
+    {
+      "bill_number": "SB213",
+      "description": "An Act recognizing two sexes, male and female; and providing for duties and prohibitions.",
+      "state": "PA",
+      "status": 1,
+      "title": "Recognizing two sexes, male and female; and providing for duties and prohibitions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The General Assembly finds and declares that it is the policy of the Commonwealth to recognize two sexes, male and female. The sexes are not changeable and are grounded in fundamental and incontrovertible reality."
+      ],
+      "last_bill_action": "2025-02-04"
+    },
+    {
+      "bill_number": "SB843",
+      "description": "An Act prohibiting minor medical procedures that cause permanent and irreparable damage due to certain sex transitioning procedures; prescribing penalties; and establishing a private right of action.",
+      "state": "PA",
+      "status": 1,
+      "title": "Prohibiting minor medical procedures that cause permanent and irreparable damage due to certain sex transitioning procedures; prescribing penalties; and establishing a private right of action.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care practitioner may not knowingly perform or offer to perform on a minor, administer or offer to administer to a minor, or prescribe or offer to prescribe a minor or provide or offer to provide a minor with a referral in this Commonwealth for, a medical procedure if the performance or administration of the procedure is for the purpose of: (1) enabling the minor to identify with or live as a purported identity inconsistent with the minor's sex; or (2) treating purported discomfort or distress from a discordance between the minor's sex and asserted identity."
+      ],
+      "last_bill_action": "2025-06-09"
+    },
+    {
+      "bill_number": "SB9",
+      "description": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "state": "PA",
+      "status": 2,
+      "title": "Providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Athletic teams or sports designated for females, women or girls under subsection (a)(2) may not be open to students of the male sex."
+      ],
+      "last_bill_action": "2025-02-03"
+    },
+    {
+      "bill_number": "SR90",
+      "description": "A Resolution encouraging initiatives that support individuals demonstrating character and merit.",
+      "state": "PA",
+      "status": 1,
+      "title": "Encouraging initiatives that support individuals demonstrating character and merit.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Diversity, Equity and Inclusion (DEI) initiatives, though often well-intentioned, have in practice contributed to division and disunity in both public and private sectors;"
+      ],
+      "last_bill_action": "2025-04-28"
+    }
+  ],
+  "year": "2026"
+}

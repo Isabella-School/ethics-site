@@ -1,0 +1,43 @@
+{
+  "state": "Alabama",
+  "stateAbbreviation": "AL",
+  "bills": [
+    {
+      "bill_number": "HB23",
+      "description": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+      "state": "AL",
+      "status": 1,
+      "title": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Under existing law, classroom instruction or discussions regarding gender identity or sexual orientation may not be provided to public school students in kindergarten through fifth grade in a manner that is not age or developmentally appropriate or is not in accordance with state standards."
+      ],
+      "last_bill_action": "2025-08-11"
+    },
+    {
+      "bill_number": "HR7",
+      "description": "U.S. Supreme Court and Congress to Safeguard Fairness and Safety in Women's Sports, urging",
+      "state": "AL",
+      "status": 1,
+      "title": "U.S. Supreme Court and Congress to Safeguard Fairness and Safety in Women's Sports, urging",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "In 2021, Alabama passed legislation banning transgender girls from participating in girls' sports in K-12 public schools, and in 2023, these restrictions were extended to transgender students in public colleges and universities, requiring participation based on biological sex at birth; [...] Allowing males to compete in women's sports reverses 50 years of advancement for women;"
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "SB331",
+      "description": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+      "state": "AL",
+      "status": 1,
+      "title": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill would prohibit classroom instruction or discussions related to gender identity or sexual orientation from being provided to public school students in prekindergarten through twelfth grade."
+      ],
+      "last_bill_action": "2026-02-26"
+    }
+  ],
+  "year": "2026"
+}

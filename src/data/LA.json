@@ -1,0 +1,31 @@
+{
+  "state": "Louisiana",
+  "stateAbbreviation": "LA",
+  "bills": [
+    {
+      "bill_number": "HB1137",
+      "description": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+      "state": "LA",
+      "status": 2,
+      "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No employer shall terminate or take any other retaliatory action against an employee for misgendering or improper use of an individual's pronouns."
+      ],
+      "last_bill_action": "2026-03-31"
+    },
+    {
+      "bill_number": "HB578",
+      "description": "Provides for the Restoring Biological Truth Act",
+      "state": "LA",
+      "status": 2,
+      "title": "Provides for the Restoring Biological Truth Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "22B. \"Sex\" means an individual's biological sex, either male or female, as observed or clinically certified at birth. Gender identity and other subjective terms shall not be used as synonyms or substitutes for sex."
+      ],
+      "last_bill_action": "2026-02-26"
+    }
+  ],
+  "year": "2026"
+}

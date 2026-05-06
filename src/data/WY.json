@@ -1,0 +1,55 @@
+{
+  "state": "Wyoming",
+  "stateAbbreviation": "WY",
+  "bills": [
+    {
+      "bill_number": "HB0001",
+      "description": "AN ACT to make appropriations for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; providing definitions; providing for appropriations and transfers of funds for the period of the budget and for the remainder of the current biennium ending June 30, 2026 as specified; providing for carryover of certain funds beyond the biennium as specified; providing for employee positions as specified; providing for duties, terms and conditions and other requirements relating to appropriations for the remainder of the current biennium ending June 30, 2026 and the period of the budget as specified; providing for position and other budgetary limitations; amending existing law by redirecting revenues for the period of the budget; continuing an account; authorizing loans; discharging interfund loans; increasing higher education scholarship amounts for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; making conforming amendments; amending and repealing prior appropriations; and providing for effective dates.",
+      "state": "WY",
+      "status": 2,
+      "title": "General government appropriations-2.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "For the period beginning on the effective date of this footnote and ending June 30, 2028, the department of health shall not expend any general funds, federal funds or other funds under its control for any of the following purposes: (i) To pay for an abortion or a gender transition procedure, or to pay for facilities, equipment or training used to carry out an abortion or a gender transition procedure; (ii) To enter into or fund any new contract or grant unless the contract or grant expressly requires that the contracting party or grant recipient not expend contract or grant funds to carry out an abortion or a gender transition procedure, or to operate or maintain facilities, equipment or training used to carry out an abortion or a gender transition procedure."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "HB0072",
+      "description": "AN ACT relating to crimes and offenses; creating the crime of promoting obscenity to minors; amending the crime of promoting obscenity as specified; providing and amending definitions; prohibiting public school libraries and county libraries from curating materials that are harmful to minors; repealing an exemption from the crime of promoting obscenity for activities conducted in the course of employment at a school, college, university, museum or public library; repealing obsolete provisions; and providing for an effective date.",
+      "state": "WY",
+      "status": 6,
+      "title": "Obscenity amendments.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "6-4-302. Promoting obscenity; penalties; library materials and challenges. [...] \"Sexual conduct\" means: Any sexual or gender-oriented material that knowingly exposes minors to persons who are dressed in sexually revealing, exaggerated or provocative clothing or costumes, or are stripping, or engaged in lewd or lascivious dancing or movements, presentations or activities in any place where minors are expected, invited or are known to be present."
+      ],
+      "last_bill_action": "2026-01-30"
+    },
+    {
+      "bill_number": "HB0113",
+      "description": "AN ACT relating to education; clarifying procedures and requirements for school districts to provide parents notice of information regarding students; prohibiting school districts from requiring school district personnel and students to use a student's preferred pronoun if the pronoun does not align with the student's biological sex; requiring parental or guardian permission before instruction relating to diversity, equity or inclusion; authorizing school district personnel to opt out of mandatory trainings as specified; providing definitions; requiring reporting; and providing for an effective date.",
+      "state": "WY",
+      "status": 6,
+      "title": "Parent rights-amendments.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "School district personnel and students are not required to refer to a student using the student's preferred pronoun if the pronoun does not align with the student's biological sex."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "SF0001",
+      "description": "AN ACT to make appropriations for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; providing definitions; providing for appropriations and transfers of funds for the period of the budget and for the remainder of the current biennium ending June 30, 2026 as specified; providing for carryover of certain funds beyond the biennium as specified; providing for employee positions as specified; providing for duties, terms and conditions and other requirements relating to appropriations for the remainder of the current biennium ending June 30, 2026 and the period of the budget as specified; providing for position and other budgetary limitations; continuing an account; authorizing grants and loans; discharging interfund loans; funding a higher education program; requiring an audit of funds; making conforming amendments; amending and repealing prior appropriations; and providing for effective dates.",
+      "state": "WY",
+      "status": 4,
+      "title": "General government appropriations.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "For the period beginning on the effective date of this footnote and ending June 30, 2028, the department of health shall not expend any general funds, federal funds or other funds under its control for any of the following purposes: (i) To pay for an abortion or a gender transition procedure, or to pay for facilities, equipment or training used to carry out an abortion or a gender transition procedure; (ii) To enter into or fund any new contract or grant unless the contract or grant expressly requires that the contracting party or grant recipient not expend contract or grant funds to carry out an abortion or a gender transition procedure, or to operate or maintain facilities, equipment or training used to carry out an abortion or a gender transition procedure."
+      ],
+      "last_bill_action": "2026-02-06"
+    }
+  ],
+  "year": "2026"
+}

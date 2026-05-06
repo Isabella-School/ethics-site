@@ -1,0 +1,539 @@
+{
+  "state": "South Carolina",
+  "stateAbbreviation": "SC",
+  "bills": [
+    {
+      "bill_number": "H3011",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"parental Rights In Education Act\"; By Adding Article 3 To Chapter 28, Title 59 So As To Provide Necessary Definitions, To Recognize That Parents Have The Ultimate Responsibility To Direct The Upbringing, Education, Healthcare, And Mental Health Of Their Children, To Prohibit The State From Substantially Burdening Those Parental Rights And To Require The State To Obtain Parental Consent In Certain Circumstances, And To Create A Cause Of Action For Violation Of The Chapter, Among Other Things; And To Designate The Existing Provisions Of Chapter 28, Title 59, As Article 1 Entitled \"general Provisions.\"",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Rights in Education Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each LEA, in consultation with parents, teachers, and administrators, shall develop and adopt a policy to promote the involvement of parents of children enrolled in the LEA, including: [...] (3) procedures by which a parent may learn about the nature and purpose of clubs and extracurricular activities that have been approved by the school and may withdraw that parent's child from any club or extracurricular to which the parent objects; (4) procedures to notify a parent at least five days in advance and obtain the parent's consent before the parent's child attends any instruction or presentation that has the goal or purpose of studying, exploring, or informing students about gender roles or stereotypes, gender identity, gender expression, or sexual orientation;"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3094",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Parental Rights To Affirm Biological Sex In Child Welfare And Placement Act\" By Adding Section 63-7-50 So As To Encourage Children To Identify With Their Biological Sex By Requiring Courts And Agencies To Consider A Child's Biological Sex As A Positive Factor In Child Welfare Proceedings; To Provide That Parents And Legal Guardians Have The Right To Encourage A Child To Align With Their Biological Sex , Including In Making Medical Decisions, And To Offer Protections For Exercising This Right; To Define Terms; To Require The Department Of Social Services And Family Court System To Develop Policies And The Department Of Social Services To Submit Annual Reports; And For Other Purposes.",
+      "state": "SC",
+      "status": 1,
+      "title": "Child Welfare",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(2) Affirming a child's biological sex shall never be treated as a negative factor or as evidence of abuse, neglect, or unfit parenting. [...] (C) Parents, legal guardians, and foster caregivers in South Carolina have the right to encourage, guide, or counsel a child to align with their biological sex, even if the child has expressed gender confusion. This right shall be protected and shall not be grounds for a negative determination in parental evaluations, custody hearings, or foster care placements.[...](2) \"Gender confusion\" means a self-reported or observed incongruence or uncertainty between a child's biological sex and gender identity. (3) \"Affirmation of biological sex\" means a caregiver's or parent's encouragement of a child to identify with and accept their biological sex."
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3095",
+      "description": "Amend The South Carolina Code Of Laws By Amending Sections 44-63-20, 44-63-100, 44-63-150, And 63-3-530, All Relating In Part To Changes To Certificates Of Birth, So As To Prohibit The Amendment, Modification, Correction, Or Other Change To The Gender Of An Individual As It Appears On The Original Certificate Of Birth.",
+      "state": "SC",
+      "status": 1,
+      "title": "Birth Certificates",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3118",
+      "description": "Amend The South Carolina Code Of Laws By Adding Chapter 23 To Title 63 So As To Provide That Parents Have Fundamental Rights Regarding The Upbringing, Education, And Care Of Their Children; To Define Necessary Terms; To Limit The Ability Of The Government To Infringe On Parental Rights; To Identify Certain Fundamental Rights Of Parents; To Require That School Districts Create Parental Involvement Policies; To Prohibit Healthcare Providers From Soliciting Or Providing Healthcare Services To Children Without Written Parental Consent; To Provide That The Chapter's Provisions Supersede State Of Emergency Declarations; And To Create A Cause Of Action For Violations Of This Chapter; And By Amending Section 63-5-340, Relating To The Age At Which A Minor May Consent To Health Services, So As To Raise The Age To Eighteen.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Bill of Rights",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3121",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"live And Let Live Act\" By Adding Article 2 To Chapter 32, Title 1 So As To Prohibit The State Government From Discriminating Against Certain Individuals And Organizations Based On Their Beliefs Regarding Marriage And A Person's Sex; And For Other Purposes.",
+      "state": "SC",
+      "status": 1,
+      "title": "Live and Let Live Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The state government shall not take any discriminatory action against a religious organization wholly or partially on the basis that such organization: (1) solemnizes or declines to solemnize any marriage, or provides or declines to provide services, accommodations, facilities, goods, or privileges for a purpose related to the solemnization, formation, celebration, or recognition of any marriage, based upon or in a manner consistent with a sincerely held religious belief or moral conviction [...] (2) makes any employment-related decision [...] based upon or in a manner consistent with a sincerely held religious belief or moral conviction [...] or (3) makes any decision concerning the sale, rental, occupancy of, or terms and conditions of occupying a dwelling or other housing under its control based upon or in a manner consistent with a sincerely held religious belief or moral conviction."
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3184",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 59-101-680 To Prohibit The Use Of Political Ideology Or Statements On Diversity, Equity, And Inclusion In Making Admissions Or Employment Decisions By Public Institutions Of Higher Learning, To Prohibit The Use Of Public Funds For Such Purposes, To Prohibit Such Institutions From Requiring Faculty Or Employees To Complete Diversity, Equity, And Inclusion Training Or Take Adverse Action Against Faculty Or Employees Who Refuse Or Fail To Participate In Such Training, To Prohibit Such Institutions From Infringing On First Amendment Rights Of Free Speech Of Students, Faculty, Or Employees, To Provide Reporting Requirements, To Clarify The Applicability Of These Provisions, And To Provide Institutions Shall Provide Electronic Copies Of These Provisions To Students, Employees, And Faculty, Among Other Things.",
+      "state": "SC",
+      "status": 1,
+      "title": "DEI in state universities",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public institution of higher learning shall not require a faculty member or employee of the institution to complete or participate in mandatory training or other educational program regarding diversity, equity, inclusion."
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3185",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Transparency And Integrity In Education Act\" By Adding Article 5 To Chapter 29, Title 59 So As To Provide Necessary Definitions, To Provide Requirements Concerning Curriculum Content And School Employee Training Requirements, Among Other Things, To Provide Means For Addressing Violations, To Provide Related Requirements Of Local Education Agencies And The State Board Of Education, And To Prohibit Schools From Using, Making Available, Promoting, Or Providing Access To Pornographic Or Prohibited Materials; And By Amending Section 59-28-180, Relating To Parental Expectations In The Parental Involvement In Their Children's Education Act, So As To Provide Parents Are Expected To Be The Primary Source Of The Education Of Their Children Regarding Morals, Ethics, And Civic Responsibility, And To Provide A Parental Pledge Of Expectations Must Be Provided To Parents As Part Of The Registration And Enrollment Process.",
+      "state": "SC",
+      "status": 1,
+      "title": "Transparency and Integrity in Education Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A student, administrator, teacher, staff member, other school or district employee, or volunteer may not be required to engage in any gender or sexual diversity training or counseling unless it is prescribed as part of a corrective action plan"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3219",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"rejecting Racism In Postsecondary Education Act\" By Adding Article 4 To Chapter 101, Title 59, So As To Entitle The Article \"rejecting Racism In Postsecondary Education\"; To Provide The Purpose Of The Act; To Provide Necessary Definitions; And To Enact Provisions To Prevent Discrimination, To Promote The Intellectual Development Of Students And Faculty Of Public K-12 And Secondary Schools In This State, And To Protect The Free Exchange Of Ideas According To The United States Constitution And The Constitution Of This State.",
+      "state": "SC",
+      "status": 1,
+      "title": "Rejecting Racism in Postsecondary Education Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A postsecondary institution may not: (a) expend state funds and shall reject federal funds whose receipt requires the institution to promote, support, or maintain DEI programs or campus activities whether or not targeted or provided to employees, students, guests, or the public; (b) hire or assign an institution employee or contract with a third party to conduct DEI activities;"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3263",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Student Physical Privacy Act\" By Adding Article 5 To Chapter 23, Title 59 So As To Provide Various Measures To Promote And Ensure Privacy Among Sexes Using Certain Restrooms And Changing Facilities In Public Schools And Public Institutions Of Higher Learning, And To Provide Penalties For Noncompliance, Among Other Things.",
+      "state": "SC",
+      "status": 1,
+      "title": "Student physical privacy",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Multioccupancy public school or public institution of higher learning restrooms and changing facilities must be designated for use only by members of one sex. Any public school or public institution of higher learning restrooms and changing facilities that are designated for one sex must be used only by members of that sex. No person may enter a restroom or changing facility that is designated for one sex unless he or she is a member of that sex;"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3381",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"defense Of Children's Innocence Act\" By Adding Section 6-1-200 So As To Provide That Any Business Where Drag Shows Are Held Is Deemed To Be A Sexually Oriented Business For All Local Ordinances Relating To A Sexually Oriented Business; By Adding Section 6-1-210 So As To Prohibit A State Agency, Political Subdivision, Or Any Entity That Is Supported In Whole Or In Part By Public Funds From Using Any Public Funds To Host Or Provide A Drag Show; And By Amending Section 16-15-385, Relating To Disseminating Harmful Materials To Minors, So As To Include The Offense Of Allowing A Minor To View A Drag Show.",
+      "state": "SC",
+      "status": 1,
+      "title": "Defense of Children's Innocence Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person commits the offense of exhibiting a harmful performance to a minor if, with or without consideration and knowing the character or content of the performance, he allows a minor to view a live performance which is harmful to minors. For purposes of this subsection, allowing a minor to view a drag show, as defined in Section 6-1-200, is harmful to minors and punishable pursuant to this section."
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3433",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"equality In Financial Services Act\" By Adding Chapter 31 To Title 37 So As To Provide Definitions, Provide That A Financial Institution May Not Discriminate In The Provision Of Financial Services, And To Provide Remedies.",
+      "state": "SC",
+      "status": 1,
+      "title": "Equality in Financial Services Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Discriminate in the provision of financial services\" means utilizing a social credit score to directly or indirectly decline to provide full and equal enjoyment in the provision of financial services, and includes refusing to provide, terminating, or restricting financial services."
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3476",
+      "description": "Amend The South Carolina Code Of Laws By Adding Article 3 To Chapter 103, Title 59 So As To Entitle The Article \"accrediting Agencies\"; To Provide Necessary Definitions; And To Provide Accrediting Agencies Of Institutions Of Higher Learning In This State May Not Take Action On Accreditation Based On Certain Factors Concerning Diversity, Equity, And Inclusion Engagement, Data, Or Required Statements; And To Provide Means Of Redress For Violations.",
+      "state": "SC",
+      "status": 1,
+      "title": "Higher education accrediting agencies",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Whereas, the General Assembly finds that a requirement for a college to \"advance diversity, equity, and inclusion in all of its activities\" also is likely to restrict the free flow of ideas and academic debate, as schools are forced to ensure that \"all\" of their activities advance DEI to remain accredited"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3506",
+      "description": "Amend The South Carolina Code Of Laws By Adding Article 29 To Chapter 1, Title 1 So As To Provide Definitions And Other Rules Of Construction Relating To Human Biological Sexes For Purposes Of The Laws, Administrative Regulations, And Guidelines Of South Carolina.",
+      "state": "SC",
+      "status": 1,
+      "title": "Human Biological Sexes",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Whereas, there is increasing confusion about the definition and implications of sex as a biological truth and its relationship to concepts and terms including, but not limited to, sex assigned at birth, gender, gender identity, gender role, gender expression, and experienced gender; and"
+      ],
+      "last_bill_action": "2024-12-05"
+    },
+    {
+      "bill_number": "H3572",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 59-101-680 So As To Provide Public Institutions Of Higher Learning Are Prohibited From Using Political Ideology Or Statements On Diversity, Equity, And Inclusion In Making Admissions Or Employment Decisions By Public Institutions Of Higher Learning, To Prohibit The Use Of Public Funds For Such Purposes, To Prohibit Such Institutions From Requiring Faculty Or Employees To Complete Diversity, Equity, And Inclusion Training Or Take Adverse Action Against Faculty Or Employees Who Refuse Or Fail To Participate In Such Training, To Prohibit Such Institutions From Infringing On First Amendment Rights Of Free Speech Of Students, Faculty, Or Employees, To Provide Reporting Requirements, To Clarify The Applicability Of These Provisions, And To Provide Institutions Shall Provide Electronic Copies Of These Provisions To Students, Employees, And Faculty, Among Other Things.",
+      "state": "SC",
+      "status": 1,
+      "title": "Diversity, Equity and Inclusion in Higher Education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public institution of higher learning shall not require a faculty member or employee of the institution to complete or participate in mandatory training or other educational program regarding diversity, equity, inclusion."
+      ],
+      "last_bill_action": "2024-12-12"
+    },
+    {
+      "bill_number": "H3638",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 63-5-340, Relating To Rights Of Minors Sixteen Years Or Older To Consent To Health Services Essential To Their Life Or Health, So As To Provide Parents Have The Fundamental Right To Direct The Upbringing, Education, And Care Of Their Minor Children, To Provide These Rights Extend To Healthcare Decisions Concerning The Minors And Access To Their Medical Records, And To Provide The State May Not Substantially Burden These Rights Except In Certain Circumstances; By Amending Section 63-5-350, Relating To Health Services That May Be Rendered To Minors Without Parental Consent, So As To Provide That Healthcare Providers Must Obtain Parental Consent Before Procuring, Providing, Or Rendering Healthcare For A Minor Except In Certain Circumstances, To Prohibit The Encouragement Or Coercion Of Minors To Withhold Information From A Parent About The Health Of The Child, To Provide Parents May Assert Provisions Of This Act As Claims Or Defenses In Certain Judicial Or Administrative Proceedings Subject To A Statute Of Limitations, To Provide Remedies, To Provide The Attorney General May Bring Actions To Enforce Provisions Of This Act, And To Define Necessary Terms, Among Other Things; And By Repealing Section 63-5-370 Relating To Consent Not Subject To Disaffirmance.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(B) Except as otherwise provided by law, this section, or court order, a person or healthcare provider must obtain the consent of a parent of a minor before procuring, providing a referral for, or rendering healthcare to the minor."
+      ],
+      "last_bill_action": "2024-12-12"
+    },
+    {
+      "bill_number": "H3850",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"responsible Library Funding And Child Protection Act\"; And By Adding Section 60-9-15 So As To Provide County Libraries Must Certify To The State Library That They Do Not Offer Any Books Or Materials That Appeal To The Prurient Interests Of Children Under The Age Of Seventeen In Children's, Youth, Or Teen Book Sections And Are Only Available With Parental Consent.",
+      "state": "SC",
+      "status": 1,
+      "title": "Responsible Library Funding and Child Protection Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "County libraries must certify to the State Library that they do not offer any books or materials that appeal to the prurient interest of children under the age of seventeen in children, youth, or teen book sections of libraries and are only made available with explicit parental consent. Each county library must recertify this information quarterly each time it is to receive such funds, and the State Library shall confirm receipt of this recertification before it may disburse funds to a library."
+      ],
+      "last_bill_action": "2025-01-30"
+    },
+    {
+      "bill_number": "H3927",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"ending Illegal Discrimination And Restoring Merit-based Opportunity Act\" By Adding Article 29 To Title 1, Chapter 1 So As To Prohibit Every Office, Division, Or Other Unit By Any Name Of Every Office Or Department Of This State, And All Of Its Political Subdivisions, Including All Institutions Of Higher Learning And School Districts, From Promoting Diversity, Equity, And Inclusion, And To Provide Exceptions; And To Promote Individual Initiative, Excellence, And Hard Work; And To Specify Applicability.",
+      "state": "SC",
+      "status": 2,
+      "title": "Diversity, Equity, and Inclusion",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(B) Every office, division, or other unit [...] of this State, [...] including all institutions of higher learning and school districts, is prohibited from: (1) establishing or maintaining an office or division [...] whose purpose [...] is the promotion of diversity, equity, and inclusion; (2) hiring or assigning an employee or contracting with a third party to promote diversity, equity, and inclusion; (3) compelling, requiring, inducing, or soliciting any person to provide a diversity, equity, and inclusion statement [...] (4) giving preference on the basis of race, sex, color, ethnicity, gender, or sexual orientation to an applicant for employment, an employee, or a participant in any function of the office or department; or (5) requiring as a condition of enrolling [...] or performing any institution function any person to participate in diversity, equity, and inclusion training"
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "H4123",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"protection Of Minors From Pornography And Obscenities Act\" By Amending Section 16-15-375, Relating To Definitions Applicable To The Article Regarding Obscenity Laws, So As To Amend The Definitions Of \"harmful To Minors\" And \"material\" To Include Any Portion Of Materials And Performances That May Be Considered Obscene, And To Define The Term \"profane Language\"; And By Amending Section 16-15-385, Relating To The Offenses Of Disseminating Harmful Material To Minors And Exhibiting Harmful Performances To Minors, Defenses, And Penalties, So As To Limit The Affirmative Defense Provided By The Statute Only To The Teaching Of Age-appropriate Sex Education And Human Biology Curriculum.",
+      "state": "SC",
+      "status": 1,
+      "title": "Protection of Minors from Pornography and Obscenities Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Harmful to minors\" means that quality of any material or performance, or a portion of any material or performance, that depicts sexually explicit nudity ~~or~~, sexual activity, or contains profane language and ~~that, taken as a whole,~~ has the following characteristics: (a) the average adult person applying contemporary community standards would find that the material or performance; or any portion of the material or performance, has a ~~predominant~~ tendency to appeal to a prurient interest of minors in sex or the obscene; and (b) the average adult person applying contemporary community standards would find that the depiction of sexually explicit nudity or, sexual activity, or use of profane language in the material or performance, or any portion of the material or performance, is patently offensive to prevailing standards in the adult community concerning what is suitable for minors; and (c) to a reasonable person, the material or performance, or any portion of the material or performance, ~~taken as a whole~~  lacks serious ~~literary, artistic, political, or~~ scientific value for minors. (2) \"Material\" means pictures, drawings, video recordings, films, digital electronic files, words, gestures, or other ~~visual~~ depictions or representations ~~but not material consisting entirely of written words.~~"
+      ],
+      "last_bill_action": "2025-03-04"
+    },
+    {
+      "bill_number": "H4302",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 63-7-2355 So As To Require That Children In Foster Care Who Are Placed In Residential Facilities Be Assigned To Sex-specific Facilities Based On The Individual's Anatomical Sex At Birth As Recognized On Their Original Birth Certificate.",
+      "state": "SC",
+      "status": 1,
+      "title": "Foster Care",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "TO REQUIRE THAT CHILDREN IN FOSTER CARE WHO ARE PLACED IN RESIDENTIAL FACILITIES BE ASSIGNED TO SEX-SPECIFIC FACILITIES BASED ON THE INDIVIDUAL'S ANATOMICAL SEX AT BIRTH AS RECOGNIZED ON THEIR ORIGINAL BIRTH CERTIFICATE."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "H4465",
+      "description": "Amend The South Carolina Code Of Laws By Adding Chapter 35 To Title 1 So As To Create The \"privacy In Public Spaces Act,\" To Define Terms, To Require Safety And Privacy In Public Spaces, And To Provide Remedies.",
+      "state": "SC",
+      "status": 1,
+      "title": "Privacy in Public Spaces Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Section 1-35-10. For purposes of this chapter: [...] (4) \"Female\" means an individual who has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization. [...] (7) \"Male\" means an individual who has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization."
+      ],
+      "last_bill_action": "2025-04-30"
+    },
+    {
+      "bill_number": "H4466",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 37-6-130 So As To Prohibit Financial Institutions From Discriminating Against A Person On The Basis Of, Among Other Things, Political Affiliations Or Religious Beliefs; And By Adding Section 38-57-330 So As To Prohibit Insurers From Discriminating Against A Person On The Basis Of, Among Other Things, Political Affiliations Or Religious Beliefs.",
+      "state": "SC",
+      "status": 1,
+      "title": "Financial services and insurance, antidiscrimination",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-04-30"
+    },
+    {
+      "bill_number": "H4515",
+      "description": "Amend The South Carolina Code Of Laws By Amending Sections 44-63-20, 44-63-100, 44-63-150, And 63-3-530, All Relating In Part To Changes To Certificates Of Birth, So As To Prohibit The Amendment, Modification, Correction, Or Other Changes To The Gender Of Individuals As It Appears On The Original Certificate Of Birth, With Exceptions; By Adding Section 44-63-155 So As To Allow Certain Corrections To Be Made To Birth Certificates By Filing A Court Petition Requesting An Appropriate Court Order; By Amending Section 63-7-20, Relating To Terms Defined In The Children's Code, So As To Change The Definition Of \"child Abuse Or Neglect\"; And For Other Purposes.",
+      "state": "SC",
+      "status": 1,
+      "title": "Birth Certificates",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Notwithstanding another provision of law to the contrary, an individual's gender listed on an original certificate of birth cannot be amended, modified, corrected, or otherwise changed."
+      ],
+      "last_bill_action": "2025-05-06"
+    },
+    {
+      "bill_number": "H4755",
+      "description": "Amend The South Carolina Code Of Laws By Amending Sections 2-19-5, 2-19-20, 2-19-30, 2-19-35, 2-19-50, 2-19-60 And 2-19-70, All Relating To The South Carolina Judicial Merit Selection Commission Screening And Election Of Justices And Judges, So As To Revise The Staffing And Appointment Process Of The Commission And Transfer That Authority To The Governor, To Prohibit Sitting Members Of The General Assembly And Certain Family Members From Serving On The Commission, To Prohibit The Commission From Considering Diversity, Equity, And Inclusion Criteria Along With Other Similar Criteria, And To Make Conforming Changes.",
+      "state": "SC",
+      "status": 2,
+      "title": "Judicial Selection Reform",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(D) In making appointments to the commission, race, gender, national origin, and other demographic factors shall be considered to ensure nondiscrimination to the greatest extent possible as to all segments of the population of the State.~~"
+      ],
+      "last_bill_action": "2025-12-16"
+    },
+    {
+      "bill_number": "H4756",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Student Physical Privacy Act\" By Adding Article 5 To Chapter 23, Title 59 So As To Provide Various Measures To Promote And Ensure Privacy Among Sexes Using Certain Restrooms And Changing Facilities In Public Schools And Public Institutions Of Higher Learning, And To Provide Penalties For Noncompliance, Among Other Things.",
+      "state": "SC",
+      "status": 3,
+      "title": "South Carolina Student Physical Privacy Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Section 59-23-520. A public school district may not permit any public school within the district to use any funds to maintain or operate any restroom or changing facility on its premises that is not in compliance with this article or facilitate any public school-authorized activity or event involving overnight lodging that is not in compliance with this article."
+      ],
+      "last_bill_action": "2025-12-16"
+    },
+    {
+      "bill_number": "H4757",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"parental Rights Act\" By Adding Article 3 To Chapter 28, Title 59, To Affirm And Enumerate The Fundamental Rights Of Parents To Direct The Upbringing, Education, Healthcare, And General Welfare Of Their Children, To Require The State Board Of Education To Adopt Minimum Standards To Implement Parental Rights And A Related Model Parental Rights Policy, To Provide Local Education Agencies Shall Adopt And Implement Related Policies, To Establish Administrative Procedures For The Investigation And Resolution Of Alleged Violations, To Provide For A Limited Private Cause Of Action Upon Exhaustion Of Administrative Remedies, And To Define Necessary Terms, Among Other Things; By Amending Section 63-5-340, Relating To Minor Consent For Health Services, So As To Clarify, Strengthen, And Expand Requirements For Parental Consent For Nonemergency Medical Treatment Of Minors, To Provide Procedures And Remedies For Violations Alleged By Parents, And To Define Necessary Terms, Among Other Things; By Repealing Section 63-5-350 Relating To Furnishing Health Services To Minors Without Parental Consent; By Designating The Existing Provisions Of Chapter 28, Title 59 As \"general Provisions\"; And By Repealing Section 63-5-370 Relating To Certain Consent Not Being Subject To Disaffirmance.",
+      "state": "SC",
+      "status": 2,
+      "title": "Parental Rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~Any minor who has reached the age of sixteen years may consent to any health services from a person authorized by law to render the particular health service for himself and the consent of no other person shall be necessary unless such involves an operation which shall be performed only if such is essential to the health or life of such child in the opinion of the performing physician and a consultant physician if one is available.~~"
+      ],
+      "last_bill_action": "2025-12-16"
+    },
+    {
+      "bill_number": "H4915",
+      "description": "Call On Congress To Reaffirm Title Ix's Protections That Afford Every Woman And Girl Equal Opportunities In Athletics And To Urge The Supreme Court Of The United States To Uphold The Authority Of Every State To Ensure Women's Sports Are Reserved For Females Only.",
+      "state": "SC",
+      "status": 1,
+      "title": "Women's Sports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Allowing males to compete in women's sports reverses fifty years of advancement for women; [...] allowing males to compete in contact sports creates significant risks of physical harm; [...] no person should have to compromise their dignity or privacy to validate someone else's subjective perception of their identity;"
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "H5207",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To Court Ordered Changes To Birth Certificates, So As To Change The Term \"gender\" To \"sex\"; By Adding Section 44-63-95 So As To Prohibit The Department Of Public Health From Changing An Individual's Sex In The Sex Field Of The Birth Certificate, With Exceptions; And By Amending Section 59-1-500, Relating To Birth Certificates Of Students On School Sports Teams, So As To Make Conforming Changes.",
+      "state": "SC",
+      "status": 1,
+      "title": "Birth Certificates",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-02-18"
+    },
+    {
+      "bill_number": "H5354",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 63-7-2355 So As To Require That Children In Foster Care Who Are Placed In Residential Facilities Be Assigned To Sex-specific Facilities Based On The Child's Anatomical Sex At Birth As Recognized On Their Original Birth Certificate.",
+      "state": "SC",
+      "status": 1,
+      "title": "Department of Social Services",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(A) Any residential facility licensed by the Department of Social Services for the placement of children in foster care shall assign residents to housing units, sleeping quarters, and other sex-specific facilities based strictly upon the individual's anatomical sex at birth as recognized on their original birth certificate and shall not take into consideration the gender identity of the child."
+      ],
+      "last_bill_action": "2026-03-11"
+    },
+    {
+      "bill_number": "H5501",
+      "description": "Reject The Supreme Court Of The United States Obergefell Decision And To Call On The Supreme Court To Reverse Obergefell And Restore The Natural Law Definition Of Marriage, A Union Of One Man And One Woman And To Insist On Restoring The Issue Of Marriage And Enforcement Of All Laws Pertaining To Marriage Back To The Several States And The People.",
+      "state": "SC",
+      "status": 1,
+      "title": "Obergefell",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Whereas, marriage as an institution has been recognized as the union of one man and one woman for more than two thousand years, and within common law, the basis of the United States' Anglo American legal tradition, for more than 800 years; and"
+      ],
+      "last_bill_action": "2026-04-02"
+    },
+    {
+      "bill_number": "S0054",
+      "description": "Amend The South Carolina Code Of Laws So As To Enact The \"medical Informed Consent Act\"; By Adding Section 16-17-780 So As To Provide That It Is Unlawful For Any Person, Corporation, Higher Learning Institution, Or The State To Implement A Vaccine Mandate And To Provide Penalties; By Adding Section 41-1-55 So As To Prohibit Employers From Taking Adverse Action Against Individuals Who Decline To Receive A Vaccine And To Provide Penalties; By Amending Section 40-43-86, Relating To Facility Requirements For Pharmacies And Prescription Drug Orders, So As To Provide Conditions Under Which A Pharmacist May Refuse To Fill A Prescription; By Amending Section 44-1-100, Relating To Assistance From Peace And Health Officers, So As To Remove The Provision That The Public Safety Authority May Request Assistance From The State National Guard In Enforcing Quarantine Measures; By Amending Section 44-4-130, Relating To Public Health Definitions, So As To Provide Definitions Of \"gene Therapy\" And \"vaccine\" And To Make Conforming Changes; By Amending Section 44-4-510, Relating To Physical Examinations And Isolation Or Quarantine Of Persons Refusing Examination, So As To Provide That The Department May Isolate A Symptomatic Person Or Person Who Has Been Exposed To The Contagious Disease For Which A Public Health Emergency Has Been Declared; By Amending Section 44-4-520, Relating To Vaccinations And Treatment, So As To Provide That The Department Must Monitor The Safety And Efficacy Of Vaccines, Tests, And Treatments; By Amending Section 44-4-530, Relating To Isolation And Quarantine Of Individuals Or Groups, As Well As Penalties For Noncompliance, So As To Provide A Time Limit Of Twenty-one Days For A Quarantined Asymptomatic Person; By Amending Section 44-4-540, Relating To Isolation And Quarantine Procedures, So As To Change Procedures; And By Amending Section 44-4-570, Relating To Emergency Powers Regarding Licensing Of Health Personnel, So As To Remove The Requirement That State Health Care Providers Assist In The Performance Of Vaccinations As A Condition Of Licensure.",
+      "state": "SC",
+      "status": 1,
+      "title": "Medical Informed Consent",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A pharmacist may refuse to fill or refill a prescription when [...] the pharmacist objects to filling the prescription for religious, moral, or ethical reasons pursuant to the Medical Ethics and Diversity Act, Title 44, Chapter 139."
+      ],
+      "last_bill_action": "2024-12-11"
+    },
+    {
+      "bill_number": "S0104",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 60-9-15 So As To Provide For The Manner Of Allocating Amounts Appropriated For Aid To County Libraries, And To Provide That In Order To Receive These Funds County Libraries Must Certify To The State Library That They Do Not Offer Any Books Or Materials That Appeal To The Prurient Interests Of Children Under The Age Of Seventeen In Children, Youth, Or Teen Book Sections And Are Only Available With Parental Consent, And To Provide County Libraries Must Recertify Compliance With This Provision Quarterly Before It May Receive A Disbursement Of These Funds.",
+      "state": "SC",
+      "status": 1,
+      "title": "Library funding",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prior to receiving funds described in subsection (B), county libraries must certify to the State Library that their county libraries do not offer any books or materials that appeal to the prurient interest of children under the age of seventeen in children, youth, or teen book sections of libraries and are only made available with explicit parental consent. Each county library must recertify this information quarterly each time it is to receive such funds, and the State Library shall confirm receipt of this recertification before it may disburse funds to a library."
+      ],
+      "last_bill_action": "2024-12-11"
+    },
+    {
+      "bill_number": "S0162",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male, And To Provide For The Circumstances And Timing Limitations Of Gender Changes.",
+      "state": "SC",
+      "status": 1,
+      "title": "Vital Statistics - Changes to Birth Certificates",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Gender\" means the biological indication of male and female in the context of reproductive potential or capacity such as sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth."
+      ],
+      "last_bill_action": "2025-01-14"
+    },
+    {
+      "bill_number": "S0199",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 59-23-400 So As To Provide That Every Public School Restroom And Changing Facility That Is Accessible By Multiple Persons Must Be Designatedfor Use Only By Members Of One Sex, To Provide Definitions, And To Provide For A Private Cause Of Action For Those Aggrieved By A Failure To Comply With The Requirements Of This Act.",
+      "state": "SC",
+      "status": 1,
+      "title": "Student Physical Privacy Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Multi-occupancy public school or public institution of higher learning restrooms and changing facilities shall be designated for use only by members of one sex. Any public school or public institution of higher learning restrooms or changing facilities that are designated for one sex shall be used only by members of that sex; no person shall enter a restroom or changing facility that is designated for one sex unless he or she is a member of that sex; and the public school or public institution of higher learning with authority over that building shall take reasonable steps to ensure that all restrooms and changing facilities provide its users with privacy from members of the opposite sex."
+      ],
+      "last_bill_action": "2025-01-14"
+    },
+    {
+      "bill_number": "S0240",
+      "description": "Amend The South Carolina Code Of Laws So As To Enact The \"south Carolina Parental Rights To Affirm Biological Sex In Child Welfare And Placement Act\"; And By Adding Section 63-7-50 So As To Encourage Children To Identify With Their Biological Sex By Requiring Courts And Agencies To Consider A Child's Biological Sex As A Positive Factor In Child Welfare Proceedings, To Provide That Parents And Legal Guardians Have The Right To Encourage A Child To Align With Their Biological Sex, Including In Making Medical Decisions, And To Offer Protections For Exercising This Right, To Require The Department Of Social Services And Family Court System To Develop Policies And The Department Of Social Services To Submit Annual Reports, And To Define Necessary Terms.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Rights to Affirm Biological Sex in Child Welfare",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(B)(1) In any court or agency proceeding regarding child custody, welfare, abuse, neglect, or foster care placement, the act of affirming a child's biological sex shall be considered a positive factor in determining the best interests of the child. (2) Affirming a child's biological sex shall never be treated as a negative factor or as evidence of abuse, neglect, or unfit parenting."
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "S0242",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 63-5-340, Relating To The Rights Of Minors Sixteen Years Or Older To Consent To Health Services Essential To Their Life Or Health, So As To Provide That Parents Have The Fundamental Right To Direct The Upbringing, Education, And Care Of Their Minor Children, To Provide These Rights Extend To Healthcare Decisions Concerning The Minors And Access To Their Medical Records, And To Provide The State May Not Substantially Burden These Rights Except In Certain Circumstances; By Amending Section 63-5-350, Relating To Health Services That May Be Rendered To Minors Without Parental Consent, So As To Provide That Healthcare Providers Must Obtain Parental Consent Before Procuring, Providing, Or Rendering Healthcare For A Minor Except In Certain Circumstances, To Prohibit The Encouragement Or Coercion Of Minors To Withhold Information From A Parent About The Health Of The Child, To Provide Parents May Assert Provisions Of This Act As Claims Or Defenses In Certain Judicial Or Administrative Proceedings Subject To A Statute Of Limitations, To Provide Remedies, To Provide The Attorney General May Bring Actions To Enforce Provisions Of This Act, And To Define Necessary Terms; And By Repealing Section 63-5-370 Relating To Consent Not Subject To Disaffirmance.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Right to Dictate Health of Minor",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(B) Except as otherwise provided by law, this section, or court order, a person or healthcare provider must obtain the consent of a parent of a minor before procuring, providing a referral for, or rendering healthcare to the minor."
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "S0243",
+      "description": "Amend The South Carolina Code Of Laws So As To Enact The \"parental Rights In Education Act\"; By Adding Article 3 To Chapter 28, Title 59, So As To Recognize That Parents Have The Ultimate Responsibility To Direct The Upbringing, Education, Healthcare, And Mental Health Of Their Children, To Prohibit The State From Substantially Burdening Those Parental Rights, To Require The State To Obtain Parental Consent In Certain Circumstances, To Create A Cause Of Action For Violation Of The Chapter, And To Provide Necessary Definitions; And To Designate The Existing Provisions Of Chapter 28, Title 59, As Article 1 Entitled \"general Provisions.\"",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Rights in Education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each LEA, in consultation with parents, teachers, and administrators, shall develop and adopt a policy to promote the involvement of parents of children enrolled in the LEA, including: [...] (4) procedures to notify a parent at least five days in advance and obtain the parent's consent before the parent's child attends any instruction or presentation that has the goal or purpose of studying, exploring, or informing students about gender roles or stereotypes, gender identity, gender expression, or sexual orientation;"
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "S0322",
+      "description": "Amend The South Carolina Code Of Laws So As To Enact The \"free To Speak Act\"; By Adding Section 59-1-505 So As To Prohibit Public School Employees From Knowingly And Intentionally Addressing An Unemancipated Minor Who Is A Student At The School Where The Employee Is Employed By A Pronoun Or Title That Is Inconsistent With The Student's Sex Without The Written Permission Of A Student's Parent Or Guardian, And To Protect Public School Employees From Adverse Employment Action For Declining To Address A Student Using A Pronoun That Is Inconsistent With The Student's Sex, For Declining To Identify His Pronouns, And For Other Reasons, And To Require The Governing Body Of Each School District To Adopt Policies Consistent With This Code Section; And By Adding Section 59-101-680 So As To Prohibit Public Institutions Of Higher Learning Employees From Knowingly And Intentionally Addressing An Unemancipated Minor Who Is A Student At The School Where The Employee Is Employed By A Pronoun Or Title That Is Inconsistent With The Student's Sex, And To Protect Employees Of Institutions Of Higher Learning From Adverse Employment Action For Declining To Address A Student Using A Pronoun That Is Inconsistent With The Student's Sex, For Declining To Identify His Pronouns, And For Other Reasons, And To Require The Governing Body Of Each Public Institution Of Higher Learning To Adopt Policies Consistent With This Code Section.",
+      "state": "SC",
+      "status": 1,
+      "title": "Free Speech",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) \"Sex\" means a person's immutable biological sex, either male or female."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "S0368",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"ending Illegal Discrimination And Restoring Merit-based Opportunity Act\" By Adding Article 29 To Chapter 1, Title 1 So As To Prohibit Every Office, Division, Or Other Unit By Any Name Of Every Office Or Department Of This State, And All Of Its Political Subdivisions, Including All Institutions Of Higher Learning And School Districts, From Promoting Diversity, Equity, And Inclusion, And To Provide Exceptions; To Promote Individual Initiative, Excellence, And Hard Work; And To Specify Applicability.",
+      "state": "SC",
+      "status": 1,
+      "title": "Diversity, Equity, and Inclusion",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Every office or department of this State, and all of its political subdivisions, including all institutions of higher learning and school districts, is prohibited from: (1) establishing or maintaining an office or division or other unit by any name whose purpose, in whole or in part, is the promotion of diversity, equity, and inclusion; (2) hiring or assigning an employee or contracting with a third party to promote diversity, equity, and inclusion; (3) compelling [...] or soliciting any person to provide a diversity, equity, and inclusion statement."
+      ],
+      "last_bill_action": "2025-02-20"
+    },
+    {
+      "bill_number": "S0540",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 63-7-20, Relating To Definitions, So As To Clarify That Raising A Child Consistent With The Child's Sex Does Not Constitute Child Abuse, Neglect, Or Harm.",
+      "state": "SC",
+      "status": 1,
+      "title": "Definition of child abuse",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Child abuse or neglect\" or \"harm\" shall not be interpreted or construed to allow an adverse action against the parent, guardian, or other person responsible for the child's welfare who: (1) guides, instructs, or raises a child, or intends to guide, instruct, or raise a child, consistent with the child's sex; (2) seeks out and consents to any lawful mental healthcare service for a child to assist the child in living consistent with the child's sex; or (3) declines to consent to any physical or mental healthcare service for a child for the purpose of gender transition as defined in Section 44-42-310."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "S0696",
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 2-19-5, Relating To South Carolina Judicial Merit Selection Commission Creation, So As To Require That The Commission Be Composed Of Twelve Members Appointed By The Governor; By Amending Section 2-19-20, Relating To Investigation By The Commission And Publication Of Vacancies, So As To Require That Any State Agency Must Cooperate With The Commission's Requests For Information; By Amending Section 2-19-30, Relating To Hearings And Executive Session, So As To Require Written Testimony For Public Hearings Be Submitted No Later Than Seventy-two Hours Before The Scheduled Hearing And Copies Of Written And Spoken Testimony Be Available At No Charge; By Amending Section 2-19-35, Relating To Criteria For Investigations And Consideration Of The Commission, So As To Omit Race, Gender, Sex, Sexual Preference, Color, Religion, National Origin, Intersectional Identifiers, Any Diversity, Equity, And Inclusion Critera, Philosophy, Or Frameworks From Being Considered By The Commission When Making Nominations And Appointments; By Amending Section 2-19-50, Relating To Confidentiality Of Records, Information, And Other Material, So As To Exclude Records Held By The Commission Not Previously Or Otherwise Confidential From Being Kept Strictly Confidential; By Amending Section 2-19-60, Relating To Powers Of The Commission, So As To Require That The Commission May Carry Out Its Duties Strictly In Selecting And Vetting Viable Candidates And That No Individual May Be Prosecuted Or Subjected To Punishment, Forfeiture, Criminal, Or Civil Penalty Based Upon Testimony Submitted To The Commission; By Amending Section 2-19-70, Relating To Prohibition Against Dual Offices, Privileges Of The Floor, And Pledges, So As To Prohibit Floor Privileges To Immediate Family Members Of Candidates While The Candidate's Application Is Under Review By The Commission.",
+      "state": "SC",
+      "status": 1,
+      "title": "JMSC Reform",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(D) In making appointments to the commission, race, gender, national origin, and other demographic factors shall be considered to ensure nondiscrimination to the greatest extent possible as to all segments of the population of the State.~~"
+      ],
+      "last_bill_action": "2025-12-10"
+    },
+    {
+      "bill_number": "S0733",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 6-1-200 So As To Prohibit State Agencies, Political Subdivisions, Or Entities That Are Supported In Whole Or In Part By Public Funds From Using Any Public Funds To Host Or Provide Drag Story Hours Or Other Drag Shows For Minors Under The Age Of Eighteen; To Establish Penalties; And To Define Terms.",
+      "state": "SC",
+      "status": 1,
+      "title": "Children",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) No state agency, political subdivision, including school districts, or any entity that is supported in whole or in part by public funds may use any public funds to host or provide a drag story hour or other drag show attended by minors under the age of eighteen. If any such institution whose funding is commingled hosts or provides for such a drag story hour or other drag show, the expenditures of the drag story hour or other drag show are deemed to be from public funds. If any such institution violates the provision of this section, then the appropriate official in charge of disbursing public funds, must cease disbursing funds to the offending institution."
+      ],
+      "last_bill_action": "2025-12-10"
+    },
+    {
+      "bill_number": "S0736",
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 39-1-100 So As To Provide That Certain Online Companies Must Provide Parents An Option To Opt Out Of Certain Content On Their Platforms.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Control",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Online companies that provide social media, streaming, gaming, or chatrooms including, but not limited to, Facebook, Instagram, TikTok, Netflix, Disney+, Roblox, and Hulu that have minor users must provide a parental control option for a parent of a minor to opt out of all content that is sexual in nature and content that features transgender individuals that are available on its platform."
+      ],
+      "last_bill_action": "2025-12-10"
+    },
+    {
+      "bill_number": "S0840",
+      "description": "Amend The South Carolina Code Of Laws So As To Enact The \"parental Rights Act\"; By Adding Article 3 To Chapter 28, Title 59 So As To Define Terms Pertaining To Parental Rights In Education; To Affirm And Enumerate The Fundamental Rights Of Parents To Direct The Upbringing, Education, Healthcare, And General Welfare Of Their Children; To Require The State Board Of Education To Adopt Minimum Standards To Implement Parental Rights; To Require Local Education Agencies To Adopt And Implement Related Policies; To Establish Administrative Procedures For The Investigation And Resolution Of Alleged Violations; And To Provide For A Limited Private Cause Of Action Upon Exhaustion Of Administrative Remedies; By Amending Section 63-5-340, Relating To A Minor's Consent To Health Services, So As To Define Terms Pertaining To A Minor's Consent To Health Services, To Expand Requirements For Parental Consent For Nonemergency Medical Treatment Of Minors, And To Provide Procedures And Remedies For Violations Alleged By Parents; By Designating The Existing Provisions Of Chapter 28, Title 59 As \"general Provisions\"; By Repealing Section 63-5-350 Relating To Health Services Provided To Minors Without Parental Consent; And By Repealing Section 63-5-370 Relating To The Provision That Any Consent Given Pursuant To This Article Shall Not Be Subject To Disaffirmance Because Of Minority When Such Minor Reaches Majority.",
+      "state": "SC",
+      "status": 1,
+      "title": "Parental Bill of Rights",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An employee of this State, except for authorized law enforcement officers or agents, in the performance of their duties shall not:  (1) encourage or coerce a child to withhold information from the child's parent; or (2) withhold from a child's parent information that relates to the child's education or is relevant to the physical, emotional, or mental health of the child, including any request by a child to be treated in a manner that is inconsistent with the child's sex."
+      ],
+      "last_bill_action": "2026-01-21"
+    },
+    {
+      "bill_number": "S0860",
+      "description": "A Senate Resolution To Call On Congress To Reaffirm Title Ix's Protections That Afford Every Woman And Girl Equal Opportunities In Athletics And To Urge The Supreme Court Of The United States To Uphold The Authority Of Every State To Ensure Women's Sports Are Reserved For Females Only.",
+      "state": "SC",
+      "status": 1,
+      "title": "Women's Sports",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Allowing males to compete in women's sports reverses fifty years of advancement for women. [...] The South Carolina Senate urges the Supreme Court of the United States to uphold each state's authority to ensure the category of women's sports are reserved for females only and allow states to restore common sense, fairness, and safety in women's sports by recognizing biological truth. [... and] call on Congress to reaffirm Title IX's protections that afford every woman and girl equal opportunities in athletics and urge the Supreme Court of the United States to uphold the authority of every state to ensure women's sports are reserved for females only."
+      ],
+      "last_bill_action": "2026-01-28"
+    },
+    {
+      "bill_number": "S0919",
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"protection Of Minors From Pornography And Obscenities Act\" By Amending Section 16-15-375, Relating To Definitions Applicable To The Article Regarding Obscenity Laws, So As To Amend The Definitions Of \"harmful To Minors\" And \"material\" To Include Any Portion Of Materials And Performances That May Be Considered Obscene, And To Define The Term \"profane Language\"; And By Amending Section 16-15-385, Relating To The Offenses Of Disseminating Harmful Material To Minors And Exhibiting Harmful Performances To Minors, Defenses, And Penalties, So As To Limit The Affirmative Defense Provided By The Statute Only To The Teaching Of Age-appropriate Sex Education And Human Biology Curriculum.",
+      "state": "SC",
+      "status": 1,
+      "title": "Protection of Minors from Pornography and Obscenities Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Protection of Minors from Pornography and Obscenities Act [...] it is the intention of the General Assembly to correct and further clarify the provisions of Article 3, Chapter 15, Title 16, to eliminate these loopholes and ambiguities in the law. [...] It is an affirmative defense under this section that: [...] (2) the defendant was a school, church, ~~museum, public, school, college, or university library,~~ government agency, medical clinic, or hospital carrying out its legitimate function, or an employee or agent of such an organization acting in that capacity and carrying out a legitimate duty of his employment. <u>Such legitimate function or duty is strictly limited to the age-appropriate teaching of a sex education program or human biology curriculum for which express written consent from the minor's parent or legal guardian has been obtained in advance, and excludes school and classroom libraries.</u>"
+      ],
+      "last_bill_action": "2026-02-11"
+    }
+  ],
+  "year": "2026"
+}

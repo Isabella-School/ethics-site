@@ -1,0 +1,91 @@
+{
+  "state": "Nebraska",
+  "stateAbbreviation": "NE",
+  "bills": [
+    {
+      "bill_number": "LB1071",
+      "description": "Provide, change, and eliminate provisions related to appropriations for the expenses of Nebraska State Government for the biennium ending June 30, 2027",
+      "state": "NE",
+      "status": 4,
+      "title": "Provide, change, and eliminate provisions related to appropriations for the expenses of Nebraska State Government for the biennium ending June 30, 2027",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "None of the money appropriated by the One Hundred Ninth Legislature, First or Second Session, shall be used for the purpose of diversity, equity, and inclusion programs. Diversity, equity, and inclusion program means any program which: [...] (d) Promotes [...] allyship, transgender ideology, [...] neopronouns, heteronormativity, [...] gender theory, [...] or any related formulation of these concepts."
+      ],
+      "last_bill_action": "2026-01-15"
+    },
+    {
+      "bill_number": "LB552",
+      "description": "Prohibit public postsecondary educational institutions from having a diversity, equity, and inclusion office and taking certain actions relating to diversity, equity, and inclusion",
+      "state": "NE",
+      "status": 1,
+      "title": "Prohibit public postsecondary educational institutions from having a diversity, equity, and inclusion office and taking certain actions relating to diversity, equity, and inclusion",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public postsecondary educational institution shall not [...] (a) Establish or maintain a diversity, equity, and inclusion office; (b) Hire or assign an employee of the institution or contract with a third party to perform the duties of a diversity, equity, and inclusion office; (c) Compel, require, induce, or solicit any person to provide a statement related to diversity, equity, and inclusion [...] (e) Require as a condition of enrolling at the public postsecondary educational institution or performing any function of such institution, any person to participate in a diversity, equity, and inclusion program; or (f) Spend public money on a diversity, equity, and inclusion program or office."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "LB655",
+      "description": "Provide for medical conscience-based objections",
+      "state": "NE",
+      "status": 1,
+      "title": "Provide for medical conscience-based objections",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider or health care payor has the right to opt out of participation in, or payment for, any health care service if the provider or payor has a conscience-based objection to participation in the health care service."
+      ],
+      "last_bill_action": "2025-01-22"
+    },
+    {
+      "bill_number": "LB730",
+      "description": "Require schools and state agencies to designate restrooms and locker rooms based on sex and require state agencies to define an individual's sex as either male or female for purposes of rules and regulations, the enforcement of administrative actions, and adjudication of disputes",
+      "state": "NE",
+      "status": 1,
+      "title": "Require schools and state agencies to designate restrooms and locker rooms based on sex and require state agencies to define an individual's sex as either male or female for purposes of rules and regulations, the enforcement of administrative actions, and adjudication of disputes",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each state agency in the adoption and promulgation of administrative rules and regulations, [...] shall define an individual's sex as either a male or female. [...] A state agency shall designate each group restroom within any facility owned by the state as one of the following: For use by females, for use by males"
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "LB731",
+      "description": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
+      "state": "NE",
+      "status": 1,
+      "title": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any health insurance policy which provides coverage or has ever provided coverage for a covered individual's gender-altering procedure shall: (a) Provide coverage, including for any applicable diagnostic or billing code, for: (i) All possible adverse consequences related to the covered individual's gender-altering procedure, including any short-term or long-term side effects of the procedure; (ii) Any baseline and follow-up testing or screening necessary to monitor the mental and physical health of the covered individual on at least an annual basis without regard to the sex or gender identity designation in the covered individual's medical record; and (iii) Any procedure, treatment, or therapy necessary to manage, reverse, reconstruct from, or recover from the covered individual's gender-altering procedure; and (b) Provide the coverage described in this subsection to any covered individual who has undergone a gender-altering procedure regardless of whether the covered individual was enrolled in the plan or policy at the time of the procedure."
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "LB732",
+      "description": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
+      "state": "NE",
+      "status": 1,
+      "title": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care practitioner shall not knowingly prescribe for or provide to an individual in this state younger than nineteen years of age cross-sex hormones or puberty-blocking drugs for the purpose of assisting the individual with a gender alteration."
+      ],
+      "last_bill_action": "2026-01-07"
+    },
+    {
+      "bill_number": "LR301",
+      "description": "Interim study to examine whether socially or medically changing the behavioral or physical characteristics of a child in opposition to the characteristics associated with the child's sex registered at birth constitutes child abuse under the Nebraska Criminal Code",
+      "state": "NE",
+      "status": 1,
+      "title": "Interim study to examine whether socially or medically changing the behavioral or physical characteristics of a child in opposition to the characteristics associated with the child's sex registered at birth constitutes child abuse under the Nebraska Criminal Code",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The purpose of this resolution is to conduct a study to examine whether socially or medically changing the behavioral or physical characteristics of a child in opposition to the characteristics associated with the child's sex registered at birth constitutes child abuse."
+      ],
+      "last_bill_action": "2026-01-13"
+    }
+  ],
+  "year": "2026"
+}

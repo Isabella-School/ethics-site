@@ -1,0 +1,29 @@
+{
+  "state": "Maine",
+  "stateAbbreviation": "ME",
+  "bills": [
+    {
+      "bill_number": "HP1514",
+      "description": "Enclosed please find my official certification to the 132nd Legislature of the citizen initiative petition entitled \"An Act to Designate School Sports Participation and Facilities by Sex\".",
+      "state": "ME",
+      "status": 1,
+      "title": "Enclosed please find my official certification to the 132nd Legislature of the citizen initiative petition entitled \"An Act to Designate School Sports Participation and Facilities by Sex\".",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-03-19"
+    },
+    {
+      "bill_number": "LD2239",
+      "description": "An Act to Designate School Sports Participation and Facilities by Sex",
+      "state": "ME",
+      "status": 6,
+      "title": "An Act to Designate School Sports Participation and Facilities by Sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "For the purposes of this section, \"sex\" means a person's biological status as male or female recorded at birth on the person's original birth certificate."
+      ],
+      "last_bill_action": "2026-03-19"
+    }
+  ],
+  "year": "2026"
+}

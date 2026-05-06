@@ -1,0 +1,343 @@
+{
+  "state": "Michigan",
+  "stateAbbreviation": "MI",
+  "bills": [
+    {
+      "bill_number": "HB4024",
+      "description": "Civil rights: privacy; restriction of student access to certain restrooms and changing areas based on biological sex; provide for. Creates new act.",
+      "state": "MI",
+      "status": 2,
+      "title": "Civil rights: privacy; restriction of student access to certain restrooms and changing areas based on biological sex; provide for. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An educational institution shall require every multiple occupancy restroom or changing area to be used by individuals based on the individuals' biological sex."
+      ],
+      "last_bill_action": "2025-01-28"
+    },
+    {
+      "bill_number": "HB4031",
+      "description": "Recreation: athletics and sports; publicly funded individual sports programs that provide separate programs for males and females; require athletes to be scored according to their biological sex. Creates new act.",
+      "state": "MI",
+      "status": 1,
+      "title": "Recreation: athletics and sports; publicly funded individual sports programs that provide separate programs for males and females; require athletes to be scored according to their biological sex. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A bill to require awards, rankings, and records of outcomes in separate female and male sporting events to be categorized consistent with each competitor's biological sex."
+      ],
+      "last_bill_action": "2025-01-28"
+    },
+    {
+      "bill_number": "HB4066",
+      "description": "Education: athletics; single-sex sports teams; require. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1290.",
+      "state": "MI",
+      "status": 2,
+      "title": "Education: athletics; single-sex sports teams; require. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1290.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of a school district [...] of a public school academy that participates in interscholastic athletic activities shall designate interscholastic athletic teams and sports based on the sex of the participants as follows: (a) Separate teams for participants of the female sex within female sports divisions. (b) Separate teams for participants of the male sex within male sports divisions."
+      ],
+      "last_bill_action": "2025-02-11"
+    },
+    {
+      "bill_number": "HB4190",
+      "description": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Amends 1978 PA 368 (MCL 333.1101 - 333.25211) by adding secs. 17019 & 17519.",
+      "state": "MI",
+      "status": 1,
+      "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Amends 1978 PA 368 (MCL 333.1101 - 333.25211) by adding secs. 17019 & 17519.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A physician shall not knowingly do any of the following: (a) Perform gender reassignment surgery on a minor. (b) Prescribe a cross-sex hormone or puberty-blocking drug for a minor with the intent to assist the minor with gender transition."
+      ],
+      "last_bill_action": "2025-03-06"
+    },
+    {
+      "bill_number": "HB4466",
+      "description": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
+      "state": "MI",
+      "status": 1,
+      "title": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(xv) Conviction of a violation of section 90 of the Michigan penal code, 1931 PA 328, MCL 750.90, or a violation of a state or federal crime that is substantially similar to the violation described in this subparagraph. A certified copy of the court record is conclusive evidence of the conviction. (c) Prohibited acts, consisting of 1 or more of the following: (i) Fraud or deceit in obtaining or renewing a license or registration. (ii) Permitting a license or registration to be used by an unauthorized person. (iii) Practice outside the scope of a license. (iv) Obtaining, possessing, or attempting to obtain or possess a controlled substance or a drug as that term is defined in section 7105 without lawful authority; or selling, prescribing, giving away, or administering drugs for other than lawful diagnostic or therapeutic purposes. <u>(v) A final order or judgment under the protecting minors from chemical and surgical mutilation act. A certified copy of the court record is conclusive evidence of the final order or judgment.</u>"
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "HB4467",
+      "description": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+      "state": "MI",
+      "status": 1,
+      "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care professional shall not knowingly engage in or cause any of the following practices to be performed on a minor if the practice is performed for the purpose of attempting to alter the appearance of, or affirm the minor's psychological perception of, the sex of the minor, and the appearance or perception is inconsistent with the sex of the minor: (a) Prescribing or administering [...] any drug to suppress or delay normal puberty. (b) Prescribing or administering testosterone, estrogen, or progesterone in an amount greater than would normally be produced endogenously in a healthy individual of the minor's age and sex. (c) Performing a surgery that sterilizes, including, but not limited to, a castration, vasectomy, hysterectomy, oophorectomy, orchiectomy, and penectomy."
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "HB4468",
+      "description": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+      "state": "MI",
+      "status": 1,
+      "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An insurer that delivers, issues for delivery, or renews in this state a health insurance policy shall provide coverage for all of the following: (a) All possible adverse consequences related to an enrollee's gender transition procedure or treatment, including any short- or long-term side effects of the procedure or treatment. (b) Any testing or screening necessary to monitor the mental and physical health of the enrollee on at least an annual basis. (c) Any procedure or treatment necessary to reverse the enrollee's gender transition procedure or treatment. (2) An insurer described in subsection (1) shall provide the coverage described in subsection (1) to an enrollee who has undergone a gender transition procedure or treatment regardless of whether the enrollee was an enrollee under the health insurance policy at the time of the procedure or treatment."
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "HB4469",
+      "description": "Civil rights: sex discrimination and harassment; basing an individual's eligibility to participate in athletics on the individual's biological sex; provide an exemption to allow certain K-12 educational institutions to do. Amends 1976 PA 453 (MCL 37.2101 - 37.2804) by adding sec. 405.",
+      "state": "MI",
+      "status": 2,
+      "title": "Civil rights: sex discrimination and harassment; basing an individual's eligibility to participate in athletics on the individual's biological sex; provide an exemption to allow certain K-12 educational institutions to do. Amends 1976 PA 453 (MCL 37.2101 - 37.2804) by adding sec. 405.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Sec. 405. This article does not prohibit an educational institution that provides educational services for any of grades K-12 and that is subject to title IX of the education amendments of 1972, 20 USC 1681 to 1688, from basing an individual's eligibility to participate in athletics on the individual's biological sex as listed on the individual's original birth certificate that was issued at or near the time of the individual's birth."
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "HB4576",
+      "description": "Appropriations: department of education; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act.",
+      "state": "MI",
+      "status": 2,
+      "title": "Appropriations: department of education; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "State funds must not be used for diversity, equity, and inclusion, or DEI, initiatives or programs or as outlined in Exec. Order No. 14151, 90 Fed. Reg. 8339 (Jan. 29, 2025) \"Ending Radical and Wasteful Government DEI Programs and Preferencing\", Exec Order No. 14168, 90 Fed. Reg. 8615 (Jan. 30, 2025) \"Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government\", or Exec. Order No. 14173, 90 Fed. Reg. 8633 (Jan. 31, 2025) \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity\"."
+      ],
+      "last_bill_action": "2025-06-05"
+    },
+    {
+      "bill_number": "HB4577",
+      "description": "Appropriations: school aid; appropriations for K-12 school aid; provide for. Amends secs. 11 & 17b of 1979 PA 94 (MCL 388.1611 & 388.1617b).",
+      "state": "MI",
+      "status": 2,
+      "title": "Appropriations: school aid; appropriations for K-12 school aid; provide for. Amends secs. 11 & 17b of 1979 PA 94 (MCL 388.1611 & 388.1617b).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of a district or board of directors of a public school academy that participates in interscholastic athletic activities shall designate interscholastic athletic teams and sports based on the sex of the participants, with separate teams for participants of the female sex within female sports divisions, separate teams for participants of the male sex within male sports divisions, and, if applicable, co-ed teams for participants of the female and male sexes within co-ed sports divisions. A district shall not knowingly allow individuals of the male sex to participate on athletic teams or in athletic competitions designated for only participants of the female sex."
+      ],
+      "last_bill_action": "2025-06-05"
+    },
+    {
+      "bill_number": "HB4578",
+      "description": "Appropriations: department of lifelong education, advancement, and potential; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act.",
+      "state": "MI",
+      "status": 2,
+      "title": "Appropriations: department of lifelong education, advancement, and potential; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "State funds must not be used for diversity, equity, and inclusion, or DEI, initiatives or programs or as outlined in Exec. Order No. 14151, 90 Fed. Reg. 8339 (Jan. 29, 2025) \"Ending Radical and Wasteful Government DEI Programs and Preferencing\", Exec Order No. 14168, 90 Fed. Reg. 8615 (Jan. 30, 2025) \"Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government\", or Exec. Order No. 14173, 90 Fed. Reg. 8633 (Jan. 31, 2025) \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity\"."
+      ],
+      "last_bill_action": "2025-06-05"
+    },
+    {
+      "bill_number": "HB4579",
+      "description": "Appropriations: community colleges; appropriations for fiscal year 2025-2026; provide for. Amends secs. 201 & 206 of 1979 PA 94 (MCL 388.1801 & 388.1806).",
+      "state": "MI",
+      "status": 2,
+      "title": "Appropriations: community colleges; appropriations for fiscal year 2025-2026; provide for. Amends secs. 201 & 206 of 1979 PA 94 (MCL 388.1801 & 388.1806).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of a community college that participates in intercollegiate athletic activities shall designate intercollegiate athletic teams and sports based on the sex of the participants, with separate teams for participants of the female sex within female sports divisions, separate teams for participants of the male sex within male sports divisions, and, if applicable, co-ed teams for participants of the female and male sexes within co-ed sports divisions. A community college district shall not knowingly allow individuals of the male sex to participate on athletic teams or in athletic competitions designated for only participants of the female sex."
+      ],
+      "last_bill_action": "2025-06-05"
+    },
+    {
+      "bill_number": "HB4580",
+      "description": "Appropriations: higher education; appropriations for fiscal year 2025-2026; provide for. Amend secs. 236 & 241 of 1979 PA 94 (MCL 388.1836 & 388.1841).",
+      "state": "MI",
+      "status": 2,
+      "title": "Appropriations: higher education; appropriations for fiscal year 2025-2026; provide for. Amend secs. 236 & 241 of 1979 PA 94 (MCL 388.1836 & 388.1841).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of a public university that participates in intercollegiate athletic activities shall designate intercollegiate athletic teams and sports based on the sex of the participants, with separate teams for participants of the female sex within female sports divisions, separate teams for participants of the male sex within male sports divisions, and, if applicable, co-ed teams for participants of the female and male sexes within co-ed sports divisions. A public university shall not knowingly allow individuals of the male sex to participate on athletic teams or in athletic competitions designated for only participants of the female sex."
+      ],
+      "last_bill_action": "2025-06-05"
+    },
+    {
+      "bill_number": "HB4751",
+      "description": "Civil rights: general discrimination; sexual orientation and gender identity or expression; remove as categories protected under the Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+      "state": "MI",
+      "status": 1,
+      "title": "Civil rights: general discrimination; sexual orientation and gender identity or expression; remove as categories protected under the Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The opportunity to obtain employment, housing and other real estate, and the full and equal utilization of public accommodations, public service, and educational facilities without discrimination because of religion, race, color, national origin, age, sex, ~~sexual orientation, gender identity or expression,~~ height, weight, familial status, or marital status as prohibited by this act, is recognized and declared to be a civil right."
+      ],
+      "last_bill_action": "2025-07-29"
+    },
+    {
+      "bill_number": "HB4752",
+      "description": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a) & repeals sec. 901a of 1974 PA 258 (MCL 330.1901a).",
+      "state": "MI",
+      "status": 1,
+      "title": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a) & repeals sec. 901a of 1974 PA 258 (MCL 330.1901a).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(20) \"Conversion therapy\" means any practice or treatment by a mental health professional that seeks to change an individual's sexual orientation or gender identity, including, but not limited to, efforts to change behavior or gender expression or to reduce or eliminate sexual or romantic attractions or feelings toward an individual of the same gender. Conversion therapy does not include counseling that provides assistance to an individual undergoing a gender transition, counseling that provides acceptance, support, or understanding of an individual or facilitates an individual's coping, social support, or identity exploration and development, including sexual orientation-neutral intervention to prevent or address unlawful conduct or unsafe sexual practices, as long as the counseling does not seek to change an individual's sexual orientation or gender identity. As used in this subsection: (a) \"Gender identity\" means \"gender identity or expression\" as that term is defined in section 103 of the Elliott-Larsen civil rights act, 1976 PA 453, MCL 37.2103. (b) \"Sexual orientation\" means that term as defined in section 103 of the Elliot-Larsen civil rights act, 1976 PA 453, MCL 37.2103.~~"
+      ],
+      "last_bill_action": "2025-07-29"
+    },
+    {
+      "bill_number": "HB4776",
+      "description": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a).",
+      "state": "MI",
+      "status": 1,
+      "title": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(20) \"Conversion therapy\" means any practice or treatment by a mental health professional that seeks to change an individual's sexual orientation, ~~or gender identity,~~ including, but not limited to, efforts to ~~change behavior or gender expression or~~ to reduce or eliminate sexual or romantic attractions or feelings toward an individual of the same gender. sex. Conversion therapy does not include <u>any practice or treatment by a mental health professional that seeks to change an individual's gender identity,</u> counseling that provides assistance to an individual undergoing a gender transition, counseling that provides acceptance, support, or understanding of an individual or facilitates an individual's coping, social support, or identity exploration and development, including sexual orientation-neutral intervention to prevent or address unlawful conduct or unsafe sexual practices, as long as the counseling does not seek to change an individual's sexual orientation. ~~or gender identity.~~"
+      ],
+      "last_bill_action": "2025-08-20"
+    },
+    {
+      "bill_number": "HB4777",
+      "description": "Civil rights: general discrimination; gender identity or expression; remove from categories protected under Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+      "state": "MI",
+      "status": 1,
+      "title": "Civil rights: general discrimination; gender identity or expression; remove from categories protected under Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An act to define civil rights; to prohibit discriminatory practices, policies, and customs in the exercise of those rights based upon religion, race, color, national origin, age, sex, sexual orientation, ~~gender identity or expression,~~ height, weight, familial status, or marital status; to preserve the confidentiality of records regarding arrest, detention, or other disposition in which a conviction does not result; to prescribe the powers and duties of the civil rights commission and the department of civil rights; to provide remedies and penalties; to provide for fees; and to repeal certain acts and parts of acts."
+      ],
+      "last_bill_action": "2025-08-20"
+    },
+    {
+      "bill_number": "HB4938",
+      "description": "State: other; distribution of certain material; prohibit. Creates new act.",
+      "state": "MI",
+      "status": 1,
+      "title": "State: other; distribution of certain material; prohibit. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A bill to prohibit the distribution of certain material on the internet that corrupts the public morals"
+      ],
+      "last_bill_action": "2025-09-11"
+    },
+    {
+      "bill_number": "HB5242",
+      "description": "Higher education: other; use of diversity, equity, and inclusion in accreditation decisions; prohibit. Creates new act.",
+      "state": "MI",
+      "status": 1,
+      "title": "Higher education: other; use of diversity, equity, and inclusion in accreditation decisions; prohibit. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "When taking any action on the accreditation or renewal of accreditation of an institution of higher education, an accrediting agency shall not do any of the following: (a) Base its accreditation decision in any way on a review or consideration of the diversity, equity, and inclusion policies, programs, or practices of the institution. (b) Collect information related to the diversity, equity, and inclusion policies, programs, or practices of the institution. (c) Include any requirement related to diversity, equity, and inclusion, such as, but not limited to, requiring a diversity statement from the institution or any employee or contractor of the institution."
+      ],
+      "last_bill_action": "2025-11-06"
+    },
+    {
+      "bill_number": "HB5363",
+      "description": "Education: curriculum; parental opt-out option for instruction in sex education; require. Amends sec. 1507 of 1976 PA 451 (MCL 380.1507).",
+      "state": "MI",
+      "status": 1,
+      "title": "Education: curriculum; parental opt-out option for instruction in sex education; require. Amends sec. 1507 of 1976 PA 451 (MCL 380.1507).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A pupil shall must not be enrolled in a class in which the subjects of family planning, or reproductive health, gender identity, gender expression, sexual orientation, sexual attraction, romantic or intimate relationships, or consent are discussed unless the pupil's parent or legal guardian is notified in advance of the course class and the content of the course, class [...] is given a prior opportunity to review the materials to be used in the course class, and is notified in advance of his or her the right to have the pupil excused from the class."
+      ],
+      "last_bill_action": "2025-12-16"
+    },
+    {
+      "bill_number": "HB5491",
+      "description": "Corrections: other; strip searches according to biological sex by MDOC facilities; require. Amends sec. 69a of 1953 PA 232 (MCL 791.269a).",
+      "state": "MI",
+      "status": 1,
+      "title": "Corrections: other; strip searches according to biological sex by MDOC facilities; require. Amends sec. 69a of 1953 PA 232 (MCL 791.269a).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A strip search that is conducted on a prisoner in a state correctional facility must be performed by an individual of the same biological sex as the prisoner. [...] \"Biological sex\" means the biological indication of male or female in the context of reproductive potential or capacity, as indicated by sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth, without regard to an individual's psychological, chosen, or subjective experience of gender."
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "HJRL",
+      "description": "Recreation: athletics and sports; determining classification of athletic events based on the biological sex of the participant assigned at birth; allow. Amends the state constitution by adding sec. 29 to art. l.",
+      "state": "MI",
+      "status": 1,
+      "title": "Recreation: athletics and sports; determining classification of athletic events based on the biological sex of the participant assigned at birth; allow. Amends the state constitution by adding sec. 29 to art. l.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Eligibility to participate in the athletic event may be based on the sex of the participants. Eligibility shall not be based on the construct of gender identity or on procedures that manipulate sex characteristics to conform to gender identity."
+      ],
+      "last_bill_action": "2025-08-13"
+    },
+    {
+      "bill_number": "HR0028",
+      "description": "A resolution to condemn the Supreme Court of the United States’ decision in Obergefell v Hodges.",
+      "state": "MI",
+      "status": 1,
+      "title": "A resolution to condemn the Supreme Court of the United States’ decision in Obergefell v Hodges.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Marriage, an institution that has remained a critical aspect of society throughout thousands of years, has been defined through time by people of varying cultures and faiths as a union between one man and one woman. Obergefell arbitrarily and unjustly rejected this historical definition of marriage, instead choosing to rely on a novel, flawed interpretation of the Equal Protection and Due Process clauses within the Constitution and our nation's legal and cultural precedents."
+      ],
+      "last_bill_action": "2025-02-25"
+    },
+    {
+      "bill_number": "SB0009",
+      "description": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+      "state": "MI",
+      "status": 1,
+      "title": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public school shall ensure that every multiple-occupancy restroom or changing area designated for pupil use must be used by individuals based only on biological sex."
+      ],
+      "last_bill_action": "2025-01-08"
+    },
+    {
+      "bill_number": "SB0230",
+      "description": "Appropriations: school aid; appropriations for K-12 school aid; provide for. Amends & adds (See bill).",
+      "state": "MI",
+      "status": 1,
+      "title": "Appropriations: school aid; appropriations for K-12 school aid; provide for. Amends & adds (See bill).",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The board of a school district or intermediate school district or board of directors of a public school academy that participates in interscholastic athletic activities shall designate interscholastic athletic teams and sports based on the sex of the participants, with separate teams for participants of the female sex within female sports divisions, separate teams for participants of the male sex within male sports divisions, and, if applicable, co-ed teams for participants of the female and male sexes within co-ed sports divisions. A school district or intermediate school district shall not knowingly allow individuals of the male sex to participate on athletic teams or in athletic competitions designated for only participants of the female sex. This subsection must not be construed to restrict the eligibility of any student to participate on any interscholastic athletic teams or in interscholastic athletic activities that are designated as male or co-ed."
+      ],
+      "last_bill_action": "2025-04-22"
+    },
+    {
+      "bill_number": "SB0289",
+      "description": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+      "state": "MI",
+      "status": 1,
+      "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care professional shall not knowingly engage in or cause any of the following practices to be performed on a minor if the practice is performed for the purpose of attempting to alter the appearance of, or affirm the minor's psychological perception of, the sex of the minor, and the appearance or perception is inconsistent with the sex of the minor: (a) Prescribing or administering [...] any drug to suppress or delay normal puberty. (b) Prescribing or administering testosterone, estrogen, or progesterone in an amount greater than would normally be produced endogenously in a healthy individual of the minor's age and sex. (c) Performing a surgery that sterilizes, including, but not limited to, a castration, vasectomy, hysterectomy, oophorectomy, orchiectomy, and penectomy."
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "SB0290",
+      "description": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: SB 289'25",
+      "state": "MI",
+      "status": 1,
+      "title": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: SB 289'25",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(xv) Conviction of a violation of section 90 of the Michigan penal code, 1931 PA 328, MCL 750.90, or a violation of a state or federal crime that is substantially similar to the violation described in this subparagraph. A certified copy of the court record is conclusive evidence of the conviction. (c) Prohibited acts, consisting of 1 or more of the following: (i) Fraud or deceit in obtaining or renewing a license or registration. (ii) Permitting a license or registration to be used by an unauthorized person. (iii) Practice outside the scope of a license. (iv) Obtaining, possessing, or attempting to obtain or possess a controlled substance or a drug as that term is defined in section 7105 without lawful authority; or selling, prescribing, giving away, or administering drugs for other than lawful diagnostic or therapeutic purposes. <u>(v) A final order or judgment under the protecting minors from chemical and surgical mutilation act. A certified copy of the court record is conclusive evidence of the final order or judgment.</u>"
+      ],
+      "last_bill_action": "2025-05-07"
+    },
+    {
+      "bill_number": "SB0291",
+      "description": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+      "state": "MI",
+      "status": 1,
+      "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An insurer that delivers, issues for delivery, or renews in this state a health insurance policy shall provide coverage for all of the following: (a) All possible adverse consequences related to an enrollee's gender transition procedure or treatment, including any short- or long-term side effects of the procedure or treatment. (b) Any testing or screening necessary to monitor the mental and physical health of the enrollee on at least an annual basis. (c) Any procedure or treatment necessary to reverse the enrollee's gender transition procedure or treatment. (2) An insurer described in subsection (1) shall provide the coverage described in subsection (1) to an enrollee who has undergone a gender transition procedure or treatment regardless of whether the enrollee was an enrollee under the health insurance policy at the time of the procedure or treatment."
+      ],
+      "last_bill_action": "2025-05-07"
+    }
+  ],
+  "year": "2026"
+}

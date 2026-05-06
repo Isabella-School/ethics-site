@@ -1,0 +1,31 @@
+{
+  "state": "Connecticut",
+  "stateAbbreviation": "CT",
+  "bills": [
+    {
+      "bill_number": "SB00192",
+      "description": "To require the Commissioner of Mental Health and Addiction Services to keep persons undergoing psychiatric evaluation at Connecticut Valley Hospital separated according to biological sex at all times.",
+      "state": "CT",
+      "status": 1,
+      "title": "An Act Concerning Patient Protections And Standards Of Care At Connecticut Valley Hospital.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Section 17a-471a of the general statutes is repealed and the following is substituted in lieu thereof [...] (2) require persons undergoing psychiatric evaluation at Connecticut Valley Hospital to be separated according to their biological sex at all times."
+      ],
+      "last_bill_action": "2026-02-11"
+    },
+    {
+      "bill_number": "SB00399",
+      "description": "To (1) permit health clubs and gyms to offer separate areas for exercise on the basis of sex, and (2) make statutory changes to commission processes involving requests for early legal intervention, the reopening of previously closed complaints and time parameters for pursuing a complaint in court.",
+      "state": "CT",
+      "status": 2,
+      "title": "An Act Concerning The Disposition Of Cases Before The Commission On Human Rights And Opportunities.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The provisions of this section with respect to the prohibition of sex discrimination shall not apply to [...] (C) separate areas for engaging in exercise within a health club or gym based on sex."
+      ],
+      "last_bill_action": "2026-03-03"
+    }
+  ],
+  "year": "2026"
+}

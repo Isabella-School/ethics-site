@@ -1,0 +1,115 @@
+{
+  "state": "Indiana",
+  "stateAbbreviation": "IN",
+  "bills": [
+    {
+      "bill_number": "HB1198",
+      "description": "Use of public restrooms. Makes it a Class B misdemeanor if: (1) a male knowingly or intentionally enters a restroom that is designated to be used only by females; or (2) a female knowingly or intentionally enters a restroom that is designated to be used only by males. Provides certain defenses.",
+      "state": "IN",
+      "status": 1,
+      "title": "Use of public restrooms.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A: (1) male who knowingly or intentionally enters a restroom that is designated to be used only by females; or (2) female who knowingly or intentionally enters a restroom that is designated to be used only by males; commits restroom trespass, a Class B misdemeanor."
+      ],
+      "last_bill_action": "2026-01-05"
+    },
+    {
+      "bill_number": "HB1199",
+      "description": "Birth certificate information. Provides that the gender listed on an individual's birth certificate and permanent record made from the birth certificate may not be changed. Specifies certain exceptions.",
+      "state": "IN",
+      "status": 1,
+      "title": "Birth certificate information.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The gender listed on an individual's: (1) birth certificate; and (2) permanent record made from the birth certificate under section 9 of this chapter; may not be changed."
+      ],
+      "last_bill_action": "2026-01-05"
+    },
+    {
+      "bill_number": "HB1316",
+      "description": "Child welfare provider protections. Prohibits a governmental entity from discriminating against a person in adoption and foster care matters based on the person's sincerely held religious belief. Allows a person to sue a governmental entity for discriminating against the person and allows for certain remedies. Provides that there is a two year statute of limitation for a discrimination claim.",
+      "state": "IN",
+      "status": 1,
+      "title": "Child welfare provider protections.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Antidiscrimination in Adoption and Foster Proceedings Sec. 1. (a) Except as provided in subsection (b), a governmental entity may not discriminate against any of the following: (1) A person that provides, or declines to provide, an adoption or foster care service in a manner consistent with the person's sincerely held religious belief. (2) An adoptive parent (as defined in IC 31-9-2-6) who raises, or intends to raise, a child in a manner consistent with the adoptive parent's sincerely held religious belief. (3) A foster parent (as defined in IC 31-9-2-47) who raises, or intends to raise, a child in a manner consistent with the foster parent's sincerely held religious belief. (4) A person that in a matter concerning adoption or foster care service: (A) maintains any policy and procedure; or (B) otherwise acts; consistent with the person's sincerely held religious belief."
+      ],
+      "last_bill_action": "2026-01-06"
+    },
+    {
+      "bill_number": "HB1362",
+      "description": "Privacy protections in public institutions. Requires each public school, state educational institution, correctional facility, juvenile detention facility, and certain governmental entities to designate a multiple occupancy restroom or changing area as follows: (1) For the exclusive use of the male sex. (2) For the exclusive use of the female sex. Provides, with exceptions, that an individual may only use a multiple occupancy restroom or changing area that is designated for the sex that is the individual's sex, as determined at birth in accordance with the individual's genetics and reproductive biology. Establishes a civil action for a violation of these provisions. Prohibits each public school, correctional facility, state educational institution, juvenile detention facility, and certain governmental entities from requiring certain individuals to share sleeping quarters with a member of the opposite sex, as determined at birth in accordance with the individual's genetics and reproductive biology, unless the individual who is a member of the opposite sex is a family member. Establishes a civil action for a violation of these provisions.",
+      "state": "IN",
+      "status": 1,
+      "title": "Privacy protections in public institutions.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual may only use a multiple occupancy restroom or changing area that is designated for the sex that is the individual's sex, as determined at birth in accordance with the individual's genetics and reproductive biology."
+      ],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "HB1389",
+      "description": "Adoption and foster care matters. Prohibits a governmental entity from discriminating against a person in adoption and foster care matters based on the person's sincerely held religious belief, unless the discriminatory act as applied to the person is required to advance a compelling government interest and is the least restrictive means of advancing the interest. Specifies that a governmental entity may consider whether a person involved in adoption or foster care matters shares the same religion or faith tradition as a child or the child's parent when considering placement of a child. Allows a person to bring a cause of action against a governmental entity for discriminating against the person, or raise a violation as a claim or defense in a judicial proceeding, and allows for certain remedies. Provides that there is a two year statute of limitation for a discrimination claim.",
+      "state": "IN",
+      "status": 4,
+      "title": "Adoption and foster care matters.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Antidiscrimination in Adoption and Foster Proceedings [...] A governmental entity may not discriminate against any of the following: (1) A person that provides, or declines to provide, an adoption or foster care service in a manner consistent with the person's sincerely held religious belief. (2) An adoptive parent [...] who raises, or intends to raise, a child in a manner consistent with the adoptive parent's sincerely held religious belief. (3) A foster parent [...] who raises, or intends to raise, a child in a manner consistent with the foster parent's sincerely held religious belief. (4) A person that in a matter concerning adoption or foster care service: (A) maintains any policy and procedure; or (B) otherwise acts; consistent with the person's sincerely held religious belief."
+      ],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "HB1427",
+      "description": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
+      "state": "IN",
+      "status": 1,
+      "title": "Reporting on gender transition procedures.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A practitioner who performs any gender transition procedure (as defined in IC 25-1-22-5) shall report the performance of the procedures on a quarterly basis to the practitioner's regulating board. [...] The report by the practitioner under subsection (a) must include [...] the type of gender transition procedure performed."
+      ],
+      "last_bill_action": "2026-01-08"
+    },
+    {
+      "bill_number": "SB0088",
+      "description": "Education matters. Amends good citizenship instruction requirements. Includes the Classic Learning Test in certain references to nationally recognized college entrance examinations. Requires a state educational institution (SEI) to accept the Classic Learning Test examination to the same extent the SEI accepts the ACT or SAT examination with respect to admission criteria. Requires the department of education to identify schools that allow students who are not enrolled in the school to take certain examinations at the school and present the information in a manner that can be conveniently and easily accessed from the department's website.",
+      "state": "IN",
+      "status": 4,
+      "title": "Education matters.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The instruction or discussion described in subsection (a) [re: a civics education] may not foster a national identity, heritage, or culture established by: (1) racial identity or racial discrimination; (2) gender identity or gender discrimination; (3) victimization; (4) class struggle; (5) a hierarchy of privileges; or (6) systemic exclusion;"
+      ],
+      "last_bill_action": "2025-12-08"
+    },
+    {
+      "bill_number": "SB0182",
+      "description": "Gender issues. Defines \"female\", \"male\", \"gender\", and \"sex\" for all Indiana statutes. Provides that the department of correction shall assign an offender, including a delinquent offender, to a facility or program that is based on the offender's sex. States that a local health officer shall mark the sex of an individual as male or female on a birth certificate. Provides that the Indiana department of health may make an addition to a birth certificate, for purposes of paternity, in certain situations. Provides the circumstances for when the sex designation on a birth certificate can be amended. Requires public schools, including charter schools, and state educational institutions to designate a multiple occupancy restroom or changing area as follows: (1) For the exclusive use of the male sex. (2) For the exclusive use of the female sex. Provides, with exceptions, that an individual shall only use a multiple occupancy restroom or changing area that is designated for the sex that is the individual's sex. Establishes a civil action for a violation of these provisions. Prohibits public schools, including charter schools, and state educational institutions from requiring a student to share sleeping quarters with a member of the opposite sex, unless the individual who is a member of the opposite sex is a family member. Establishes a civil action for a violation of these provisions.",
+      "state": "IN",
+      "status": 2,
+      "title": "Gender issues.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Female, when referencing the human species, means an individual who naturally has, had, will have, or would have, but for a congenital anomaly, an intentional disruption, or an unintentional disruption, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization. (7) \"Gender\", when used alone to refer to males, females, or the natural differences between males and females is a synonym for sex."
+      ],
+      "last_bill_action": "2026-01-05"
+    },
+    {
+      "bill_number": "SB0215",
+      "description": "Gender matters. Defines \"sex\" and \"gender\" for purposes of the Indiana Code. States that the definitions of \"sex\" and \"gender\" are meant to be synonymous in the Indiana Code unless specifically defined otherwise and is clarifying language. Sets forth requirements of a short form birth certificate and a long form birth certificate. Specifies when a short form birth certificate may be amended. Requires the Indiana department of health to: (1) update the definition of \"sex\" used by the agencies; (2) identify birth certificates issued with a change in sex classification by court order; (3) change the sex on the birth certificate back to the originating sex and reissue the birth certificate; and (4) void the superseded document. Allows for the sharing of certain information among specified agencies for the purpose of reissuing a birth certificate. Requires public buildings, certain schools, state educational institutions, and certain businesses to designate multiple occupancy restrooms or changing areas for the exclusive use of the male sex or the exclusive use of the female sex and provides, with exceptions, that an individual may only use a multiple occupancy restroom or changing area designated for the individual's sex. Provides specified remedies for a violation of these requirements, including criminal penalties or civil actions. Provides that a school may not promote or encourage the use of, or require, compel, or coerce a student, an employee of the school, or a staff member of the school to use: (1) a pronoun, title, or other word to identify a student, school employee, or other individual that is inconsistent with the student's, employee's, or individual's biological sex; or (2) a name or nickname to identify a student that is inconsistent with the student's name on the student's birth certificate. Creates an exception. Prohibits the department of correction (department) and each county jail from housing incarcerated individuals in a facility that does not align with the incarcerated individual's sex. Creates a civil cause of action for the department's or a county jail's failure to comply with the prohibition.",
+      "state": "IN",
+      "status": 1,
+      "title": "Gender matters.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Requires public buildings, certain schools, state educational institutions, and certain businesses to designate multiple occupancy restrooms or changing areas for the exclusive use of the male sex or the exclusive use of the female sex."
+      ],
+      "last_bill_action": "2026-01-08"
+    }
+  ],
+  "year": "2026"
+}

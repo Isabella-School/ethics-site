@@ -1,0 +1,535 @@
+{
+  "state": "Minnesota",
+  "stateAbbreviation": "MN",
+  "bills": [
+    {
+      "bill_number": "HF12",
+      "description": "Female sports team participation restricted to the female sex.",
+      "state": "MN",
+      "status": 1,
+      "title": "Female sports team participation restricted to the female sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Only students of the female sex may participate in an elementary or secondary school level athletic team or sport that an educational institution has restricted on the basis of sex to women or girls. If there is a dispute as to whether a student is of the female sex, the student must present a signed physician's statement indicating the student's sex that is based solely on: (1) the student's internal and external reproductive anatomy; (2) the student's naturally occurring level of testosterone; and (3) an analysis of the student's chromosomes."
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HF1233",
+      "description": "Women's athletics exemption created in the Human Rights Act.",
+      "state": "MN",
+      "status": 1,
+      "title": "Women's athletics exemption created in the Human Rights Act.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is not unlawful or discriminatory for any entity [...] to limit participation in athletic teams and sports competitions to females, women, or girls only. Limitations may include the exclusion of an individual who is male irrespective of any individual's gender identity, including trans-identifying athletes whose biological sex is inconsistent with the individual's gender identity."
+      ],
+      "last_bill_action": "2025-02-20"
+    },
+    {
+      "bill_number": "HF1839",
+      "description": "Diversity, equity, and inclusion provisions in prekindergarten through grade 12 education repealed.",
+      "state": "MN",
+      "status": 1,
+      "title": "Diversity, equity, and inclusion provisions in prekindergarten through grade 12 education repealed.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Repealing diversity, equity, and inclusion provisions in prekindergarten through grade 12 education."
+      ],
+      "last_bill_action": "2025-03-03"
+    },
+    {
+      "bill_number": "HF1908",
+      "description": "Gender-affirming care provisions removed that limit the impact of laws.",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender-affirming care provisions removed that limit the impact of laws.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "INITIAL CHILD CUSTODY JURISDICTION. (a) Except as otherwise provided in section 518D.204, a court of this state has jurisdiction to make an initial child custody determination only if: (1) this state is the home state of the child on the date of the commencement of the proceeding, or was the home state of the child within six months before the commencement of the proceeding and the child is absent from this state but a parent or person acting as a parent continues to live in this state;"
+      ],
+      "last_bill_action": "2025-03-05"
+    },
+    {
+      "bill_number": "HF22",
+      "description": "Parent's bill of rights created.",
+      "state": "MN",
+      "status": 1,
+      "title": "Parent's bill of rights created.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This state, any political subdivision of this state, or any other governmental entity or institution shall not infringe on the fundamental rights of a parent to direct the upbringing, well-being, education, and physical and mental healthcare of the parent's minor child without demonstrating that the potential infringement of parental rights is reasonable and necessary to achieve a compelling state interest, and that the potential infringement of parental rights is narrowly tailored and is not otherwise served by a less restrictive means. [...] Including but not limited to the right to: (1) exercise freedom of choice in the minor child's education in accordance with compulsory instruction requirements [...] (2) access and review all school records relating to the minor child;"
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HF2685",
+      "description": "Athletic team designations based on biological sex at birth required.",
+      "state": "MN",
+      "status": 1,
+      "title": "Athletic team designations based on biological sex at birth required.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The membership of athletic teams or sports designated for females must only be open to participants who were biological females at birth."
+      ],
+      "last_bill_action": "2025-03-24"
+    },
+    {
+      "bill_number": "HF3101",
+      "description": "Intellectual Freedom Protection Act regulated public postsecondary institutions created, private right of action created, and attorney general enforcement provided.",
+      "state": "MN",
+      "status": 1,
+      "title": "Intellectual Freedom Protection Act regulated public postsecondary institutions created, private right of action created, and attorney general enforcement provided.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public postsecondary institution shall condition admission or benefits to an applicant for admission, or hiring, reappointment, or promotion to a faculty member, on the applicant's or faculty member's pledging allegiance to or making a statement of personal support for or opposition to any political ideology or movement, including a pledge or statement regarding diversity, equity."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "HF3151",
+      "description": "Gender-affirming medical care and certain counseling for minors prohibited in the state of Minnesota, and penalties for violations established.",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender-affirming medical care and certain counseling for minors prohibited in the state of Minnesota, and penalties for violations established.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition of gender-affirming care and certain counseling for minors. (a) No health care provider shall knowingly provide gender-affirming care to a minor within the state of Minnesota. (b) No public funds, including medical assistance or other Minnesota health care programs, shall be used to provide gender-affirming care to a minor."
+      ],
+      "last_bill_action": "2025-04-07"
+    },
+    {
+      "bill_number": "HF3170",
+      "description": "Female sports team participation restricted to the female sex.",
+      "state": "MN",
+      "status": 1,
+      "title": "Female sports team participation restricted to the female sex.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Female sports teams. Notwithstanding any law to the contrary, only students of the female sex may participate in an elementary or secondary school level athletic team or sport that an educational institution has restricted on the basis of sex to women or girls. If there is a dispute as to whether a student is of the female sex, the student must present a signed physician's statement indicating the student's sex that is based solely on: (1) the student's internal and external reproductive anatomy; (2) the student's naturally occurring level of testosterone; and (3) an analysis of the student's chromosomes."
+      ],
+      "last_bill_action": "2025-04-10"
+    },
+    {
+      "bill_number": "HF3376",
+      "description": "Prohibition on conversion therapy with minors and vulnerable adults repealed.",
+      "state": "MN",
+      "status": 1,
+      "title": "Prohibition on conversion therapy with minors and vulnerable adults repealed.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition on conversion therapy with minors and vulnerable adults repealed."
+      ],
+      "last_bill_action": "2026-02-17"
+    },
+    {
+      "bill_number": "HF3533",
+      "description": "Classroom instruction related to gender identity in public schools prohibited, and parental notification required.",
+      "state": "MN",
+      "status": 1,
+      "title": "Classroom instruction related to gender identity in public schools prohibited, and parental notification required.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual or group of individuals providing classroom instruction to students at a public school must not engage in classroom discussion or provide classroom instruction regarding sexual orientation or gender identity to students in kindergarten through grade 8."
+      ],
+      "last_bill_action": "2026-02-19"
+    },
+    {
+      "bill_number": "HF3538",
+      "description": "Classroom instruction related to gender identity prohibited in public schools; parental notification required; grant program to include firearms safety, trap shooting, archery, hunting, and angling in school physical education courses established; and money appropriated.",
+      "state": "MN",
+      "status": 1,
+      "title": "Classroom instruction related to gender identity prohibited in public schools; parental notification required; grant program to include firearms safety, trap shooting, archery, hunting, and angling in school physical education courses established; and money appropriated.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual or group of individuals providing classroom instruction to students at a public school must not engage in classroom discussion or provide classroom instruction regarding sexual orientation or gender identity to students in kindergarten through grade 8."
+      ],
+      "last_bill_action": "2026-02-19"
+    },
+    {
+      "bill_number": "HF435",
+      "description": "Commissioner of corrections required to house only biological female inmates at the Minnesota Correctional Facility-Shakopee.",
+      "state": "MN",
+      "status": 1,
+      "title": "Commissioner of corrections required to house only biological female inmates at the Minnesota Correctional Facility-Shakopee.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "There is established the Minnesota Correctional Facility-Shakopee at Shakopee, Minnesota, in which may be placed ~~persons~~ only biological females committed to the commissioner of corrections by the courts of this state who, in the opinion of the commissioner, may benefit from the programs thereat."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "HF4755",
+      "description": "Statute of limitations eliminated for causes of action on gender-affirming care for minor children.",
+      "state": "MN",
+      "status": 1,
+      "title": "Statute of limitations eliminated for causes of action on gender-affirming care for minor children.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Exception; gender-affirming care; minor child. Notwithstanding subdivision 1, a cause of action involving gender-affirming care for a minor child is not subject to the statute of limitations in subdivision 1, paragraph (b). For purposes of this subdivision, \"gender-affirming care\" means any medical or surgical intervention, including but not limited to hormone therapy, puberty blockers, or gender reassignment surgery intended to affirm an individual's perceived gender identity when it differs from the individual's biological sex as determined at birth."
+      ],
+      "last_bill_action": "2026-03-26"
+    },
+    {
+      "bill_number": "HF565",
+      "description": "Student physical privacy provided.",
+      "state": "MN",
+      "status": 1,
+      "title": "Student physical privacy provided.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person with a Y chromosome must not participate in a school athletic team designated for the female sex."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "HF6",
+      "description": "Read Act modified, appropriations cancelled; education innovation provisions modified; P-TECH approval process modified; Office of Achievement and Innovation established in the Department of Education; equity, diversity, and inclusion appropriation modified; school performance reporting system established; fund transfers for fiscal years 2025 through 2029 authorized; and school board authorized to not comply with recently enacted state laws or rules.",
+      "state": "MN",
+      "status": 1,
+      "title": "Read Act modified, appropriations cancelled; education innovation provisions modified; P-TECH approval process modified; Office of Achievement and Innovation established in the Department of Education; equity, diversity, and inclusion appropriation modified; school performance reporting system established; fund transfers for fiscal years 2025 through 2029 authorized; and school board authorized to not comply with recently enacted state laws or rules.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "$2,000,000 each year is for staffing the ~~Equity, Diversity and Inclusion (EDI) Center~~ Office of Achievement and Innovation at the Department of Education;"
+      ],
+      "last_bill_action": "2025-02-06"
+    },
+    {
+      "bill_number": "HF700",
+      "description": "Minnesota Women's Bill of Rights created, and terms for all statutes and rules defined.",
+      "state": "MN",
+      "status": 1,
+      "title": "Minnesota Women's Bill of Rights created, and terms for all statutes and rules defined.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) \"woman\" means an adult human of the female sex, and a \"man\" is an adult human of the male sex; (2) \"girl\" means a human female who has not yet reached adulthood, and a \"boy\" is a human male who has not yet reached adulthood; (3) \"mother\" means a female parent of a child or children; (4) \"female,\" when used in reference to a natural person, means an individual who has, had, will have, or would have (but for a developmental anomaly, genetic anomaly, or accident) the reproductive system that at some point produces ova; (5) \"male,\" when used in reference to a natural person, means an individual who has, had, will have, or would have (but for a developmental anomaly, genetic anomaly, or accident) the reproductive system that at some point produces sperm for fertilization of female ova; (6) \"father\" means a male parent of a child or children; and (7) \"sex\" means his or her biological sex, either male or female, designated at birth. There are only two sexes, and every individual is either male or female."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "HF814",
+      "description": "Castration or sterilization of minors criminalized, and criminal penalties imposed.",
+      "state": "MN",
+      "status": 1,
+      "title": "Castration or sterilization of minors criminalized, and criminal penalties imposed.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "CASTRATION OR STERILIZATION OF MINORS PROHIBITED. A person who does either of the following to a person under the age of 18 years is guilty of a felony: (1) physical or chemical castration; or (2) any surgery, procedure, or administration of drugs that results in the person being unable to conceive a child."
+      ],
+      "last_bill_action": "2025-02-17"
+    },
+    {
+      "bill_number": "SF1192",
+      "description": "Castration or sterilization of minors prohibition",
+      "state": "MN",
+      "status": 1,
+      "title": "Castration or sterilization of minors prohibition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "CASTRATION OR STERILIZATION OF MINORS PROHIBITED. A person who does either of the following to a person under the age of 18 years is guilty of a felony: (1) physical or chemical castration; or (2) any surgery, procedure, or administration of drugs that results in the person being unable to conceive a child."
+      ],
+      "last_bill_action": "2025-02-10"
+    },
+    {
+      "bill_number": "SF1295",
+      "description": "Minnesota Correctional Facility-Shakopee requirement that the commissioner of corrections to house only biological female inmates provision",
+      "state": "MN",
+      "status": 1,
+      "title": "Minnesota Correctional Facility-Shakopee requirement that the commissioner of corrections to house only biological female inmates provision",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "There is established the Minnesota Correctional Facility-Shakopee at Shakopee, Minnesota, in which may be placed ~~persons~~ only biological females committed to the commissioner of corrections by the courts of this state who, in the opinion of the commissioner, may benefit from the programs thereat."
+      ],
+      "last_bill_action": "2025-02-13"
+    },
+    {
+      "bill_number": "SF1651",
+      "description": "Minnesota Women's Bill of Rights establishment",
+      "state": "MN",
+      "status": 1,
+      "title": "Minnesota Women's Bill of Rights establishment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The revisor of statutes shall delete the word \"gender\" and insert the word \"sex\" when the term is standing alone and not part of a phrase, such as gender identity."
+      ],
+      "last_bill_action": "2025-02-20"
+    },
+    {
+      "bill_number": "SF1707",
+      "description": "Parent's Bill of Rights establishment",
+      "state": "MN",
+      "status": 1,
+      "title": "Parent's Bill of Rights establishment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any attempt to encourage or coerce a minor child to withhold information from the minor child's parent shall be grounds for discipline of an employee of this state, any political subdivision of this state, or any other governmental entity or institution."
+      ],
+      "last_bill_action": "2025-02-20"
+    },
+    {
+      "bill_number": "SF1883",
+      "description": "Women's athletics exemption creation in the Human Rights Act",
+      "state": "MN",
+      "status": 1,
+      "title": "Women's athletics exemption creation in the Human Rights Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It is not unlawful or discriminatory for any entity [...] to limit participation in athletic teams and sports competitions to females, women, or girls only. Limitations may include the exclusion of an individual who is male irrespective of any individual's gender identity, including trans-identifying athletes whose biological sex is  inconsistent with the individual's gender identity."
+      ],
+      "last_bill_action": "2025-02-27"
+    },
+    {
+      "bill_number": "SF2100",
+      "description": "Diversity, equity, and inclusion provisions repeal in prekindergarten through grade 12 education",
+      "state": "MN",
+      "status": 1,
+      "title": "Diversity, equity, and inclusion provisions repeal in prekindergarten through grade 12 education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any attempt to encourage or coerce a minor child to withhold information from the minor child's parent shall be grounds for discipline of an employee of this state, any political subdivision of this state, or any other governmental entity or institution."
+      ],
+      "last_bill_action": "2025-03-03"
+    },
+    {
+      "bill_number": "SF2294",
+      "description": "Male participation in female athletics restriction provision, male access to female changing facilities restriction provision, and criminal penalties provision",
+      "state": "MN",
+      "status": 1,
+      "title": "Male participation in female athletics restriction provision, male access to female changing facilities restriction provision, and criminal penalties provision",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "In no case may male students try out for or participate on a female-only team. A male student who participates on a female-only team is guilty of a petty misdemeanor. [...] \"male\" means a person with a heterogametic sex chromosome pair consisting of one X chromosome and one Y chromosome."
+      ],
+      "last_bill_action": "2025-03-10"
+    },
+    {
+      "bill_number": "SF2531",
+      "description": "Female sports team participation restricted to the female sex provision",
+      "state": "MN",
+      "status": 1,
+      "title": "Female sports team participation restricted to the female sex provision",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Only students of the female sex may participate in an elementary or secondary school level athletic team or sport that an educational institution has restricted on the basis of sex to women or girls. If there is a dispute as to whether a student is of the female sex, the student must present a signed physician's statement indicating the student's sex that is based solely on: (1) the student's internal and external reproductive anatomy; (2) the student's naturally occurring level of testosterone; and (3) an analysis of the student's chromosomes."
+      ],
+      "last_bill_action": "2025-03-13"
+    },
+    {
+      "bill_number": "SF2817",
+      "description": "Athletic team designations based on biological sex at birth requirement",
+      "state": "MN",
+      "status": 1,
+      "title": "Athletic team designations based on biological sex at birth requirement",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The membership of athletic teams or sports designated for females must only be open to participants who were biological females at birth."
+      ],
+      "last_bill_action": "2025-03-20"
+    },
+    {
+      "bill_number": "SF3286",
+      "description": "Intellectual Freedom Protection Act creation to regulate public postsecondary institutions",
+      "state": "MN",
+      "status": 1,
+      "title": "Intellectual Freedom Protection Act creation to regulate public postsecondary institutions",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No public postsecondary institution shall condition admission or benefits to an applicant for admission, or hiring, reappointment, or promotion to a faculty member, on the applicant's or faculty member's pledging allegiance to or making a statement of personal support for or opposition to any political ideology or movement, including a pledge or statement regarding diversity, equity."
+      ],
+      "last_bill_action": "2025-04-03"
+    },
+    {
+      "bill_number": "SF3321",
+      "description": "Gender-affirming care limiting the impact of certain laws removal provision",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender-affirming care limiting the impact of certain laws removal provision",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "INITIAL CHILD CUSTODY JURISDICTION. (a) Except as otherwise provided in section 518D.204, a court of this state has jurisdiction to make an initial child custody determination only if: (1) this state is the home state of the child on the date of the commencement of the proceeding, or was the home state of the child within six months before the commencement of the proceeding and the child is absent from this state but a parent or person acting as a parent continues to live in this state;"
+      ],
+      "last_bill_action": "2025-04-07"
+    },
+    {
+      "bill_number": "SF3811",
+      "description": "Gender identity public school classroom instruction prohibition and firearm safety, trap shooting, archery, hunting, and angling in school physical education course and appropriation",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender identity public school classroom instruction prohibition and firearm safety, trap shooting, archery, hunting, and angling in school physical education course and appropriation",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual or group of individuals providing classroom instruction to students at a public school must not engage in classroom discussion or provide classroom instruction regarding sexual orientation or gender identity to students in kindergarten through grade 8[...]"
+      ],
+      "last_bill_action": "2026-02-23"
+    },
+    {
+      "bill_number": "SF3812",
+      "description": "Gender identity public school classroom instruction prohibition",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender identity public school classroom instruction prohibition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An individual or group of individuals providing classroom instruction to students at a public school must not engage in classroom discussion or provide classroom instruction regarding sexual orientation or gender identity to students in kindergarten through grade 8."
+      ],
+      "last_bill_action": "2026-02-23"
+    },
+    {
+      "bill_number": "SF3979",
+      "description": "Preserving Girls Sports Act establishment",
+      "state": "MN",
+      "status": 1,
+      "title": "Preserving Girls Sports Act establishment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A school-sponsored interscholastic, intramural, or club athletic team must be expressly designated as one of the following categories of teams based on the biological sex of team members at birth: (1) males; (2) females; or (3) coeducational. [...] The membership of athletic teams or sports designated for females must only be open to participants who were biological females at birth."
+      ],
+      "last_bill_action": "2026-02-26"
+    },
+    {
+      "bill_number": "SF4243",
+      "description": "Gender-affirming medical care and certain counseling prohibition for minors in the state of Minnesota",
+      "state": "MN",
+      "status": 1,
+      "title": "Gender-affirming medical care and certain counseling prohibition for minors in the state of Minnesota",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No health care provider shall knowingly provide gender-affirming care to a minor within the state of Minnesota."
+      ],
+      "last_bill_action": "2026-03-09"
+    },
+    {
+      "bill_number": "SF4912",
+      "description": "Prohibit gender-affirming medical care and certain counseling for minors in the state of Minnesota",
+      "state": "MN",
+      "status": 1,
+      "title": "Prohibit gender-affirming medical care and certain counseling for minors in the state of Minnesota",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Prohibition of gender-affirming care and certain counseling for minors. (a) No health care provider shall knowingly provide gender-affirming care to a minor within the state of Minnesota. (b) No public funds, including medical assistance or other Minnesota health care programs, shall be used to provide gender-affirming care to a minor."
+      ],
+      "last_bill_action": "2026-03-26"
+    },
+    {
+      "bill_number": "SF5017",
+      "description": "Prohibition repeal on conversion therapy with minors and vulnerable adults",
+      "state": "MN",
+      "status": 1,
+      "title": "Prohibition repeal on conversion therapy with minors and vulnerable adults",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Repealing prohibition on conversion therapy with minors and vulnerable adults. [...] Conversion therapy means any practice by a mental health practitioner [...] that seeks to change an individual's sexual orientation or gender identity, including efforts to change behaviors or gender expressions or to eliminate or reduce sexual or romantic attractions or feelings toward individuals of the same gender [...] Minnesota Statutes 2024, section 214.078, is repealed"
+      ],
+      "last_bill_action": "2026-04-09"
+    },
+    {
+      "bill_number": "SF5043",
+      "description": "Statute of limitations elimination for causes of action on gender-affirming care for minor children",
+      "state": "MN",
+      "status": 1,
+      "title": "Statute of limitations elimination for causes of action on gender-affirming care for minor children",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A cause of action involving gender-affirming care for a minor child is not subject to the statute of limitations [...] \"gender-affirming care\" means any medical or surgical intervention, including but not limited to hormone therapy, puberty blockers, or gender reassignment surgery intended to affirm an individual's perceived gender identity when it differs from the individual's biological sex as determined at birth."
+      ],
+      "last_bill_action": "2026-04-09"
+    },
+    {
+      "bill_number": "SF5167",
+      "description": "Prohibition repeal on conversion therapy with minors and vulnerable adults",
+      "state": "MN",
+      "status": 1,
+      "title": "Prohibition repeal on conversion therapy with minors and vulnerable adults",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Repealing prohibition on conversion therapy with minors and vulnerable adults; [...]  \"Conversion therapy\" means any practice by a mental health practitioner [...] that seeks to change an individual's sexual orientation or gender identity, including efforts to change behaviors or gender expressions or to eliminate or reduce sexual or romantic attractions or feelings toward individuals of the same gender."
+      ],
+      "last_bill_action": "2026-04-16"
+    },
+    {
+      "bill_number": "SF5247",
+      "description": "Protecting Families and Children Act Establishment",
+      "state": "MN",
+      "status": 1,
+      "title": "Protecting Families and Children Act Establishment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This act prohibits gender transition procedures for minors, including puberty blockers, cross-sex hormones, and surgeries that alter or remove healthy sex organs or secondary sex characteristics."
+      ],
+      "last_bill_action": "2026-04-29"
+    },
+    {
+      "bill_number": "SF55",
+      "description": "Parent's Bill of Right Act",
+      "state": "MN",
+      "status": 1,
+      "title": "Parent's Bill of Right Act",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This state, any political subdivision of this state, or any other governmental entity or institution shall not infringe on the fundamental rights of a parent to direct the upbringing, well-being, education, and physical and mental healthcare of the parent's minor child without demonstrating that the potential infringement of parental rights is reasonable and necessary to achieve a compelling state interest, and that the potential infringement of parental rights is narrowly tailored and is not otherwise served by a less restrictive means. [...] Including but not limited to the right to: (1) exercise freedom of choice in the minor child's education in accordance with compulsory instruction requirements [...] (2) access and review all school records relating to the minor child;"
+      ],
+      "last_bill_action": "2025-01-16"
+    },
+    {
+      "bill_number": "SF716",
+      "description": "Drag performances as adult entertainment classification",
+      "state": "MN",
+      "status": 1,
+      "title": "Drag performances as adult entertainment classification",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) \"adult entertainment establishment\" means a business that is open only to adults and that presents: [...] (ii) live drag performances; [...] (4) \"drag performance\" means a performance: (i) in which one or more performers: (A) exhibits a gender identity that is different from the performer's gender assigned at birth using clothing, makeup, or other accessories that are traditionally worn by members of and are meant to exaggerate the gender identity of the performer's opposite sex; and (B) sings, lip-synchs, dances, or otherwise performs before an audience of at least two persons for entertainment, whether performed for payment or not; and (ii) that is intended to appeal to the prurient interest;"
+      ],
+      "last_bill_action": "2025-01-27"
+    },
+    {
+      "bill_number": "SF744",
+      "description": "Therapies and procedures performed for the treatment of gender dysphoria in minors prohibition",
+      "state": "MN",
+      "status": 1,
+      "title": "Therapies and procedures performed for the treatment of gender dysphoria in minors prohibition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "All licensed or regulated health care providers are prohibited from the following when treating gender dysphoria in minors: (1) performing or assisting with sex reassignment surgery or any other surgical procedures that alters primary or secondary sexual characteristics; and (2) prescribing, dispensing, or administering puberty blocking hormones or hormone antagonist therapies."
+      ],
+      "last_bill_action": "2025-01-30"
+    },
+    {
+      "bill_number": "SF802",
+      "description": "Student physical privacy provision",
+      "state": "MN",
+      "status": 1,
+      "title": "Student physical privacy provision",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A person with a Y chromosome must not participate in a school athletic team designated for the female sex."
+      ],
+      "last_bill_action": "2025-01-30"
+    },
+    {
+      "bill_number": "SF886",
+      "description": "Biological definition of male and female establishment",
+      "state": "MN",
+      "status": 1,
+      "title": "Biological definition of male and female establishment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Gender is not synonymous with gender identity. [...] Gender has the meaning given to sex in subdivision 15, when used alone to refer to males, females, or the natural differences between males and females. Gender is not considered a synonym or shorthand expression for gender identity, experienced gender, gender expression, or gender role."
+      ],
+      "last_bill_action": "2025-02-03"
+    },
+    {
+      "bill_number": "SF916",
+      "description": "Female sports team participation to the female sex restriction",
+      "state": "MN",
+      "status": 1,
+      "title": "Female sports team participation to the female sex restriction",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Only students of the female sex may participate in an elementary or secondary school level athletic team or sport that an educational institution has restricted on the basis of sex to women or girls. If there is a dispute as to whether a student is of the female sex, the student must present a signed physician's statement indicating the student's sex that is based solely on: (1) the student's internal and external reproductive anatomy; (2) the student's naturally occurring level of testosterone; and (3) an analysis of the student's chromosomes."
+      ],
+      "last_bill_action": "2025-02-03"
+    }
+  ],
+  "year": "2026"
+}

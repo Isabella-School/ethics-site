@@ -1,0 +1,127 @@
+{
+  "state": "New Jersey",
+  "stateAbbreviation": "NJ",
+  "bills": [
+    {
+      "bill_number": "A1605",
+      "description": "Prohibits board of education from providing instruction in family life education, sex education, sexual health, sexual orientation, or gender identity to students in preschool through grade four.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Prohibits board of education from providing instruction in family life education, sex education, sexual health, sexual orientation, or gender identity to students in preschool through grade four.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A board of education shall not provide instruction in family life education, sex education, sexual health, sexual orientation, or gender identity to students enrolled in preschool through grade four."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "A3021",
+      "description": "\"Children Innocence Protection Act.\"",
+      "state": "NJ",
+      "status": 1,
+      "title": "\"Children Innocence Protection Act.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Classroom instruction by school district personnel or third parties on [...] gender identity shall not occur in any manner in kindergarten through grade five in any school of a school district."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "A3135",
+      "description": "Establishes \"Parents' Bill of Rights.\"",
+      "state": "NJ",
+      "status": 1,
+      "title": "Establishes \"Parents' Bill of Rights.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Procedures for the parent to withdraw the parent's minor child out of the school district's comprehensive health education that relates to sex education or instruction regarding sexuality, sexual orientation, and sexual transitioning, if the parent provides a written objection to the minor child's participation, and for the parent to be notified in advance of such course content so that the parent may withdraw the parent's minor child from those portions of the course."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "A4776",
+      "description": "Establishes \"Parents' Bill of Rights Act\"; requires disclosure of certain information to parents and guardians.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Establishes \"Parents' Bill of Rights Act\"; requires disclosure of certain information to parents and guardians.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The parent or guardian of a student enrolled in a public school [...] shall have the fundamental right to [...] inquire and receive information about any changes to a student's asserted gender identity, pronouns, preferred name, and requests to participate on an athletic team or in other activities organized by sex or gender"
+      ],
+      "last_bill_action": "2026-03-19"
+    },
+    {
+      "bill_number": "A532",
+      "description": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An objection to a learning material or activity on the basis that it is harmful includes, but is not limited to, an objection that the material or activity questions, violates, or conflicts with the parent or guardian's belief or practice regarding sex, sexuality, sexual orientation, gender identity or expression, conscience, ethics, morality, or religion."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "A673",
+      "description": "\"Fairness in Women's Sports Act.\"",
+      "state": "NJ",
+      "status": 1,
+      "title": "\"Fairness in Women's Sports Act.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill requires that participation in school-sanctioned sports be based on biological sex at birth. It provides that public and nonpublic schools, as well as institutions of higher education, designate athletic or sports teams on the basis of biological sex. The bill also prohibits any athletic teams or sports designated for females, women, or girls from being open to male students."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "S1335",
+      "description": "Removes diversity and inclusion instruction requirements for students in grades kindergarten through eight.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Removes diversity and inclusion instruction requirements for students in grades kindergarten through eight.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill removes the requirement that school districts provide instruction on diversity and inclusion in the curriculum of students in grades kindergarten through eight as part of the implementation of the New Jersey Student Learning Standards. This bill also removes the requirement that the instruction on diversity and inclusion includes an examination of the impact that unconscious bias has at both an individual level and on society as a whole."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "S3231",
+      "description": "Requires adoption of joint resolution before Attorney General files amicus brief in any state or federal court in which State is not party.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Requires adoption of joint resolution before Attorney General files amicus brief in any state or federal court in which State is not party.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "In recent months, New Jersey's Attorney General Matt Platkin has filed and supported several amicus briefs, including one in which he joined 19 other states in urging the United States Supreme Court to block Tennessee's ban on gender-affirming care for transgender youth. [...] granting the Attorney General the authority to file amicus briefs without prior approval from the Governor and the Legislature risks misrepresenting the State's views and priorities. [...] The Attorney General shall not file an amicus brief in any case before a state or federal court in which the State of New Jersey is not a party unless a joint resolution is adopted by the Senate and General Assembly and signed by the Governor."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "S854",
+      "description": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+      "state": "NJ",
+      "status": 1,
+      "title": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An objection to a learning material or activity on the basis that it is harmful includes, but is not limited to, an objection that the material or activity questions, violates, or conflicts with the parent or guardian's belief or practice regarding sex, sexuality, sexual orientation, gender identity or expression, conscience, ethics, morality, or religion."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "S856",
+      "description": "\"Fairness in Women's Sports Act.\"",
+      "state": "NJ",
+      "status": 1,
+      "title": "\"Fairness in Women's Sports Act.\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "This bill requires that participation in school-sanctioned sports be based on biological sex at birth."
+      ],
+      "last_bill_action": "2026-01-13"
+    }
+  ],
+  "year": "2026"
+}

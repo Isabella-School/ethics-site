@@ -1,0 +1,31 @@
+{
+  "state": "Hawaii",
+  "stateAbbreviation": "HI",
+  "bills": [
+    {
+      "bill_number": "HB2513",
+      "description": "Prohibits medical procedures and the distribution of hormones or puberty blockers for the purpose of allowing a minor to change their sex to correlate with an identified gender. Allows for certain exceptions. Creates both a private and state right of action. Outlines sanctions through the proper licensing authority for violations.",
+      "state": "HI",
+      "status": 1,
+      "title": "Relating To Health Care For Minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A healthcare provider shall not knowingly perform or offer to perform on a minor, or administer or offer to administer to a minor, a medical procedure if the performance or administration of the procedure is for the purpose of: (1) Enabling a minor to identify with, or live as, a purported identity inconsistent with the minor's sex; or (2) Treating purported discomfort or distress from a discordance between the minor's sex and asserted identity."
+      ],
+      "last_bill_action": "2026-01-28"
+    },
+    {
+      "bill_number": "HB258",
+      "description": "Requires the Department of Education to implement a supplemental sports program for high school students in West Oahu.",
+      "state": "HI",
+      "status": 1,
+      "title": "Relating To School Sports.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Supplemental sports program. (a) There is created under the department of education a supplemental sports program for high school students in west Oahu [...] (f) Sports to be included in the supplemental sports program include but are not limited to football, basketball, volleyball, baseball, tennis, swimming, water polo, cross country, softball, and track & field. (g) The supplemental sports program shall have teams divided by biological gender for each sport."
+      ],
+      "last_bill_action": "2025-01-16"
+    }
+  ],
+  "year": "2026"
+}

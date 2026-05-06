@@ -1,0 +1,67 @@
+{
+  "state": "South Dakota",
+  "stateAbbreviation": "SD",
+  "bills": [
+    {
+      "bill_number": "HB1116",
+      "description": "Prohibit a video streaming service from transmitting certain advertising during children's programming and provide a penalty therefor.",
+      "state": "SD",
+      "status": 1,
+      "title": "Prohibit a video streaming service from transmitting certain advertising during children's programming and provide a penalty therefor.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A video streaming service may not transmit during any children's programming any commercial advertisement that discusses, promotes, or contains imagery related to: [...] (5) Gender identity;"
+      ],
+      "last_bill_action": "2026-01-23"
+    },
+    {
+      "bill_number": "HB1153",
+      "description": "Protect certain rights of healthcare providers.",
+      "state": "SD",
+      "status": 1,
+      "title": "Protect certain rights of healthcare providers.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A healthcare provider may not be required to participate in or pay for a medical service that violates the provider's conscience."
+      ],
+      "last_bill_action": "2026-01-27"
+    },
+    {
+      "bill_number": "HB1184",
+      "description": "Define man and woman throughout the state.",
+      "state": "SD",
+      "status": 4,
+      "title": "Define man and woman throughout the state.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Female,\" an individual who naturally has, had, will have, or would have, but for a congenital anomaly or intentional or unintentional disruption, the reproductive system that produces, transports, and utilizes eggs for fertilization; [...] \"Male,\" an individual who naturally has, had, will have, or would have, but for a congenital anomaly or intentional or unintentional disruption, the reproductive system that produces, transports, and utilizes sperm for fertilization; [...] Sex,\" except as used in chapters 22-24A and 22-24B, an individual's biological sex, either male or female;"
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "HCR6010",
+      "description": "Urging the Supreme Court of the United States to overturn the decision in Obergefell v. Hodges.",
+      "state": "SD",
+      "status": 1,
+      "title": "Urging the Supreme Court of the United States to overturn the decision in Obergefell v. Hodges.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Marriage as an institution has been recognized as the union of one man and one woman for more than two thousand years, and within common law, the basis of the United States' Anglo-American legal tradition, for more than 800 years [...] Obergefell arbitrarily and unjustly rejected this definition of marriage in favor of a novel, flawed interpretation of key clauses within the Constitution and our nation's legal and cultural precedents."
+      ],
+      "last_bill_action": "2026-01-29"
+    },
+    {
+      "bill_number": "SB190",
+      "description": "Codify the rights of a parent.",
+      "state": "SD",
+      "status": 2,
+      "title": "Codify the rights of a parent.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A parent has the right to: [...] make and consent to all physical and mental health care decisions for the parent's minor child; [...] (4) Access and review all medical records of the parent's minor child; [...] (d) Is notified of any instruction in or presentation on the topics of gender roles, gender identity, gender expression, or sexual orientation; (e) Provides consent to having the parent's minor child receive instruction in or attends a presentation on the topics of gender roles, gender identity, gender expression, or sexual orientation; (f) May object to any specific instruction or presentation provided to the parent's minor child; (g) May withdraw the parent's minor child from any specific instruction or presentation if the parent considers the instruction or presentation harmful to the parent's minor child; and (h) Provides consent before the parent's minor child may use a name or nickname other than the minor child's legal name or a derivative or diminutive of the minor child's legal name."
+      ],
+      "last_bill_action": "2026-01-29"
+    }
+  ],
+  "year": "2026"
+}

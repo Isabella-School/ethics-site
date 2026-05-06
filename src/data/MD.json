@@ -1,0 +1,55 @@
+{
+  "state": "Maryland",
+  "stateAbbreviation": "MD",
+  "bills": [
+    {
+      "bill_number": "HB356",
+      "description": "Prohibiting a governmental authority, under certain circumstances, from burdening a person's exercise of religion; and authorizing a person aggrieved by a violation of the Act to obtain certain relief in a civil action.",
+      "state": "MD",
+      "status": 1,
+      "title": "Human Relations - Protection of the Free Exercise of Religion",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental authority may not substantially burden a person's exercise of religion even if the burden results from a rule of general applicability [...] A governmental authority may substantially burden a person's exercise of religion only if the governmental authority demonstrates that application of the burden to the person is: (1) in furtherance of a compelling governmental interest; and (2) the least restrictive means of furthering that compelling governmental interest."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB63",
+      "description": "Requiring certain interscholastic and intramural junior varsity and varsity athletic teams or sports sponsored by certain schools and certain locker rooms to be expressly designated based on biological sex; prohibiting certain entities from taking certain adverse actions against a school for maintaining separate interscholastic and intramural junior varsity and varsity athletic teams or sports or locker rooms for students of the female sex; etc.",
+      "state": "MD",
+      "status": 1,
+      "title": "Education - Interscholastic and Intramural Junior Varsity and Varsity Teams and Locker Rooms - Designation Based on Sex (Fairness in Girls' Sports Act)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural junior varsity or varsity athletic team or sport [...] designated for girls, females, or women may not include students of the male sex."
+      ],
+      "last_bill_action": "2025-09-04"
+    },
+    {
+      "bill_number": "HB679",
+      "description": "Prohibiting a licensed health care practitioner from prescribing, dispensing, or administering a cross-sex hormone or otherwise providing cross-sex hormone therapy for the treatment of a mental health diagnoses associated with gender nonconformity, including gender dysphoria, to an individual who is a minor.",
+      "state": "MD",
+      "status": 1,
+      "title": "Health Occupations - Cross-Sex Hormone Therapy for Minors",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care practitioner licensed under this article may not prescribe, dispense, or administer cross-sex hormones or otherwise provide cross-sex hormone therapy for the purposes of treating a mental health diagnosis associated with gender nonconformity, including gender dysphoria, to an individual who is a minor."
+      ],
+      "last_bill_action": "2026-02-02"
+    },
+    {
+      "bill_number": "SB50",
+      "description": "Requiring certain interscholastic and intramural junior varsity and varsity athletic teams or sports sponsored by certain schools to be expressly designated in a certain manner; prohibiting certain interscholastic and intramural junior varsity and varsity athletic teams or sports from including certain students; prohibiting certain entities from taking certain adverse actions against a school under certain circumstances; etc.",
+      "state": "MD",
+      "status": 1,
+      "title": "Education - Interscholastic and Intramural Junior Varsity and Varsity Teams and Sports - Designation (Fairness in Girls' Sports Act)",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An interscholastic or intramural junior varsity or varsity athletic team or sport designated for girls, females, or women may not include students of the male sex."
+      ],
+      "last_bill_action": "2025-10-08"
+    }
+  ],
+  "year": "2026"
+}

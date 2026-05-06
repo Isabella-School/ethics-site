@@ -1,0 +1,67 @@
+{
+  "state": "Rhode Island",
+  "stateAbbreviation": "RI",
+  "bills": [
+    {
+      "bill_number": "H7732",
+      "description": "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT - Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+      "state": "RI",
+      "status": 1,
+      "title": "Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Athletic teams or sports designated for females, women, or girls shall not be open to students of the male sex."
+      ],
+      "last_bill_action": "2026-02-12"
+    },
+    {
+      "bill_number": "S2293",
+      "description": "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT - Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+      "state": "RI",
+      "status": 1,
+      "title": "Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Interscholastic, intercollegiate, intramural, or club athletic teams or sports that are sponsored by a public school or any public school district activities association or a public institution of higher education or any higher education institution that is a member of the national collegiate athletic association (NCAA), national association of intercollegiate athletics (NAIA), or national junior college athletic association (NJCAA) shall be expressly designated as one of the following based on biological sex."
+      ],
+      "last_bill_action": "2026-01-23"
+    },
+    {
+      "bill_number": "S2483",
+      "description": "HEALTH AND SAFETY -- MEDICAL ETHICS DEFENSE ACT - Establishes the right of healthcare providers and payers to refuse to engage in medical services that violate their conscience.",
+      "state": "RI",
+      "status": 1,
+      "title": "Establishes the right of healthcare providers and payers to refuse to engage in medical services that violate their conscience.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A medical practitioner, healthcare institution, or healthcare payer has the right not to participate in or pay for any medical procedure or service which violates their conscience."
+      ],
+      "last_bill_action": "2026-02-06"
+    },
+    {
+      "bill_number": "S2598",
+      "description": "HEALTH AND SAFETY -- RHODE ISLAND'S CHILDREN DESERVE HELP NOT HARM ACT -- MINOR'S GENDER TRANSITION - Prohibits gender transition procedures for all minors, uses of public funds, discipline for health care providers, a 30 year statute of limitation, after reaching age of majority, and right to a civil action for damages.",
+      "state": "RI",
+      "status": 1,
+      "title": "Prohibits gender transition procedures for all minors, uses of public funds, discipline for health care providers, a 30 year statute of limitation, after reaching age of majority, and right to a civil action for damages.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A physician or other healthcare professional shall not provide gender transition procedures to any individual under eighteen (18) years of age."
+      ],
+      "last_bill_action": "2026-02-13"
+    },
+    {
+      "bill_number": "S2790",
+      "description": "EDUCATION -- SAVE WOMEN’S SPORTS ACT - Mandates that athletic teams that are sponsored by a public school or a private school whose teams compete against a public school, be designated as (1) \"males\", \"men\" or \"boys\"; (2) \"females\", \"women\" or \"girls\"; or (3) \"coed\" or \"mixed\".",
+      "state": "RI",
+      "status": 1,
+      "title": "Mandates that athletic teams that are sponsored by a public school or a private school whose teams compete against a public school, be designated as (1) \"males\", \"men\" or \"boys\"; (2) \"females\", \"women\" or \"girls\"; or (3) \"coed\" or \"mixed\".",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Each interscholastic or intramural athletic team or sport that is sponsored by a public school or a private school whose students or teams compete against a public school shall be expressly designated as one of the following based on the biological sex of the students who participate on the team or in the sport: (1) \"Males\", \"men\" or \"boys\"; (2) \"Females\", \"women\" or \"girls\"; or (3) \"Coed\" or \"mixed\"."
+      ],
+      "last_bill_action": "2026-03-04"
+    }
+  ],
+  "year": "2026"
+}

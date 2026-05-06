@@ -1,0 +1,115 @@
+{
+  "state": "Washington",
+  "stateAbbreviation": "WA",
+  "bills": [
+    {
+      "bill_number": "HB1027",
+      "description": "Concerning housing of inmates in state correctional facilities.",
+      "state": "WA",
+      "status": 1,
+      "title": "Concerning housing of inmates in state correctional facilities.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An inmate may not be housed in a correctional facility that primarily houses persons of a different biological sex than that of the inmate if the inmate has previously been convicted of a sex offense as defined in RCW 9.94A.030 against a victim whose biological sex is the same as those persons who are primarily housed in that correctional facility."
+      ],
+      "last_bill_action": "2024-12-10"
+    },
+    {
+      "bill_number": "HB1038",
+      "description": "Prohibiting puberty blocking medications, cross-sex hormones, and gender transition surgeries for minors.",
+      "state": "WA",
+      "status": 1,
+      "title": "Prohibiting puberty blocking medications, cross-sex hormones, and gender transition surgeries for minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider licensed under this title may not knowingly engage in or cause any of the following practices to be performed on a minor if the practice is performed for the purpose of attempting to alter the appearance of, or affirm the minor's perception of, the minor's gender or sex, if that appearance or perception is inconsistent with the minor's sex: (a) Prescribing or administering [...] drugs used to block the androgen receptor, or any drug to suppress or delay normal puberty; (b) Prescribing or administering testosterone, estrogen, or progesterone to a minor in an amount greater than would normally be produced endogenously in a healthy individual of that individual's age and sex;"
+      ],
+      "last_bill_action": "2024-12-11"
+    },
+    {
+      "bill_number": "HB1629",
+      "description": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
+      "state": "WA",
+      "status": 1,
+      "title": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An inmate being housed in a correctional facility shall not be assigned to share a room or cell with any other person of a different biological sex than that of the inmate if the inmate has a history of sexual or physical violence against a victim whose biological sex is the same as the other person assigned to the room or cell."
+      ],
+      "last_bill_action": "2025-01-27"
+    },
+    {
+      "bill_number": "HB1699",
+      "description": "Defending equity in interscholastic sports.",
+      "state": "WA",
+      "status": 1,
+      "title": "Defending equity in interscholastic sports.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Policies, procedures, rules, and other requirements [...] may prohibit biologically male students from competing with and against female students in athletic activities with separate classifications for male and female students if the athletic activity is: (a) Intended for female students; and (b) An individual or team competition activity. (2) A dispute regarding a student's sex must be resolved by the school district by requesting that the student provide a health examination and consent form or other statement signed by the student's personal health care provider that verifies the student's biological sex. The health care provider may verify the student's biological sex as part of a routine sports physical examination relying only on one or more of the following: The student's reproductive anatomy, genetic makeup, or normal endogenously produced testosterone levels."
+      ],
+      "last_bill_action": "2025-01-29"
+    },
+    {
+      "bill_number": "HB1959",
+      "description": "Eliminating the office of equity.",
+      "state": "WA",
+      "status": 1,
+      "title": "Eliminating the office of equity.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Eliminating the office of equity [...] The legislature finds that government should prioritize funding for safe streets, excellent schools, protection of the most vulnerable, [...] This is only possible when the tax burden placed upon the people is limited to what is necessary to fund essential needs and services [...] If the office of equity has strong public support, it could be reconstituted to operate as a nonprofit organization but will no longer be serviced at taxpayer expense."
+      ],
+      "last_bill_action": "2025-02-11"
+    },
+    {
+      "bill_number": "SB5012",
+      "description": "Concerning the organization of interscholastic athletics.",
+      "state": "WA",
+      "status": 1,
+      "title": "Concerning the organization of interscholastic athletics.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Interschool athletic activities [...] must be organized using the following groupings for the purposes of participation and competition: (a) Students who have the same kind of sex chromosome (xx) who identify as a woman or girl; (b) Students who have the same kind of sex chromosome (xx) who identify as a man or boy; (c) Students who have two different kinds of sex chromosomes (xy) who identify as a man or boy; (d) Students who have two different kinds of sex chromosomes (xy) who identify as a woman or girl"
+      ],
+      "last_bill_action": "2024-12-03"
+    },
+    {
+      "bill_number": "SB5097",
+      "description": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "state": "WA",
+      "status": 1,
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The competitiveness rules adopted under this section must [... ensure] ample opportunities for all student athletes to participate in appropriately competitive events and contests that align with the skill level of the competitors regardless of gender identity; and (b) Appropriately consider the effects of physiological and hormonal variation among athletes as it relates to the competitiveness and safety of events and contests, which may include rules that permit the exclusion of individual competitors from girls' athletics events and contests where the competitor would have an unfair advantage based on endocrine characteristics."
+      ],
+      "last_bill_action": "2024-12-20"
+    },
+    {
+      "bill_number": "SB5136",
+      "description": "Protecting the rights of parents and guardians by using students' given names in public schools.",
+      "state": "WA",
+      "status": 1,
+      "title": "Protecting the rights of parents and guardians by using students' given names in public schools.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(a) An employee or contractor may not use a name to address a student other than the name listed on a student's birth certificate, or derivatives thereof, without the written permission of a student's parents or guardians."
+      ],
+      "last_bill_action": "2025-01-03"
+    },
+    {
+      "bill_number": "SB6191",
+      "description": "Limiting state medicaid coverage for transition-related surgical and nonsurgical interventions to only adults.",
+      "state": "WA",
+      "status": 1,
+      "title": "Limiting state medicaid coverage for transition-related surgical and nonsurgical interventions to only adults.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The authority may not purchase or contract the following services for individuals under the age of 18 even if the individual has a gender dysphoria diagnosis: Breast augmentation procedures, including but not limited to breast reductions and breast implants; sex reassignment or confirmation surgery; puberty suppression therapy; and hormone therapy, including but not limited to presurgical and postsurgical hormone therapy."
+      ],
+      "last_bill_action": "2026-01-16"
+    }
+  ],
+  "year": "2026"
+}

@@ -1,0 +1,631 @@
+{
+  "state": "Missouri",
+  "stateAbbreviation": "MO",
+  "bills": [
+    {
+      "bill_number": "HB1607",
+      "description": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~The provisions of this section shall expire on August 28, 2027.~~"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1608",
+      "description": "Modifies provisions relating to gender transition procedures",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to gender transition procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider shall not knowingly perform a gender transition surgery on any individual under eighteen years of age. [...] A health care provider shall not knowingly prescribe or administer cross-sex hormones or puberty-blocking drugs for the purpose of a gender transition for any individual under eighteen years of age. [...] The performance of a gender transition surgery or the prescription or administration of cross-sex hormones or puberty-blocking drugs to an individual under eighteen years of age in violation of this section shall be considered unprofessional conduct and any health care provider doing so shall have his or her license to practice revoked."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1609",
+      "description": "Enacts provisions governing flags displayed in public school classrooms",
+      "state": "MO",
+      "status": 1,
+      "title": "Enacts provisions governing flags displayed in public school classrooms",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public school may display any or all of the following flags in such public school's classrooms: (a) The flag of the United States; (b) The official flag of the state of Missouri; (c) The POW/MIA flag; or (d) The flag of the public school [...] (2) Except for the flags listed in subdivision (1) of this subsection, no flag shall be displayed in public school classrooms."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1663",
+      "description": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "state": "MO",
+      "status": 2,
+      "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No private school, public school district, public charter school, or public or private institution of postsecondary education shall allow any student to compete in an athletics competition that is designated for the biological sex opposite to the student's biological sex as correctly stated on the student's official birth certificate [...] A private school, public school, public charter school, or public or private institution of postsecondary education may allow a female student to compete in an athletics competition that is designated for male students if no corresponding athletics competition designated for female students is offered or available."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1672",
+      "description": "Modifies provisions relating to gender transition procedures",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to gender transition procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider shall not knowingly perform a gender transition surgery on any individual under eighteen years of age. [...] A health care provider shall not knowingly prescribe or administer cross-sex hormones or puberty-blocking drugs for the purpose of a gender transition for any individual under eighteen years of age. [...] The performance of a gender transition surgery or the prescription or administration of cross-sex hormones or puberty-blocking drugs to an individual under eighteen years of age in violation of this section shall be considered unprofessional conduct and any health care provider doing so shall have his or her license to practice revoked."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1702",
+      "description": "Modifies provisions relating to sexually oriented businesses",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to sexually oriented businesses",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Adult cabaret performance, a performance that appeals to a prurient interest in a location other than an adult cabaret that features topless dancers, go-go dancers, exotic dancers, strippers, male or female impersonators who provide entertainment, or similar entertainers, regardless of whether performed for consideration;"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1779",
+      "description": "Establishes the \"Defining SEX Act\"",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes the \"Defining SEX Act\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Gender\", when used alone, rather than with or as an adjective modifying other words, in preexisting state law, administrative rules, or guidelines to refer to males, females, or the natural differences between males and females, shall not be considered a synonym or shorthand expression for 'gender identity (an internal sense of gender)', 'experienced gender', 'gender expression', or 'gender role'. [...] 'Gender identity', if used in state law, administrative rules, or guidelines, shall not be considered a synonym or substitute for 'sex' or 'gender'."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1854",
+      "description": "Modifies provisions relating to gender transition procedures",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to gender transition procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(3) The provisions of this subsection shall expire on August 28, 2027.~~"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1893",
+      "description": "Establishes immunity from civil liability for certain actions taken by private schools related to access to restrooms or changing areas",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes immunity from civil liability for certain actions taken by private schools related to access to restrooms or changing areas",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(2) 'Sex', the physical condition of being male or female based on genetics and physiology as identified on the individual's original birth certificate. [...] A private school that serves students in prekindergarten to grade twelve may establish, to ensure privacy and safety, one or more multiple-occupancy restrooms or changing areas designated as follows: (1) For the exclusive use of the male sex; or (2) For the exclusive use of the female sex."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1973",
+      "description": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No private school, public school district, public charter school, or public or private institution of postsecondary education shall allow any student to compete in an athletics competition that is designated for the biological sex opposite to the student's biological sex as correctly stated on the student's official birth certificate [...] A private school, public school, public charter school, or public or private institution of postsecondary education may allow a female student to compete in an athletics competition that is designated for male students if no corresponding athletics competition designated for female students is offered or available."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB1998",
+      "description": "Prohibits educational institutions from using state funding for diversity, equity, and inclusion purposes",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits educational institutions from using state funding for diversity, equity, and inclusion purposes",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No educational institution shall use state funding for the implementation, teaching, or support of DEI programs or initiatives."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB2009",
+      "description": "Appropriates money for the expenses, grants, refunds, and distributions of the Department of Corrections",
+      "state": "MO",
+      "status": 2,
+      "title": "Appropriates money for the expenses, grants, refunds, and distributions of the Department of Corrections",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No funds shall be expended for any cross-sex hormones, or gender transition surgery undertaken for the purpose of any gender transition."
+      ],
+      "last_bill_action": "2026-01-22"
+    },
+    {
+      "bill_number": "HB2033",
+      "description": "Modifies provisions relating to gender transition procedures",
+      "state": "MO",
+      "status": 2,
+      "title": "Modifies provisions relating to gender transition procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(3) The provisions of this subsection shall expire on August 28, 2027.~~"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB2065",
+      "description": "Repeals provisions relating to gender transition procedures",
+      "state": "MO",
+      "status": 1,
+      "title": "Repeals provisions relating to gender transition procedures",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "There shall be no payments made under this section for gender transition surgeries, cross-sex hormones, or puberty-blocking drugs [...] for the purpose of a gender transition. [...] The performance of a gender transition surgery or the prescription or administration of cross-sex hormones or puberty-blocking drugs to an individual under eighteen years of age in violation of this section shall be considered unprofessional conduct and any health care provider doing so shall have his or her license to practice revoked."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB2075",
+      "description": "Establishes provisions for restroom designations in all public buildings",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions for restroom designations in all public buildings",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "An entity operating a public building shall not permit a member of the female biological sex to use a multi-occupancy facility that has been designated by the public building for the exclusive use of persons of the male biological sex only. [...] An entity operating a public building shall not permit a member of the male biological sex to use a multi-occupancy facility that has been designated by the public building for the exclusive use of persons of the female biological sex only. [...] A school shall not permit a member of the female biological sex to use a multi-occupancy facility that has been designated by the school for the exclusive use of students of the male biological sex only. [...] A school shall not permit a member of the male biological sex to use a multi-occupancy facility that has been designated by the school for the exclusive use of students of the female biological sex only."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB2076",
+      "description": "Modifies provisions relating to sex designation on driver's licenses, nondriver's licenses, and permits",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to sex designation on driver's licenses, nondriver's licenses, and permits",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Notwithstanding any other provision of law to the contrary, in order to obtain a driver's license, nondriver's license, or instruction permit issued under this chapter denoting a sex other than an applicant's biological sex assigned at birth, the applicant shall provide an amended birth certificate that reflects the sex designation requested."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "HB2314",
+      "description": "Creates provisions relating to unlawful discrimination in places of public accommodation",
+      "state": "MO",
+      "status": 1,
+      "title": "Creates provisions relating to unlawful discrimination in places of public accommodation",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "It shall be an unlawful discriminatory practice for a place of public accommodation to: (1) Designate any changing room or any restroom, other than a family restroom, for use by persons of both sexes; or (2) Allow any person to use a changing room or restroom that has been designated for use exclusively by persons of the opposite sex."
+      ],
+      "last_bill_action": "2025-12-09"
+    },
+    {
+      "bill_number": "HB2407",
+      "description": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Adult cabaret performance, a performance that appeals to a prurient interest in a location other than an adult cabaret that features topless dancers, go-go dancers, exotic dancers, strippers, male or female impersonators who provide entertainment, or similar entertainers, regardless of whether performed for consideration;"
+      ],
+      "last_bill_action": "2025-12-15"
+    },
+    {
+      "bill_number": "HB2417",
+      "description": "Establishes the \"Parents' Bill of Rights of 2026\"",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes the \"Parents' Bill of Rights of 2026\"",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No school district or charter school shall deny to the parent or guardian of a minor child any or all of the following rights: (1) The right to fully review, upon request, and make copies of, the curricula, books, and other educational materials used by the school attended by their minor child. [...] (5) The right to access all student records pertaining to their minor child generated by the school attended by their minor child or the school district that serves such school that concerns their minor child; [...] (9) The right to object to the instructional materials pertaining to diversity, equity, and inclusion used in their child's classroom based on the parent's beliefs that such materials are inappropriate for whatever reason and to be assured that such objectionable materials are not taught to the parent's child."
+      ],
+      "last_bill_action": "2025-12-15"
+    },
+    {
+      "bill_number": "HB2526",
+      "description": "Modifies provisions on sex-related classifications",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions on sex-related classifications",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Sex, if used to classify or describe a natural person, means the state of being either male or female as observed or clinically verified at birth. The term \"sex\" shall be interpreted in accordance with the following provisions: (a) There are only two sexes, and every individual is either male or female;"
+      ],
+      "last_bill_action": "2025-12-18"
+    },
+    {
+      "bill_number": "HB2536",
+      "description": "Establishes definitions and provisions for the protection of women",
+      "state": "MO",
+      "status": 2,
+      "title": "Establishes definitions and provisions for the protection of women",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No private school, public school district, public charter school, or public or private institution of postsecondary education shall allow any student to compete in an athletics competition that is designated for the biological sex opposite to the student's biological sex as correctly stated on the student's official birth certificate [...] no student shall share sleeping quarters with a member of the opposite sex [...] school personnel shall provide separate, private areas designated for use by persons based on their sex, and no person shall enter these private areas unless he or she is a member of the designated sex."
+      ],
+      "last_bill_action": "2025-12-18"
+    },
+    {
+      "bill_number": "HB2548",
+      "description": "Establishes provisions relating to covenant marriages",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions relating to covenant marriages",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "We solemnly declare that we believe that marriage is a covenant between one man and one woman who agree to live together as husband and wife for as long as they both live."
+      ],
+      "last_bill_action": "2025-12-22"
+    },
+    {
+      "bill_number": "HB2565",
+      "description": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No private school, public school district, public charter school, or public or private institution of postsecondary education shall allow any student to compete in an athletics competition that is designated for the biological sex opposite to the student's biological sex as correctly stated on the student's official birth certificate."
+      ],
+      "last_bill_action": "2025-12-22"
+    },
+    {
+      "bill_number": "HB2580",
+      "description": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a member of the opposite biological sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a member of the opposite biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-29"
+    },
+    {
+      "bill_number": "HB2973",
+      "description": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No private school, public school district, public charter school, or public or private institution of postsecondary education shall allow any student to compete in an athletics competition that is designated for the biological sex opposite to the student's biological sex as correctly stated on the student's official birth certificate"
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "HB3315",
+      "description": "Establishes provisions regulating the display of flags at public buildings",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions regulating the display of flags at public buildings",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2026-02-16"
+    },
+    {
+      "bill_number": "HCR49",
+      "description": "Rejects the Obergefell v. Hodges decision and calls upon the Supreme Court of the United States to reverse Obergefell v. Hodges",
+      "state": "MO",
+      "status": 1,
+      "title": "Rejects the Obergefell v. Hodges decision and calls upon the Supreme Court of the United States to reverse Obergefell v. Hodges",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "WHEREAS, marriage as an institution has been recognized as the union of one man and one woman for more than two thousand years [...] and within common law, the basis of the United States' Anglo-American legal tradition, for more than eight hundred years;"
+      ],
+      "last_bill_action": "2026-02-18"
+    },
+    {
+      "bill_number": "HCR50",
+      "description": "Rejects the Obergefell v. Hodges decision and calls upon the Supreme Court of the United States to reverse Obergefell v. Hodges",
+      "state": "MO",
+      "status": 1,
+      "title": "Rejects the Obergefell v. Hodges decision and calls upon the Supreme Court of the United States to reverse Obergefell v. Hodges",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "WHEREAS, marriage as an institution has been recognized as the union of one man and one woman for more than two thousand years [...] and within common law, the basis of the United States' Anglo-American legal tradition, for more than eight hundred years;"
+      ],
+      "last_bill_action": "2026-02-19"
+    },
+    {
+      "bill_number": "SB1010",
+      "description": "Modifies provisions relating to child protection, including child abuse and endangering a child",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to child protection, including child abuse and endangering a child",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "[The division] shall not investigate or conduct a family assessment for the sole reason that the child's parent, guardian, or other person responsible for the child's care, custody, and control refuses to affirm or otherwise recognize the child's sexual orientation or gender identity if such identity differs from the child's biological sex, as such term is defined in section 191.1720, or if he or she refuses to assist or consent to the child's gender transition, as such term is defined in section 191.1720."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1028",
+      "description": "Establishes provisions regarding elementary and secondary education",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions regarding elementary and secondary education",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No school district shall knowingly allow a student of the male sex who is enrolled in such public school to participate on a school-sponsored athletic team that is exclusively for students of the female sex."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1031",
+      "description": "Prohibits expenditures by state departments for certain diversity initiatives",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits expenditures by state departments for certain diversity initiatives",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No funds shall be expended by any department, division, or other entity of the state, or any political subdivision for intradepartmental programs, staffing, or other initiatives associated with \"diversity, equity, and inclusion\" or \"diversity, inclusion, and belonging.\""
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1085",
+      "description": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a gender different from their biological sex",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a gender different from their biological sex",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No staff member of any public school shall: (1) Participate in, support, or engage in any conduct that facilitates the social transition of any minor student, including any counseling of a minor student at [...] The use of alternative pronouns or names for the minor student, either in school records or otherwise; and The minor student's use of sex-segregated privacy facilities or participation in sex-differentiated school-sponsored activities;"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1141",
+      "description": "Creates provisions relating to the right to refuse to participate in certain medical treatment",
+      "state": "MO",
+      "status": 1,
+      "title": "Creates provisions relating to the right to refuse to participate in certain medical treatment",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No health care institution or any health care professional or other person shall be required to perform, assist, or participate in medical procedures, treatments, counseling, prescriptions, or surgeries related to sex reassignment or gender identity transitioning if such procedures, treatments, counseling, prescriptions, or surgeries are contrary to the established policy of, or the moral, ethical, or religious beliefs of, such health care institution, health care professional, or other person. [...] No person or institution shall be denied or discriminated against in any public or private employment by any means including, but not limited to, any adverse action related to hiring, promotion, advancement, transfer, licensing, education, training, or granting of hospital privileges or staff appointments on the grounds that the person or institution refuses to perform, assist, or participate in medical procedures, treatments, counseling, prescriptions, or surgeries related to sex reassignment or gender identity transitioning."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1164",
+      "description": "Establishes provisions relating to adult cabaret including civil liability for adult cabarets and the offense of engaging in an adult cabaret performance",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions relating to adult cabaret including civil liability for adult cabarets and the offense of engaging in an adult cabaret performance",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1190",
+      "description": "Modifies provisions relating to medical malpractice actions against health care providers for gender transition services",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to medical malpractice actions against health care providers for gender transition services",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1192",
+      "description": "Prohibits higher education accrediting agencies from considering diversity, equity, and inclusion practices",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits higher education accrediting agencies from considering diversity, equity, and inclusion practices",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A public postsecondary educational institution in this state, including all of the institution's programs, departments, divisions, offices, centers, colleges, and schools, and any person acting on behalf of any of the foregoing. 2. When taking any action involving the accreditation or renewal of accreditation of an institution of higher education, an accrediting agency shall not: (1) Base its accrediting decision in any way on a review or consideration of any diversity, equity, and inclusion practice or procedure; (2) Collect information related to any diversity, equity, and inclusion practice or procedure; or (3) Include any requirement related to any diversity, equity, and inclusion practice or procedure."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1193",
+      "description": "Prohibits expenditures by state departments for certain diversity initiatives",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits expenditures by state departments for certain diversity initiatives",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "All state departments are prohibited from expending funds, allocating funds, or making any other gifts or expenditures for intradepartmental programs, staffing, or other initiatives associated with \"diversity, equity, and inclusion\", \"diversity, inclusion, and belonging\", or any other initiative that promotes the differential treatment of any individual or group of individuals based on race, color, religion, sex, gender, sexual orientation, ethnicity, national origin, or ancestry including."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1199",
+      "description": "Prohibits certain diversity initiatives in public bodies",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits certain diversity initiatives in public bodies",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No funds shall be expended by any department, division, or other entity of the state, or any political subdivision for intradepartmental programs, staffing, or other initiatives associated with \"diversity, equity, and inclusion\" or \"diversity, inclusion, and belonging.\""
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1200",
+      "description": "Removes the expiration date on certain provisions relating to gender transition",
+      "state": "MO",
+      "status": 1,
+      "title": "Removes the expiration date on certain provisions relating to gender transition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "~~(3) The provisions of this subsection shall expire on August 28, 2027.~~"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1204",
+      "description": "Modifies provisions relating to prohibited discriminatory practices",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to prohibited discriminatory practices",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Sex, the two categories of humans, male and female, into which individuals are divided based on an individual's reproductive biology at birth and the individual's genome. The term \"sex\" shall not be construed to include sexual orientation or gender identity;"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1264",
+      "description": "Removes the expiration date on certain provisions relating to gender transition",
+      "state": "MO",
+      "status": 1,
+      "title": "Removes the expiration date on certain provisions relating to gender transition",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1278",
+      "description": "Prohibits elementary and secondary schools and institutions of postsecondary education from being members of athletic organizations that allow students to use performance enhancing drugs",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits elementary and secondary schools and institutions of postsecondary education from being members of athletic organizations that allow students to use performance enhancing drugs",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Courts have recognized that classification by sex is the only feasible classification to promote the governmental interest of providing opportunities for athletics for females. [...] <u>No private school, public school, public charter school, public school district, or public or private institution of postsecondary education shall be a member of, or remit any funds to, any statewide athletic activities association or national intercollegiate athletics organization that allows student athletes to use performance enhancing drugs.</u>"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1316",
+      "description": "Prohibits diversity-equity-inclusion requirements in school districts and charter schools",
+      "state": "MO",
+      "status": 1,
+      "title": "Prohibits diversity-equity-inclusion requirements in school districts and charter schools",
+      "session_sine_die": false,
+      "pull_quotes": [],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1333",
+      "description": "Establishes procedures for entering into and dissolving covenant marriages",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes procedures for entering into and dissolving covenant marriages",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) A written statement of the parties' intent to enter into a covenant marriage that shall be in the following form: [...] We solemnly declare that we believe that marriage is a covenant between one man and one woman who agree to live together as husband and wife for as long as they both live."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1334",
+      "description": "Establishes the Vulnerable Child Compassion and Protection Act prohibiting discussion of certain topics by school personnel",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes the Vulnerable Child Compassion and Protection Act prohibiting discussion of certain topics by school personnel",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No school official shall use a name to address a student other than the name registered by such student's parent during enrollment, or derivatives thereof, without the written permission of such student's parents."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1389",
+      "description": "Establishes a cause of action against business for violations of privacy in changing facilities or restrooms",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes a cause of action against business for violations of privacy in changing facilities or restrooms",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any individual may bring a cause of action against a business entity that has a policy allowing for individuals of one biological sex into changing facilities or restrooms designated for use by the opposite biological sex and in which the individual's privacy or expectation of privacy was violated in a changing facility or restroom of the business entity that matched the individual's biological sex by an individual of the opposite biological sex."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB1476",
+      "description": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Adult cabaret performance, a performance that appeals to a prurient interest in a location other than an adult cabaret that features topless dancers, go-go dancers, exotic dancers, strippers, male or female impersonators who provide entertainment, or similar entertainers, regardless of whether performed for consideration"
+      ],
+      "last_bill_action": "2025-12-29"
+    },
+    {
+      "bill_number": "SB1558",
+      "description": "Provides that private schools shall not be civilly liable for establishing single-sex restrooms and changing rooms",
+      "state": "MO",
+      "status": 1,
+      "title": "Provides that private schools shall not be civilly liable for establishing single-sex restrooms and changing rooms",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A private school that serves students in prekindergarten to grade twelve may establish, to ensure privacy and safety, one or more multiple-occupancy restrooms or changing areas designated as follows: (1) For the exclusive use of the male sex; or (2) For the exclusive use of the female sex."
+      ],
+      "last_bill_action": "2026-01-14"
+    },
+    {
+      "bill_number": "SB861",
+      "description": "Modifies provisions relating to gender transition",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to gender transition",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The performance of a gender transition surgery or the prescription or administration of cross-sex hormones or puberty-blocking drugs to an individual under eighteen years of age in violation of this section shall be considered unprofessional conduct and any health care provider doing so shall have his or her license to practice revoked. [...] The prescription or administration of cross-sex hormones or puberty-blocking drugs to an individual under eighteen years of age for the purpose of a gender transition shall be considered grounds for a cause of action against the health care provider."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB934",
+      "description": "Modifies provisions relating to amending birth certificates",
+      "state": "MO",
+      "status": 1,
+      "title": "Modifies provisions relating to amending birth certificates",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No certificate of birth shall be amended because the sex of an individual born in this state has been changed solely by nonsurgical means, including, but not limited to, hormone therapy, voice and speech therapy, or behavioral therapy. No certificate of birth shall be amended because the sex of the individual was changed for reasons other than a medically-verifiable disorder of sex development or to correct a typographical error."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SB948",
+      "description": "Provides that parents shall have the fundamental right to direct the upbringing, education, health care, and mental health of their children free from government interference",
+      "state": "MO",
+      "status": 1,
+      "title": "Provides that parents shall have the fundamental right to direct the upbringing, education, health care, and mental health of their children free from government interference",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A governmental authority shall not restrict the fundamental right of a parent to direct the upbringing, education, health care, and mental health of that parent's child, unless the governmental authority demonstrates that application of the restriction to the parent and the child is essential to further a compelling governmental interest and is the least restrictive means of furthering that compelling governmental interest."
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SJR69",
+      "description": "Amends the Constitution to assert the right of parents to participate in and direct the education of their children free from government interference",
+      "state": "MO",
+      "status": 1,
+      "title": "Amends the Constitution to assert the right of parents to participate in and direct the education of their children free from government interference",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "That the government shall not deny or infringe upon a parent's fundamental right to participate in and direct the education of his or her child. Such right shall include, but shall not be limited to, the following: [...] (3) The right to educate a child in a public school that does not teach students or train teachers or other staff members on: [...] (b) Diversity-equity-inclusion"
+      ],
+      "last_bill_action": "2025-12-01"
+    },
+    {
+      "bill_number": "SJR71",
+      "description": "Establishes provisions relating to reproductive health care",
+      "state": "MO",
+      "status": 1,
+      "title": "Establishes provisions relating to reproductive health care",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "No gender transition surgeries shall be knowingly performed on children under eighteen years of age and no cross-sex hormones or puberty-blocking drugs shall be knowingly prescribed or administered for the purpose of gender transition."
+      ],
+      "last_bill_action": "2025-12-01"
+    }
+  ],
+  "year": "2026"
+}

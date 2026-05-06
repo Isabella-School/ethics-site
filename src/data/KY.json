@@ -1,0 +1,115 @@
+{
+  "state": "Kentucky",
+  "stateAbbreviation": "KY",
+  "bills": [
+    {
+      "bill_number": "HB334",
+      "description": "Create new sections of KRS Chapter 61 to define \"boy,\" \"equal,\" \"female,\" \"girl,\" \"male,\" \"man,\" \"sex,\" and \"woman\"; prohibit any state or local law, regulation, ordinance, or policy from treating males or females unfairly from similiarly situated members of the opposite sex, but permit separation of the sexes if in the interest of maintaining safety, privacy, and fairness; provide a non-exhaustive list of examples of areas in which public entities may distinguish between the sexes; require any public school, public school district, state agency, department, local government, special district or any political subdivision of those entities that collects vital statistics to identify each person as either male or female; provide that the Act may be cited as the Kentucky Women's Bill of Rights.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to sex-based classifications.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Gender identity and other subjective terms are not synonyms or substitutes for sex. [...] There are only two (2) sexes, and every individual is either male or female."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "HB360",
+      "description": "Create a new section of KRS Chapter 525 to define \"adult performance\"; establish the offense of engaging in an adult performance; establish penalties; EMERGENCY.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to adult performances and declaring an emergency.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Adult performance\" means a live: [...] (b) Performance involving male or female impersonators who provide entertainment, whether or not performed for consideration, that: 1. To the average person, applying contemporary community standards, and taken as a whole, predominantly appeals to prurient interest in sexual conduct; 2. Depicts or describes sexual conduct in a patently offensive way; and 3. Taken as a whole, lacks serious literary, artistic, political, or scientific value."
+      ],
+      "last_bill_action": "2026-01-13"
+    },
+    {
+      "bill_number": "HB553",
+      "description": "Create a new section of KRS Chapter 311 to define terms; prohibit health care providers from accepting payment or reimbursement for gender transition services from a state or local government or Medicare; prohibit use of state or local government funds for the provision or subsidy of gender transition services; require licensing or certifying agencies to revoke a health care provider's license for a violation; direct that intentional violation by a public servant shall be a violation of KRS 522.030; amend KRS 15.241 to authorize the Attorney General to seek injunctive relief and penalties for a violation of gender transition services prohibitions; amend KRS 156.496 to prohibit family resource or youth services centers from providing or making referrals for gender transition services; amend KRS 39A.180 to prohibit suspension of gender transition services laws during an emergency; create new sections of Subtitle 17A of KRS Chapter 304, and KRS 205.6481 to 205.6495, and amend KRS 205.5365, 18A.225, 164.2871, and 304.17C-125, to prohibit publicly funded health plans, Medicaid, the Kentucky Children's Health Insurance Program (KCHIP), publicly funded limited health service benefit plans, the state employee health plan, and state postsecondary education institution self-insured health plans from providing payment or coverage for gender transition services; amend KRS 605.110 to direct that gender transition services are not authorized for a child committed to the custody of the Department of Juvenile Justice; state findings of the General Assembly relating to the purpose of the Act; apply certain provisions to health plans issued or renewed on or after the effective date of Act.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to gender transition services.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "A health care provider shall not: (a) Render gender transition services to any individual in the course and scope of employment by a state or local government; or (b) Seek or accept payment or reimbursement for the rendering of gender transition services to any individual from any of the following: 1. A state or local government, including: a. A person contracted with a state or local government to provide or administer a health plan; and b. A health plan offered or sponsored by a state or local government; or 2. A federal agency providing or administering Medicare benefits to or on behalf of a Medicare beneficiary in this state, including a: a. Person contracted with a federal agency to provide or administer Medicare benefits in this state; and b. Health plan that provides Medicare benefits that are publicly funded or subsidized."
+      ],
+      "last_bill_action": "2026-02-03"
+    },
+    {
+      "bill_number": "HB862",
+      "description": "Amend KRS 158.192 to require a local board of education to allow parents and guardians an opportunity to orally recite passages from materials, programs, or events that are subject to appeal; require immediate removal of the material, program, or event if the board denies a parent or guardian the opportunity to orally recite passages.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to materials, programs, or events alleged to be harmful to minors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "As used in this section, \"harmful to minors\" means materials, programs, or events that: [...] (c) Are patently offensive to prevailing standards regarding what is suitable for minors."
+      ],
+      "last_bill_action": "2026-03-03"
+    },
+    {
+      "bill_number": "HB867",
+      "description": "Create a new section of KRS Chapter 61 to ensure that privacy exists in public building multi-occupancy private spaces; identify consequences for using multi-occupancy private spaces designated for the opposite biological sex; identify exceptions for using multi-occupancy private space designated for the opposite biological sex; create cause of action for discrimination and retaliation against a person who makes a good-faith report.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to private spaces.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1)(a) \"Biological sex\" means the physical condition of being male or female, which is determined by a person's chromosomes and is identified at birth by a person's anatomy;"
+      ],
+      "last_bill_action": "2026-03-03"
+    },
+    {
+      "bill_number": "SB179",
+      "description": "Create new sections of KRS Chapter 61 to define \"boy,\" \"equal,\" \"female,\" \"girl,\" \"male,\" \"man,\" \"sex,\" and \"woman\"; prohibit any state or local law, regulation, ordinance, or policy from treating males or females unfairly from similiarly situated members of the opposite sex, but permit separation of the sexes if in the interest of maintaining safety, privacy, and fairness; provide a non-exhaustive list of examples of areas in which public entities may distinguish between the sexes; require any public school, public school district, state agency, department, local government, special district or any political subdivision of those entities that collects vital statistics to identify each person as either male or female; provide that the Act may be cited as the Kentucky Women's Bill of Rights.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to sex-based classifications.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Sex, when used in reference to a natural person: [...] 1. Refers to the biological sex of either male or female as observed or clinically verified at birth; 2. Is objective and fixed; and 3. Does not include gender identity or any other terms intended to convey a person's subjective sense of self. Gender identity and other subjective terms are not synonyms or substitutes for sex. [...] There are only two (2) sexes, and every individual is either male or female."
+      ],
+      "last_bill_action": "2026-02-10"
+    },
+    {
+      "bill_number": "SB283",
+      "description": "Amend KRS 205.5365 to make a technical correction.",
+      "state": "KY",
+      "status": 1,
+      "title": "AN ACT relating to Medicaid.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Department for Medicaid Services and any managed care organization [...] are hereby prohibited from expending any Medicaid funds on any of the following: (1) Cross-sex hormones when prescribed or administered primarily or solely for the treatment of gender dysphoria; and (2) Gender reassignment surgery to alter or remove physical or anatomical characteristics or features that are typical for and characteristic of a person's biological sex."
+      ],
+      "last_bill_action": "2026-02-27"
+    },
+    {
+      "bill_number": "SB351",
+      "description": "Amend KRS 161.030 to prohibit the Education Professional Standards Board from issuing or renewing certificates to individuals who have been treated for or diagnosed with a disorder that is excluded from the Americans with Disabilities Act of 1990; require certification and renewal applications to include a sworn statement that the applicant has never been treated for or diagnosed with any listed disorder; direct certain state medical licensing boards to promulgate administrative regulations to require licensees to diagnose the listed disorders based on the disorder definitions established in the Diagnostic and Statistical Manual of Mental Disorders (Third Edition, Revised); amend KRS 161.120 to include treatment for or a diagnosis with one of the listed disorders as grounds for revocation, suspension, or refusal to issue or renew certification by the Education Professional Standards Board; require the Education Professional Standards Board to investigate and respond to all complaints against a certificate holder alleging that the certificate holder exhibits easily identifiable behavioral signs or symptoms characteristic to a listed disorder; authorize the Education Professional Standards Board to compel a medical examination to evaluate whether a certificate holder meets the diagnostic criteria for a listed disorder, and require that the results be provided to the board as a condition of continued certification.",
+      "state": "KY",
+      "status": 6,
+      "title": "AN ACT relating to education professional certifications.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(9) (a) Certificates shall not be issued to, or renewed for, an individual who has been treated for or diagnosed with any disorder that is excluded from the Americans with Disabilities Act of 1990, 42 U.S.C. sec. 12101 et seq. by a licensed medical professional, as these disorders were defined in the Diagnostic and Statistical Manual of Mental Disorders (Third Edition, Revised), at the time that federal act was passed."
+      ],
+      "last_bill_action": "2026-03-02"
+    },
+    {
+      "bill_number": "SB72",
+      "description": "Create new sections of KRS Chapter 344 to ensure federal law relating to emergency medical treatment and the collection of evidence is not overridden; define terms; prohibit discrimination against health care professionals who decline to perform procedures that violate their conscience; grant health care professionals the right not to participate in services that violate their conscience; exempt health care professionals from liability for exercising these rights; prohibit hiring or licensing authorities from reprimanding health care professionals; require hiring or licensing authorities to provide complaints it has received to health care professionals; establish a civil cause of action for persons injured by violations; provide that the Act may be cited as the Health Care Heroes Recruitment and Retention Act; EMERGENCY.",
+      "state": "KY",
+      "status": 2,
+      "title": "AN ACT relating to the recruitment and retention of health care professionals and declaring an emergency.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) A health care professional or health care institution shall have the right to refuse to participate in any health care service which violates his, her, or its conscience. (2) A health care professional or health care institution shall not be liable civilly, criminally, or administratively for exercising his, her, or its right of conscience with respect to a health care service. (3) A health care professional or health care institution shall not be subject to discrimination in any manner by the Commonwealth, any of its political subdivisions, or any regulated health care entity as a result of his, her, or its decision to decline to participate in a health care service on the basis of conscience."
+      ],
+      "last_bill_action": "2026-01-12"
+    }
+  ],
+  "year": "2026"
+}

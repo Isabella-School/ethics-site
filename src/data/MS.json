@@ -1,0 +1,199 @@
+{
+  "state": "Mississippi",
+  "stateAbbreviation": "MS",
+  "bills": [
+    {
+      "bill_number": "HB1072",
+      "description": "An Act To Be Known As The \"voluntary Portable Benefit Plan Act\"; To Define Certain Terms; To Authorize A Hiring Party To Voluntarily Contribute Funds To The Portable Benefit Account Owned By An Independent Contractor; To Authorize A Hiring Party To Withhold Funds From The Compensation Owed To An Independent Contractor For The Contribution To The Person's Portable Benefit Account; To Authorize A Deduction From A Hiring Party's Taxable Income For Contributions To A Portable Benefit Account; To Exclude Contributions To A Portable Benefit Account From The Determination Of An Independent Contractor's Taxable Income; To Amend Sections 27-7-17 And 27-7-15, Mississippi Code Of 1972, In Conformity To The Provisions Of This Act; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Voluntary Portable Benefit Plan Act; create for contributions by hiring parties to independent contractors' portable benefit accounts.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(3) Individual nonbusiness deductions. (a) The amount allowable for individual nonbusiness itemized deductions for federal income tax purposes where the individual is eligible to elect, for the taxable year, to itemize deductions on his federal return except the following: [...] (v) The deduction for medical expenses for the provision of gender transition procedures as defined in Section 41-141-3."
+      ],
+      "last_bill_action": "2026-01-16"
+    },
+    {
+      "bill_number": "HB1154",
+      "description": "An Act To Amend Section 41-57-21, Mississippi Code Of 1972, To Provide That The Sex Designated On The Birth Certificate Shall Be The Sex Of The Child That Is Assigned At Birth; To Prohibit The State Registrar Of Vital Records From Changing The Sex On A Birth Certificate Unless It Is Clearly An Error That Is Verified By Medical Records From The Time Of Birth That Are Provided And Signed By One Of The Parents Of The Child Showing That The Sex Of The Child Was Not What Is Shown On The Birth Certificate, Or A Physician Or Other Person Who Delivered The Child Or Assisted In Delivering The Child Who Confirms That At The Time Of Birth, The Sex Of The Child Was Not What Is Shown On The Birth Certificate; To Amend Section 63-1-35, Mississippi Code Of 1972, To Provide That The Sex Of The Person Shown On The Driver's License Shall Be The Same As The Sex Shown On The Birth Certificate; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Birth certificate; sex designated on must be the sex assigned at birth, and cannot be changed unless it is verified as clearly an error.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The sex designated on the birth certificate shall be the sex of the child that is assigned at birth. The State Registrar of Vital Records shall not be authorized to change the sex on a birth certificate unless it is clearly an error."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB1200",
+      "description": "An Act To Establish The \"mississippi Safe Dorms Act\"; To Declare Legislative Findings Regarding Student Safety At State Institutions Of Higher Learning; To Define Relevant Terms; To Prohibit Students Registered Under The Sex Offender Registration Laws From Residing In On-campus Housing; To Prohibit Employees Of State Institutions Of Higher Learning From Entering Into Consensual Relationships With Students Over Whom They Have Authority; To Require State Institutions Of Higher Learning To Provide Single-sex Living Facilities And Require First-year Students To Reside In Such Facilities; To Establish Exceptions For Certain Persons Entering Single-sex Facilities; To Require Institutions To Develop Materials And Procedures To Educate Students And Staff About Policies To Reduce Sexual Assault Risks; To Authorize Students Aggrieved By Violations Of This Act To File Civil Actions For Relief And Damages; To Specify A One-year Limitation Period For Filing Such Suits; To Waive Immunity For State Institutions Of Higher Learning That Violate This Act; To Provide For The Severability Of This Act; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "MS Safe Dormitories Act; establish.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) State institutions of higher learning shall provide every student who lives on campus a single-sex living facility in which members of the opposite biological sex are not allowed as guests or visitors and are not allowed entry at any time, except in a designated public visiting room in the living facility. [...] (2) State institutions of higher learning shall require all first-year students, who are not married and under the age of twenty-one (21), to reside in a single-sex living facility in which members of the opposite biological sex are not allowed as guests or visitors and are not allowed entry at any time, except in a designated public visiting room in the living facility."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB1309",
+      "description": "An Act To Require School Administrators, Teachers, Counselors Or Other Personnel Of The School To Provide Written Notification To The Parent Or Legal Guardian Of Any Student Publicly Identifying At School As A Gender Or Pronoun That Does Not Align With The Child's Sex On Their Birth Certificate, Sex Assigned At Birth Or Using Sex-segregated School Programs And Activities Or School Facilities That Do Not Align With The Child's Sex Assignment At Birth, Within Seven Days Of Becoming Aware Of Such Conduct Or Request By The Affected Student; To Provide That No School Personnel Shall Be Disciplined Or Suffer Any Unlawful Reprisal For Refusing To Acknowledge A Student By A Preferred Gender, Or Pronoun That Is Inconsistent With The Child's Sex Assignment At Birth; To Provide That No Notice Shall Be Made To Parents Or Guardians For Communications Made Confidentially To School Counselors, Administrators, Teachers And Other Personnel Of The School; To Prescribe The Legislative Intent; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Gender dysmorphia; require school personnel to notify parents of students who request to be referred to as different gender.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Both parents [...] of a student enrolled in a public school shall be notified in writing within seven (7) days from the date any school administrator, teacher, counselor or other personnel of the school becomes aware that their child is doing either of the following: (i) Publicly identifying at school as a gender or pronoun that does not align with the child's sex on their birth certificate, sex assigned at birth; or (ii) Using sex-segregated school programs and activities, including athletic teams and competitions, or using facilities that do not align with the child's sex on their birth certificate, other official records or sex assigned at birth."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB1375",
+      "description": "An Act To Amend Section 41-57-21, Mississippi Code Of 1972, To Prohibit The State Registrar Of Vital Records From Changing The Sex On A Birth Certificate Unless It Is Clearly An Error That Is Verified By Medical Records From The Time Of Birth Or By A Physician Who Confirms That At The Time Of Birth, The Sex Of The Child Was Not What Is Shown On The Birth Certificate; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Birth certificate; prohibit change of sex on unless verified by medical records that sex of child is not what is shown on.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The State Registrar of Vital Records shall not be authorized to change the sex on a birth certificate unless it is clearly an error that is verified by medical records from the time of birth or by a physician who confirms that at the time of birth, the sex of the child was not what is shown on the birth certificate."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB1659",
+      "description": "An Act To Bring Forward Sections 37-191-1, 37-191-3, 37-191-5, 37-191-7, 37-191-9, 37-191-11, 37-191-13, 37-191-15 And 37-191-17, Mississippi Code Of 1972, Which Regulate Diversity, Equity And Inclusion In K-12, Universities And Colleges, For Purposes Of Amendment; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "DEI in K-12 and colleges and universities; bring forward sections that regulate.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Board of Trustees of State Institutions of Higher Learning, the Mississippi Community College Board, the Mississippi State Board of Education and the Mississippi Charter School Authorizer Board shall ensure that each institution, college and public school, as applicable, shall not: [...] 37-191-5.(f) Maintain any programs, including academic programs or courses, or offices that promote diversity, equity and inclusion, endorse divisive concepts or concepts promoting transgender ideology, gender-neutral pronouns, deconstruction of heteronormativity, gender theory, sexual privilege or any related formulation of these concepts; [...] 37-191-5.(i) Require any \"diversity training\" as defined in Section 37-191-3 or any other policies or procedures that result in any formal or informal education, seminars, workshops or institutional program that focus on increasing awareness or understanding of issues related to race, sex, color, gender identity, sexual orientation or national origin. [...] 37-191-7.(1) The State Department of Education, the Board of Trustees of State Institutions of Higher Learning, the Mississippi Community College Board and the Mississippi Charter School Authorizer Board shall recognize, teach and establish policies and curriculum in accordance with the definitions of the terms \"female,\" \"male\" and \"sex\" as provided in Section 1-3-85 and Section 41-141-3(a)."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB1685",
+      "description": "An Act To Require The School Board Of Each School District To Adopt A Policy Regulating The Content Of Books Made Available For Purchase By Students At School Book Fairs; To Require The Policy To Include Certain Provisions; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Book fairs; require school districts to adopt policy regulating content of books for sale.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Restrictions prohibiting the inclusion of books containing themes, characters or any references relating to [...] sexual orientation or gender identity;"
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "HB866",
+      "description": "An Act To Provide For The Establishment Of Portable Benefit Accounts For Independent Contractors; To Authorize A Hiring Party To Contribute Funds To The Portable Benefit Account For An Independent Contractor; To Provide That A Hiring Party May Withhold A Percentage Of Funds From The Compensation Owed To An Independent Contractor If Both Parties Agree To The Withholding In Writing; To Bring Forward Sections 27-7-16, 27-7-17 And 71-9-5, Mississippi Code Of 1972, For The Purpose Of Possible Amendment; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Portable benefit accounts; allow hiring party to contribute funds to for benefit plans for independent contractors.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(3) Individual nonbusiness deductions. (a) The amount allowable for individual nonbusiness itemized deductions for federal income tax purposes where the individual is eligible to elect, for the taxable year, to itemize deductions on his federal return except the following: [...] (v) The deduction for medical expenses for the provision of gender transition procedures as defined in Section 41-141-3."
+      ],
+      "last_bill_action": "2026-01-16"
+    },
+    {
+      "bill_number": "SB2322",
+      "description": "An Act To Amend Section 63-1-35, Mississippi Code Of 1972, To Provide That The Commissioner May Only Prescribe The Form Of License Issued Under This Article To Licensees Who Are Not United States Citizens Or Who Do Not Possess A Social Security Number If The Licensee Is Lawfully Present In The United States; To Provide That Such A License Shall Include A Designation That The Person Is Not A United States Citizen And That The License Shall Expire On The Date That The Person Is No Longer Lawfully Present In The United States; To Require Any New, Renewal Or Duplicate Driver's License, Temporary Driving Permit Or Commercial Driver's License Issued To A Person Under This Chapter To Bear A Designation Of The Sex Of The Individual Which Shall Be Consistent With The Sex Of The Individual Determined At Birth; To Provide That A Driver's License, Or Other Permit Purporting To Authorize The Holder To Operate A Motor Vehicle On Public Roadways, Issued By Another State Or Jurisdiction To A Person Unable To Prove Lawful Presence In The United States When The License Or Permit Is Issued, Shall Be Invalid In This State And Does Not Authorize The Holder To Operate A Motor Vehicle In This State; To Require A Peace Officer Who Stops A Person Driving Or Using Such An Invalid License To Issue A Citation To The Driver And Refer The Person To The United States Immigration And Customs Enforcement Agency; To Require A Justice Court Judge, License Examiner, Or Any Authorized Employee Of The Commissioner Who Encounters A Person Using Such An Invalid License To Refer The Person To The United States Immigration And Customs Enforcement Agency; To Require The Department Of Public Safety To Adopt Rules And Regulations To Implement This Section; To Provide For Severability; And For Related Purposes.",
+      "state": "MS",
+      "status": 4,
+      "title": "Driver's license; amend provision related to.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "Any new, renewal or duplicate driver's license, temporary driving permit or commercial driver's license issued to a person under this chapter shall bear an indication of the sex of the individual which shall be consistent with the sex of the individual determined at birth. A court order that is inconsistent with this subsection shall have no effect upon issuance or renewal of a license under this chapter."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2342",
+      "description": "An Act To Enact The \"safe Dormitories Act\"; To Set The Legislative Findings And Definitions; To Provide That Any Public Building That Maintains Multiple-occupancy Dormitory Rooms Shall Provide Student Residents The Option To Be Housed Only In A Dormitory Room With Roommates Of The Same Sex; To Prohibit A Person From Entering Into A Dormitory Room Designated Exclusively For Use By Persons Of The Opposite Sex; To Set Certain Specific Exceptions Related To This Prohibition; To Require Any Applicable Governmental Entity To Establish Regulations And Disciplinary Procedures For Any Such Person; To Establish Certain Violations Of The Act; To Authorize Private Enforcement Of The Act And Causes Of Action; To Require The Attorney General To Bring An Action To Enforce Compliance With The Act; To Provide A Severability Clause To The Act; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Safe Dormitories Act; enact.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Legislature finds that females and males should be provided areas, including dormitories, for their exclusive use, respective to their sex, in order to maintain public safety, decency, decorum, and privacy."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2345",
+      "description": "An Act To Enact The Mississippi Safe Dormitories Act; To Present Legislative Findings; To Define Terms; To Prohibit Certain Students From Residing In A Living Facility Owned, Managed By Or Under The Authority Of A State Institution Of Higher Learning; To Prohibit Employees Of A State Institution From Entering Into Romantic, Sexual Or Intimate Relationships With Certain Students; To Stipulate Certain Guidelines Concerning On-campus Living; To Require State Institutions To Provide Certain Information About Institutional Policies To Interested Parties; To Create A Civil Action And Monetary Penalty For Violations Of This Act; To Create A Statute Of Limitations For Violations Of This Act; To Provide That State Institutions Of Higher Learning Are Not Immune From Suit Or Liability Under This Act; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Mississippi Safe Dormitories Act; enact.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(1) State institutions of higher learning shall provide every student who lives on campus a single-sex living facility in which members of the opposite biological sex are not allowed as guests or visitors and are not allowed entry at any time, except in a designated public visiting room in the living facility. [...] (2) State institutions of higher learning shall require all first-year students, who are not married and under the age of twenty-one (21), to reside in a single-sex living facility in which members of the opposite biological sex are not allowed as guests or visitors and are not allowed entry at any time, except in a designated public visiting room in the living facility."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2525",
+      "description": "An Act To Amend Section 37-191-3, Mississippi Code Of 1972, To Clarify That Student Activity Fees Paid By Students Are Not Considered State Funds; To Amend Section 37-191-9, Mississippi Code Of 1972, To Make Technical Nonsubstantive Amendments; To Bring Forward Sections 37-191-1, 37-191-5, 37-191-7, 37-191-11, 37-191-13, 37-191-15, And 37-191-17, Mississippi Code Of 1972, For Purposes Of Possible Amendment; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "DEI statements and policies; clarify that student activity fees paid by students are not state funds.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "(j) \"Gender identity\" reflects a fully internal and subjective sense of self, disconnected from biological reality and sex and existing on an infinite continuum, that does not provide a meaningful basis for identification and cannot be recognized as a replacement for sex."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2602",
+      "description": "An Act To Amend Section 37-191-5, Mississippi Code Of 1972, To Remove Section 37-191-3(d) From A List Of Prohibited Divisive Concepts; To Amend Section 37-191-9, Mississippi Code Of 1972, To Make Technical, Nonsubstantive Amendments; To Bring Forward Sections 37-191-1, 37-191-3, 37-191-7, 37-191-11, 37-191-13, 37-191-15 And 37-191-17, Mississippi Code Of 1972, For Purposes Of Possible Amendment; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Diversity, equity and inclusion; amend provisions concerning.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The Board of Trustees of State Institutions of Higher Learning, the Mississippi Community College Board, the Mississippi State Board of Education and the Mississippi Charter School Authorizer Board shall ensure that each institution, college and public school, as applicable, shall not: [...] Maintain any programs, including academic programs or courses, or offices that promote diversity, equity and inclusion, endorse divisive concepts or concepts promoting transgender ideology, gender-neutral pronouns, deconstruction of heteronormativity, gender theory, sexual privilege or any related formulation of these concepts;"
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2719",
+      "description": "An Act To Define The Terms \"adult Performance,\" \"performance Harmful To Minors,\" And \"obscenity\"; To Prohibit The Performance In Or Exhibition Of An Adult Performance On Public Property Or In A Location Where The Adult Performance Could Be Viewed By A Minor; To Prohibit A State Agency Or Political Subdivision From Exhibiting Or Funding, In Whole Or In Part With Public Funds, An Adult Performance; To Create A Civil Cause Of Action As A Remedy For Violation Of This Section; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Adult performances; prohibit in a location where minors could view, create cause of action.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "\"Adult performance\" means any performance that is an obscene performance or a performance harmful to minors, including any such performance that features: (v) Male or female impersonators"
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SB2735",
+      "description": "An Act To Amend Section 43-13-115, Mississippi Code Of 1972, To Make Certain Technical Amendments To The Provisions That Provide For Medicaid Eligibility And To Modify Age And Income And Eligibility Criteria To Reflect The Current Criteria; To Provide That Men Of Reproductive Age Are Eligible Under The Family Planning Program; To Conform With Federal Law To Allow Children In Foster Care To Be Eligible Until Their 26th Birthday; To Eliminate The Requirement That The Division Must Apply To Cms For Waivers To Provide Services For Certain Individuals Who Are End Stage Renal Disease Patients On Dialysis, Cancer Patients On Chemotherapy Or Organ Transplant Recipients On Antirejection Drugs; To Amend Section 43-13-117, Mississippi Code Of 1972, To Make Certain Technical Amendments To The Provisions That Provide For Medicaid Services To Comply With Federal Law; To Enable Rural Hospitals To Elect Against Reimbursement For Outpatient Hospital Services Using The Ambulatory Payment Classification (apc) Methodology; To Authorize The Division To Make Payment To Nursing Facilities And To Intermediate Care Facilities For Each Day, Not Exceeding 21 Days Per Year For Nursing Facilities Or 31 Days Per Year For Intermediate Care Facilities, That A Patient Is Absent From The Facility On Home Leave; To Require The Division To Update The Case-mix Payment System And Fair Rental Reimbursement System As Necessary To Maintain Compliance With Federal Law; To Authorize The Division To Implement A Quality Or Value-based Component To The Nursing Facility Payment System; To Require The Division To Reimburse Pediatricians For Certain Primary Care Services As Defined By The Division At 100% Of The Rate Established Under Medicare; To Authorize The Division To Reimburse Ambulatory Surgical Care (asc) Based On 85% Of The Medicare Asc Payment System Rate In Effect July 1 Of Each Year As Set By Cms; To Provide That The Division May Develop Alternative Models For Distribution Of Medical Claims And Supplemental Payments For Inpatient And Outpatient Hospital Services; To Authorize The Division To Contract With The State Department Of Health To Provide For A Perinatal High Risk-management/infant Services System For Any Eligible Beneficiary That Cannot Receive Such Services Under A Different Program; To Authorize The Division To Reimburse For Services At Certified Community Behavioral Health Centers; To Delete The Provision Of Law That Provides That The Division Shall Reimburse For Outpatient Hospital Services Provided To Eligible Medicaid Beneficiaries Under The Age Of 21 Years By Border City University-affiliated Pediatric Teaching Hospitals, Which Was Repealed By Operation Of Law In 2024; To Reduce The Length Of Notice The Division Must Provide The Medicaid Committee Chairmen For Proposed Rate Changes And To Provide That Such Legislative Notice May Be Expedited; To Authorize The Division, Effective July 1, 2027, To Reimburse Ambulance Transportation Service Providers That Provide An Assessment, Triage Or Treatment For Eligible Medicaid Beneficiaries; To Set Certain Reimbursement Levels For Such Providers; To Delete The Date Of The Repealer On Such Section; To Amend Section 43-13-121, Mississippi Code Of 1972, To Authorize The Division To Extend Its Medicaid Enterprise System And Fiscal Agent Services, Including All Related Components And Services, Contracts In Effect On June 30, 2026, For Additional Contract Periods At The Discretion Of The Division; To Authorize The Division To Enter Into A Two-year Contract Ending No Later Than June 30, 2028, With A Vendor To Provide Support Of The Division's Eligibility System; To Reduce The Length Of Notice The Division Must Provide The Medicaid Committee Chairmen For A Proposed State Plan Amendment And To Provide That Such Legislative Notice May Be Expedited; To Amend Section 43-13-305, Mississippi Code Of 1972, To Provide That When A Third Party Payor Requires Prior Authorization For An Item Or Service Furnished To A Medicaid Recipient, The Payor Shall Accept Authorization Provided By The Division Of Medicaid That The Item Or Service Is Covered Under The State Plan As If Such Authorization Were The Prior Authorization Made By The Third Party Payor For Such Item Or Service; To Amend Section 43-13-117.7, Mississippi Code Of 1972, To Provide That The Division Shall Not Reimburse Or Provide Coverage For Gender Transition Procedures For Any Person; To Amend Section 43-13-145, Mississippi Code Of 1972, To Provide That A Quarterly Hospital Assessment May Exceed The Assessment In The Prior Quarter By More Than $3,750,000.00 If Such Increase Is To Maximize Federal Funds That Are Available To Reimburse Hospitals For Services Provided Under New Programs For Hospitals, For Increased Supplemental Payment Programs For Hospitals Or To Assist With State Matching Funds As Authorized By The Legislature; To Amend Section 43-13-107, Mississippi Code Of 1972, To Establish A Medicaid Advisory Committee And Beneficiary Advisory Council In Accordance With Federal Law; To Provide That All Members Of The Previously Established Medical Care Advisory Committee Serving On January 1, 2026, Shall Be Selected To Serve On The Medicaid Advisory Committee, And Such Members Shall Serve Until July 1, 2029; And For Related Purposes.",
+      "state": "MS",
+      "status": 6,
+      "title": "Medicaid; make various amendments to the provisions of the program.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "The division shall not reimburse or provide coverage for gender transition procedures for any person under eighteen (18) years of age."
+      ],
+      "last_bill_action": "2026-01-19"
+    },
+    {
+      "bill_number": "SC532",
+      "description": "A Concurrent Resolution Calling Upon The Supreme Court Of The United States To Overturn The Obergefell V. Hodges Decision, And To Restore The Rights Of The State To Prescribe The Conditions For Marriage And The Dissolution Of Marriage.",
+      "state": "MS",
+      "status": 6,
+      "title": "Urge United States Supreme Court to overturn Obergefell decision and restore marriage rights to states.",
+      "session_sine_die": false,
+      "pull_quotes": [
+        "WHEREAS, marriage as an institution has been recognized as the union of one man and one woman for more than 2,000 years [...] and within common law, the basis of the United States' Anglo-American legal tradition. [...] The voters of the State of Mississippi defined marriage as the exclusive union of one man and one woman in a 2004 statewide initiative that passed with the support of 86% of voters;"
+      ],
+      "last_bill_action": "2026-02-20"
+    }
+  ],
+  "year": "2026"
+}
