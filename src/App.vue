@@ -128,6 +128,12 @@ function openState(data) {
             </template>
         </TwoArguments>
     </StackSplit>
+    <footer class="footer">
+        Legislative data obtained via
+        <a href="https://legiscan.com" target="_blank" rel="noopener noreferrer"
+            >LegiScan</a
+        >
+    </footer>
 </template>
 
 <style scoped>
